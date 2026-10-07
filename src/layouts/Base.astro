@@ -1,0 +1,93 @@
+---
+import '../styles/global.css';
+import { t, localizePath } from '../lib/i18n';
+import type { Lang } from '../lib/types';
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  path: string;
+}
+
+const { lang, title, description, path } = Astro.props;
+const site = Astro.site ?? new URL('https://roblox-codes-hub.vercel.app');
+const canonical = new URL(path, site).href;
+const altLang: Lang = lang === 'en' ? 'ru' : 'en';
+const altUrl = new URL(localizePath(path, altLang), site).href;
+const adsenseId = import.meta.env.PUBLIC_ADSENSE_CLIENT_ID as string | undefined;
+const gscVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION as string | undefined;
+const year = new Date().getFullYear();
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" hreflang="en" href={new URL(localizePath(path, 'en'), site).href} />
+    <link rel="alternate" hreflang="ru" href={altUrl} />
+    <link rel="alternate" hreflang="x-default" href={new URL(localizePath(path, 'en'), site).href} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    {gscVerification && <meta name="google-site-verification" content={gscVerification} />}
+    {
+      adsenseId && (
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`}
+          crossorigin="anonymous"
+        />
+      )
+    }
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: t(lang, 'site.name'),
+      description: t(lang, 'site.description'),
+      url: new URL(`/${lang}/`, site).href,
+      inLanguage: lang,
+    })} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href={`/${lang}/`}>Roblox<span>Codes</span>Hub</a>
+        <nav class="header-nav">
+          <a href={`/${lang}/`}>{t(lang, 'nav.games')}</a>
+          <a href={`/${lang}/about/`}>{t(lang, 'nav.about')}</a>
+          <a href={`/${lang}/disclaimer/`}>{t(lang, 'nav.disclaimer')}</a>
+          <a href={`/${lang}/privacy/`}>{t(lang, 'nav.privacy')}</a>
+        </nav>
+        <a class="lang-switch" href={localizePath(path, altLang)} hreflang={altLang}>
+          {t(lang, 'lang.switch')}
+        </a>
+      </div>
+    </header>
+
+    <main class="container">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-links">
+          <a href={`/${lang}/about/`}>{t(lang, 'nav.about')}</a>
+          <a href={`/${lang}/disclaimer/`}>{t(lang, 'nav.disclaimer')}</a>
+          <a href={`/${lang}/privacy/`}>{t(lang, 'nav.privacy')}</a>
+          <a href={`/${lang}/contact/`}>{t(lang, 'nav.contact')}</a>
+        </div>
+        <div>{t(lang, 'footer.about')}</div>
+        <div>{t(lang, 'footer.rights')}</div>
+        <div>© {year} {t(lang, 'site.name')}</div>
+      </div>
+    </footer>
+  </body>
+</html>

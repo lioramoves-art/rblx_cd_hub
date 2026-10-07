@@ -1,0 +1,6017 @@
+{
+  "updatedAt": "2026-10-07T14:29:27.836Z",
+  "games": {
+    "blox-fruits": {
+      "active": [
+        {
+          "code": "Axiore",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Bignews",
+          "reward": "In game Title “Big s”"
+        },
+        {
+          "code": "Bluxxy",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "CHANDLER",
+          "reward": "Redeem for $0 (simply a joke)"
+        },
+        {
+          "code": "EASTEREXP",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Enyu_is_Pro",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Fudd10",
+          "reward": "Redeem for $1"
+        },
+        {
+          "code": "fudd10_v2",
+          "reward": "Redeem for $2"
+        },
+        {
+          "code": "JCWK",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "KITT_RESET",
+          "reward": "Free Stat Refund"
+        },
+        {
+          "code": "kittgaming",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Magicbus",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Starcodeheo",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "StrawHatMaine",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "SUB2CAPTAINMAUI",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Sub2Daigrock",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Sub2Fer999",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "SUB2GAMERROBOT_EXP1",
+          "reward": "2x EXP for 30 minutes"
+        },
+        {
+          "code": "SUB2GAMERROBOT_RESET1",
+          "reward": "Free Stat Refund"
+        },
+        {
+          "code": "Sub2NoobMaster123",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Sub2OfficialNoobie",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "Sub2UncleKizaru",
+          "reward": "Free Stat Refund"
+        },
+        {
+          "code": "TantaiGaming",
+          "reward": "2x EXP for 20 minutes"
+        },
+        {
+          "code": "TheGreatAce",
+          "reward": "2x EXP for 20 minutes"
+        }
+      ],
+      "expired": [
+        "15B_BESTBROTHERS",
+        "1LOSTADMIN",
+        "24NOADMIN",
+        "ADMIN_STRENGTH",
+        "ADMIN_TROLL",
+        "ADMINDARES",
+        "ADMINFIGHT",
+        "ADMINHACKED",
+        "BANEXPLOIT",
+        "BossBuild",
+        "CODE_SERVICIO",
+        "CODESLIDE",
+        "DEVSCOOKING",
+        "DRAGONABUSE",
+        "E_SERVICIO",
+        "EARN_FRUITS",
+        "FIGHT4FRUIT",
+        "GetPranked",
+        "Gifting_hours",
+        "krazydares",
+        "LIGHTNINGABUSE",
+        "NEWTROLL",
+        "NOEXPLOITER",
+        "NOMOREHACK",
+        "NOOB2ADMIN",
+        "NOOB2PRO",
+        "rewardfun",
+        "SEATROLLING",
+        "SECRET_ADMIN",
+        "TRIPLEABUSE"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "grow-a-garden": {
+      "active": [
+        {
+          "code": "BEANORLEAVE10",
+          "reward": "Redeem for 1x Green Bean Chamber cosmetic"
+        },
+        {
+          "code": "RDCAward",
+          "reward": "Redeem for 1x RDC Award cosmetic"
+        }
+      ],
+      "expired": [
+        "LUNARGLOW10",
+        "torigate"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "dress-to-impress": {
+      "active": [
+        {
+          "code": "10BILLION",
+          "reward": "Heart Fork item"
+        },
+        {
+          "code": "1CON1CF4TMA",
+          "reward": "School uniform"
+        },
+        {
+          "code": "3NCHANTEDD1ZZY",
+          "reward": "Fairy Scepter"
+        },
+        {
+          "code": "ANGELT4NKED",
+          "reward": "Purple Cat Helmet"
+        },
+        {
+          "code": "ASHLEYBUNNI",
+          "reward": "Bunny slippers"
+        },
+        {
+          "code": "BELALASLAY",
+          "reward": "Jacket"
+        },
+        {
+          "code": "BHM26",
+          "reward": "Black Panther Party items"
+        },
+        {
+          "code": "C4LLMEHH4LEY",
+          "reward": "Headband and dress"
+        },
+        {
+          "code": "CA11MEHHALEY",
+          "reward": "Bear Set"
+        },
+        {
+          "code": "CH00P1E_1S_B4CK",
+          "reward": "Jacket, skirt, and shoes (with zeroes and not the letter O)"
+        },
+        {
+          "code": "D1ORST4R",
+          "reward": "Bow and purse"
+        },
+        {
+          "code": "ELLA",
+          "reward": "Pink skirt"
+        },
+        {
+          "code": "IBELLASLAY",
+          "reward": "Watermelon pigtails"
+        },
+        {
+          "code": "ITSJUSTNICHOLAS",
+          "reward": "Biker jacket"
+        },
+        {
+          "code": "KATSEYE",
+          "reward": "Katseye Set"
+        },
+        {
+          "code": "KITTYUUHH",
+          "reward": "Caseoh’s Cat"
+        },
+        {
+          "code": "KREEK",
+          "reward": "Beanie"
+        },
+        {
+          "code": "LABOOTS",
+          "reward": "Heeled boots"
+        },
+        {
+          "code": "LANA",
+          "reward": "Top, shorts, and leg warmers"
+        },
+        {
+          "code": "LANABOW",
+          "reward": "Pink hair bow"
+        },
+        {
+          "code": "LANADOLLDRESS",
+          "reward": "Reworked Lana Tutu"
+        },
+        {
+          "code": "LANATUTU",
+          "reward": "Free dress"
+        },
+        {
+          "code": "LEAHASHE",
+          "reward": "Jacket and sweatpants"
+        },
+        {
+          "code": "LIONDANCER",
+          "reward": "Lion Dancer Set"
+        },
+        {
+          "code": "LNY",
+          "reward": "dresses and last year’s items"
+        },
+        {
+          "code": "M3RM4ID",
+          "reward": "Mermaid tail and top"
+        },
+        {
+          "code": "MEGANPLAYSBOOTS",
+          "reward": "Glittery boots"
+        },
+        {
+          "code": "PIXIIUWU",
+          "reward": "Pixie dress"
+        },
+        {
+          "code": "S3M_0W3N_Y4Y",
+          "reward": "Staff/ Scythe/ Axe (it’s 0W3N with a zero and not the letter O)"
+        },
+        {
+          "code": "SUBM15CY",
+          "reward": "Lashes and necklace"
+        },
+        {
+          "code": "TEKKYOOZ",
+          "reward": "Pearl purse"
+        },
+        {
+          "code": "UMOYAE",
+          "reward": "Chappell Roan-inspired mini dress"
+        },
+        {
+          "code": "Vanillamace",
+          "reward": "Vanillamace item and pattern"
+        }
+      ],
+      "expired": [
+        "2026BADDIES",
+        "2GETHER",
+        "2YEARS",
+        "4BILLION",
+        "B3APL4YS_D0L1E",
+        "BADDIE4LIFE",
+        "CH00P1E_B4CK_AGA1N",
+        "CHERRY",
+        "CHOOPIE10K",
+        "CUPIDSCLOUD",
+        "DOLLISTA",
+        "DOLLISTAGRAM",
+        "ELPHABA",
+        "FACECARD",
+        "FASHION",
+        "GLINDA",
+        "HAPPYNEWYEAR",
+        "LNY2025",
+        "M0T0PRINCESSWAV",
+        "NY2025",
+        "PROUD",
+        "RDC2025",
+        "RDC2026",
+        "REWARD4CLASS1C",
+        "SWEETHEART",
+        "THEGAMES",
+        "VALENTINESDAY",
+        "WINTERUPDATE",
+        "YEAROFTHESNAKE"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "brookhaven": {
+      "active": [
+        {
+          "code": "1243143051",
+          "reward": "Jingle Oof"
+        },
+        {
+          "code": "1259050178",
+          "reward": "A Roblox Rap"
+        },
+        {
+          "code": "1305251774",
+          "reward": "Wii music"
+        },
+        {
+          "code": "130762736",
+          "reward": "Dubstep Remix (26k+)"
+        },
+        {
+          "code": "130778839",
+          "reward": "Everybody do the flop"
+        },
+        {
+          "code": "131154740",
+          "reward": "Harlem Shake"
+        },
+        {
+          "code": "1321038120",
+          "reward": "Billie Eilish, Ocean Eyes"
+        },
+        {
+          "code": "135308045",
+          "reward": "sad violin"
+        },
+        {
+          "code": "142376088",
+          "reward": "Parry Gripp – Raining Tacos"
+        },
+        {
+          "code": "143666548",
+          "reward": "Mii Channel Music"
+        },
+        {
+          "code": "154664102",
+          "reward": "You’ve Been Trolled"
+        },
+        {
+          "code": "165065112",
+          "reward": "Mako Beam (Proximity)"
+        },
+        {
+          "code": "169360242",
+          "reward": "Banana Song"
+        },
+        {
+          "code": "1725273277",
+          "reward": "Frank Ocean – Chanel"
+        },
+        {
+          "code": "1836448915",
+          "reward": "Irish Flute 30"
+        },
+        {
+          "code": "1837879082",
+          "reward": "Paradise Falls"
+        },
+        {
+          "code": "1845016505",
+          "reward": "Believer"
+        },
+        {
+          "code": "1845554017",
+          "reward": "Uptown"
+        },
+        {
+          "code": "1845793864",
+          "reward": "The Will to Fight A"
+        },
+        {
+          "code": "186317099",
+          "reward": "2Pac, Life Goes On"
+        },
+        {
+          "code": "189105508",
+          "reward": "Frozen – Let It Go"
+        },
+        {
+          "code": "1894066752",
+          "reward": "BTS, Fake Love"
+        },
+        {
+          "code": "212675193",
+          "reward": "Caillou Trap Remix"
+        },
+        {
+          "code": "224845627",
+          "reward": "The Kitty Cat Dance"
+        },
+        {
+          "code": "225150067",
+          "reward": "Baby Bash, Suga Suga"
+        },
+        {
+          "code": "249672730",
+          "reward": "Illijiah, On My Way"
+        },
+        {
+          "code": "2623209752",
+          "reward": "Ski Mask The Slump God, Nuketown"
+        },
+        {
+          "code": "2862170886",
+          "reward": "Old Town Road"
+        },
+        {
+          "code": "292861322",
+          "reward": "Snoop Dogg, Drop It Like It’s Hot"
+        },
+        {
+          "code": "3340674075",
+          "reward": "Lil Nas X, Panini"
+        },
+        {
+          "code": "3400778682",
+          "reward": "Pokémon Sword and Shield Gym theme"
+        },
+        {
+          "code": "398159550",
+          "reward": "Nightcore (Titanium)"
+        },
+        {
+          "code": "4591688095",
+          "reward": "Justin Bieber, Yummy"
+        },
+        {
+          "code": "4982789390",
+          "reward": "The Weeknd, Blinding Lights"
+        },
+        {
+          "code": "5145539495",
+          "reward": "Tina Turner, What’s Love Got to Do with It"
+        },
+        {
+          "code": "521116871",
+          "reward": "Doja Cat, Say So"
+        },
+        {
+          "code": "5253604010",
+          "reward": "Capone – Oh No"
+        },
+        {
+          "code": "5410086218",
+          "reward": "Crab Rave"
+        },
+        {
+          "code": "5595658625",
+          "reward": "Royal & the Serpent, Overwhelmed"
+        },
+        {
+          "code": "5619169255",
+          "reward": "The Weeknd, Save Your Tears"
+        },
+        {
+          "code": "5760198930",
+          "reward": "Clairo, Sofia"
+        },
+        {
+          "code": "5776344796",
+          "reward": "Jujutsu Kaisen OP – Eve"
+        },
+        {
+          "code": "587156015",
+          "reward": "Nightcore – Light ‘Em Up x Girl On Fire (S/V)"
+        },
+        {
+          "code": "591276362",
+          "reward": "BTS Fire"
+        },
+        {
+          "code": "5925841720",
+          "reward": "2Pac ft. Dr. Dre, California Love"
+        },
+        {
+          "code": "5937000690",
+          "reward": "Chikatto – Chika Chika"
+        },
+        {
+          "code": "614018503",
+          "reward": "Pink Fong, Baby Shark"
+        },
+        {
+          "code": "6159978466",
+          "reward": "Taylor Swift, You Belong With Me"
+        },
+        {
+          "code": "6177409271",
+          "reward": "Kim Dracula, Paparazzi"
+        },
+        {
+          "code": "6403599974",
+          "reward": "Kali Uchis, Telepatia"
+        },
+        {
+          "code": "6432181830",
+          "reward": "Glass Animals, Heat Wave"
+        },
+        {
+          "code": "6447077697",
+          "reward": "PinkPantheress, Pain"
+        },
+        {
+          "code": "6463211475",
+          "reward": "Tesher, Jalebi Baby"
+        },
+        {
+          "code": "6620108916",
+          "reward": "Lil Nas X, Call Me By Your Name"
+        },
+        {
+          "code": "6657083880",
+          "reward": "Doja Cat, Kiss Me More"
+        },
+        {
+          "code": "6678031214",
+          "reward": "Polo G, RAPSTAR"
+        },
+        {
+          "code": "6691673908",
+          "reward": "Rock – Dreams (ft. Young Thug)"
+        },
+        {
+          "code": "6760592191",
+          "reward": "Silk Sonic, Leave The Door Open"
+        },
+        {
+          "code": "6794553622",
+          "reward": "Syko, Brooklyn Blood Pop"
+        },
+        {
+          "code": "6815150969",
+          "reward": "The Kid LAROI ft. Justin Bieber, Stay"
+        },
+        {
+          "code": "6833920398",
+          "reward": "Olivia Rodrigo, Good 4 U"
+        },
+        {
+          "code": "6843558868",
+          "reward": "BTS, Butter"
+        },
+        {
+          "code": "6887728970",
+          "reward": "Rauw Alejandro, Todo De Ti"
+        },
+        {
+          "code": "6957372976",
+          "reward": "Bad Bunny, Yonaguni"
+        },
+        {
+          "code": "7020008209",
+          "reward": "iCarly freestyle"
+        },
+        {
+          "code": "9045389581",
+          "reward": "Midnight Carnival Alternate"
+        },
+        {
+          "code": "9119119619",
+          "reward": "Elevator music"
+        },
+        {
+          "code": "915288747",
+          "reward": "Oofing in the 90s"
+        },
+        {
+          "code": "926493242",
+          "reward": "Chill Jazz"
+        }
+      ],
+      "expired": [],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "adopt-me": {
+      "active": [
+        {
+          "code": "PROUDFROGCopy",
+          "reward": "Proud Frog Sticker"
+        }
+      ],
+      "expired": [
+        "1B1LL1ONV1S1TS",
+        "AMTRUCK2024",
+        "DiscordFTW",
+        "GIFTUNWRAP",
+        "M0N3YTR33S",
+        "SEAcreatures",
+        "subbethink",
+        "SUMMERBREAK",
+        "SUMMERSALE"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "pet-simulator-99": {
+      "active": [],
+      "expired": [
+        "BagOfDiamonds",
+        "BallonHoverboard",
+        "CatHoverboard",
+        "DamagePotionV",
+        "DPETUJ44AB89",
+        "ExclusiveDragonEgg",
+        "HDVR2X95RS6L",
+        "HugeCalestialDragon",
+        "HugeUnicornDragon",
+        "LuckyPotionV",
+        "pet-259e210a1b",
+        "pet-4060e7deb6",
+        "pet-45a33a2dca",
+        "pet-d67518012",
+        "PFB96CG9472D",
+        "S7MJHEKAABC8",
+        "TitanicFireDragon",
+        "VWJ33JE6SLED"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": null
+    },
+    "murder-mystery-2": {
+      "active": [],
+      "expired": [
+        "2015",
+        "AL3X",
+        "C0RL",
+        "COMB4T2",
+        "D3NIS",
+        "G003Y",
+        "G1FT3D",
+        "HW2017",
+        "INF3CT3D",
+        "N30N",
+        "PATR1CK",
+        "PR1SM",
+        "R3PT1L3",
+        "SK00L",
+        "SK3TCH",
+        "SUB0",
+        "TH3N3XTL3V3L"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": null
+    },
+    "jailbreak": {
+      "active": [
+        {
+          "code": "20KCASH4U",
+          "reward": "20,000 Cash"
+        },
+        {
+          "code": "8billion",
+          "reward": "18,888 cash"
+        },
+        {
+          "code": "9live2026",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "apr26",
+          "reward": "20000 Cash"
+        },
+        {
+          "code": "BigMac8241",
+          "reward": "555 Cash"
+        },
+        {
+          "code": "YoutubeHelloItsVG",
+          "reward": "HelloItsVG Tire Sticker"
+        },
+        {
+          "code": "YoutubeNoobFreak",
+          "reward": "NoobFreak Tire Sticker"
+        }
+      ],
+      "expired": [
+        "25CASH8",
+        "25pass50",
+        "4region4",
+        "4years",
+        "5Days",
+        "5days23",
+        "7years",
+        "80KLIKESJAILBIRD",
+        "9birthday9",
+        "9VOLT9",
+        "apr7",
+        "Balance",
+        "Birthday6",
+        "BOOM",
+        "cargo",
+        "cash21012",
+        "cashglobal",
+        "countdown",
+        "crewcode3",
+        "doggo",
+        "dreamhome",
+        "FALL2020",
+        "fall2021",
+        "feb2020",
+        "freepass21",
+        "hammerhead",
+        "JAILBIRDIANS",
+        "jailbreaks8",
+        "July2023",
+        "limited2025",
+        "manta",
+        "march2021",
+        "memes",
+        "minimustang",
+        "MOLTEN",
+        "museum",
+        "onehour",
+        "pixeeel",
+        "privatejet",
+        "rich100rich",
+        "sep23",
+        "SMILEYOVERHAUL",
+        "SOLIDGOLDWOOO",
+        "spring23",
+        "Spring24",
+        "stayhealthy",
+        "Summer23",
+        "summervibes",
+        "TOW",
+        "vipvip",
+        "wildest",
+        "Winter",
+        "Winter22",
+        "WinterUpdate2021"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "bee-swarm-simulator": {
+      "active": [
+        {
+          "code": "15MMembers",
+          "reward": "free reward"
+        },
+        {
+          "code": "38217",
+          "reward": "5 Tickets"
+        },
+        {
+          "code": "777",
+          "reward": "Grants Holliday Event Buff, Super Smoothie, Unlimited Gundrops for 7 minutes, 7 Red Boost, 7 White boost, 7 Blue Boost, 7 Focus, 7 Haze, 7 Precision, 7 Cocon…"
+        },
+        {
+          "code": "BeesBuzz123",
+          "reward": "1 Vial, 5 Berries, 10 Gumdrops"
+        },
+        {
+          "code": "BopMaster",
+          "reward": "5 tickets"
+        },
+        {
+          "code": "ClubBean",
+          "reward": "1 Magic Bean, Pineapple Patch Boost x 2"
+        },
+        {
+          "code": "Connoisseur",
+          "reward": "5 tickets"
+        },
+        {
+          "code": "Crawlers",
+          "reward": "5 tickets"
+        },
+        {
+          "code": "DiscordMillion",
+          "reward": "48-hour x2 Honeyday Event buff, 10 Mondo Chick Blessing, 2 Marshmallow Bee, and 1 Pink Balloon"
+        },
+        {
+          "code": "LatePresents",
+          "reward": "2 Presents"
+        },
+        {
+          "code": "Nectar",
+          "reward": "5,000 honey"
+        },
+        {
+          "code": "Roof",
+          "reward": "5 tickets"
+        },
+        {
+          "code": "ThreeBeeVee",
+          "reward": "48 hours of x2 Pollen and Convert Rate, 1 Loaded Dice, and Mountain Top Field boost"
+        }
+      ],
+      "expired": [
+        "10mMembers",
+        "1MLikes",
+        "2MLikes",
+        "6irthday",
+        "Banned",
+        "BeequipTradeReboot",
+        "BoxWhoops",
+        "Buzz",
+        "DemiDecade",
+        "Octobersmas",
+        "SonyXbox",
+        "Summersmas",
+        "Wax",
+        "WeekExtension",
+        "Wink"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "arsenal": {
+      "active": [
+        {
+          "code": "10YRS",
+          "reward": "Thumbnail Beret skin"
+        },
+        {
+          "code": "ANNA",
+          "reward": "unlocks Anna skin"
+        },
+        {
+          "code": "Bandites",
+          "reward": "unlocks Bandites announcer"
+        },
+        {
+          "code": "F00LISH",
+          "reward": "unlocks Jackeryz Skin"
+        },
+        {
+          "code": "FATE",
+          "reward": "teleports to a creepy map called ‘Fate’ with no other players."
+        },
+        {
+          "code": "FLAMINGO",
+          "reward": "unlocks Flamingo announcer"
+        },
+        {
+          "code": "GARCELLO",
+          "reward": "unlocks Garcello skin and kill effect"
+        },
+        {
+          "code": "goodnight",
+          "reward": "Thanks for Helping 🙂 Message"
+        },
+        {
+          "code": "JOHN",
+          "reward": "unlocks John announcer"
+        },
+        {
+          "code": "merrychristmas25",
+          "reward": "2500 Bucks"
+        },
+        {
+          "code": "PET",
+          "reward": "unlocks Petrify announcer"
+        },
+        {
+          "code": "POKE",
+          "reward": "unlocks Poke skin"
+        },
+        {
+          "code": "ROLVE",
+          "reward": "unlocks Rabblerouser skin"
+        },
+        {
+          "code": "scarybug",
+          "reward": "Herobrine Delinquent"
+        },
+        {
+          "code": "TRGTBOARD",
+          "reward": "unlocks Hoverboard taunt"
+        },
+        {
+          "code": "XONAE",
+          "reward": "unlocks Xonae announcer"
+        }
+      ],
+      "expired": [
+        "BLOXY",
+        "CBROX",
+        "EPRIKA",
+        "KITTEN",
+        "NEVERBROKEN",
+        "POG",
+        "TROLLFACE"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "blade-ball": {
+      "active": [
+        {
+          "code": "2BTHANKS",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "4BVISITS",
+          "reward": "Bubble Wand Sword"
+        },
+        {
+          "code": "BATTLEROYALE",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "DUNGEONSRELEASE",
+          "reward": "50 Dungeon Runes"
+        },
+        {
+          "code": "ENERGYSWORDS",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "FREESPINS",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "FROGS",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "GIVEMELUCK",
+          "reward": "4x Luck in AFK world for 10 minutes"
+        },
+        {
+          "code": "GOODVSEVIL",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "RAMADAN",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "RNGEMOTES",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "SHARKATTACK",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "SPOOKYSEASON",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "SUMMERSTARTSHERE",
+          "reward": "1x Free Spin"
+        },
+        {
+          "code": "SUMMERWHEEL",
+          "reward": "1x Free Spin"
+        }
+      ],
+      "expired": [
+        "1.5BTHANKS",
+        "5BVISITS",
+        "BPTEAMS",
+        "DELAYBALL",
+        "DRAGONS",
+        "EASTERHYPE",
+        "FALLINGLTM",
+        "GALAXYSEASON",
+        "GOODVSEVILMODE",
+        "LAVAFLOOR",
+        "LIVEEVENTS",
+        "LUNARNEWYEAR",
+        "MERRYXMAS",
+        "REBIRTHLTM",
+        "ROBLOXCLASSIC",
+        "SERPENT",
+        "SERPENT_HYPE",
+        "TOURNAMENTSW",
+        "UPD250COINS",
+        "UPDATE.DAY",
+        "VISITS_TY",
+        "XMAS",
+        "ZEROGRAVITY"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "shindo-life": {
+      "active": [
+        {
+          "code": "20NewCloaksAdded!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "2mLikesC0d3d!",
+          "reward": "40K RELLcoins and 400 Spins"
+        },
+        {
+          "code": "6YearsofShindoSoon!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "beforeWerecord!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "BoredomWillBeRescued!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "ButWelooktowardThe!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "FACEIDFIXUPD!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "FixingShindoBuggyTimes!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "FixUpdateIsOutEarly!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "forTheFuture!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "FutureAndRELLSeas!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "IsTheNextinLine!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "ItrulyDOMissTheseTimes!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "ItsTrulyLegendary!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "LetsGOOOO40k!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "neverENDING!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "NewBugPatchandFixes250!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "NewFREEFALLings2026!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "ofOurGames!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "OneOfaKind!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "PatchUpdate249point5!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "RELLGIFTbag!",
+          "reward": "Bloodline Bag"
+        },
+        {
+          "code": "RELLGIFTsc!",
+          "reward": "Server Creator"
+        },
+        {
+          "code": "RELLSeasMovie3!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "Shindo4Life2026!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "ShindoLife2026Peak!",
+          "reward": "25K RELLcoins and 250 Spins"
+        },
+        {
+          "code": "ThankYouAllTruly!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "ThankYouForPatience249Patch!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "TheCommunitygonnaEat!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "theWorkloadSeems!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "ThisPlatformaintReady!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "TickDamageBugs!",
+          "reward": "10K RELLcoins and 100 Spins"
+        },
+        {
+          "code": "TimeFliesForFiveYears!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "WalkingOnTheWalls!",
+          "reward": "25K RELLcoins and 250 Spins"
+        },
+        {
+          "code": "WeGotaLotofTestingtoDo!",
+          "reward": "5K RELLcoins and 50 Spins"
+        },
+        {
+          "code": "WePerfectedRELLSeas!",
+          "reward": "5K RELLcoins and 50 Spins"
+        }
+      ],
+      "expired": [
+        "5YearSL2!",
+        "5YearsOfShindoLife!",
+        "5YearsReleased!",
+        "ITSBeen5Years!",
+        "ShindoDownAGAIN2x!",
+        "ShindoLife5YearCodes!",
+        "ShindoLifeTakenDown!",
+        "Year5ShindoLife!"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "king-legacy": {
+      "active": [
+        {
+          "code": "2MFAV",
+          "reward": "Redeem for Free Stat Refund"
+        },
+        {
+          "code": "DinoxLive",
+          "reward": "Redeem for 100k Cash"
+        },
+        {
+          "code": "DragonColorRefund",
+          "reward": "Redeem for 50 Gems (if your old color was the original red, then you will only get 10 Gems)"
+        },
+        {
+          "code": "FREESTATSRESET",
+          "reward": "Redeem for Free Stat Refund"
+        },
+        {
+          "code": "Peodiz",
+          "reward": "Redeem for 100k Cash"
+        },
+        {
+          "code": "RainbowDragon",
+          "reward": "Redeem for 100 Gems (unlock rainbow dragon color before update seven)"
+        },
+        {
+          "code": "SKGames",
+          "reward": "Redeem for 2x EXP for 30 minutes (join the Sea King Games Roblox group to redeem)"
+        },
+        {
+          "code": "WELCOMETOKINGLEGACY",
+          "reward": "Redeem for 2x EXP for 30 minutes"
+        }
+      ],
+      "expired": [
+        "10KYZX-4LPQ8-WFJ",
+        "1MFAV",
+        "1MLikes",
+        "2023",
+        "2BVisits",
+        "300KLIKES",
+        "3xilescha1r",
+        "400KLIKES",
+        "500KLIKES",
+        "550KLIKES",
+        "600KFAV",
+        "650KLIKES",
+        "700KFAV",
+        "800KFAV",
+        "900KFAV",
+        "900KLIKES",
+        "950KLIKES",
+        "BeckyStyle",
+        "Craberno",
+        "delayedchristmas2022",
+        "DragonColorsUnlocked",
+        "DungeonBalance",
+        "DungeonBugFixed",
+        "EchoMelody",
+        "EchoOfNine",
+        "EpicAdventure",
+        "ExperienceDoubling",
+        "FIXEDBUG1003",
+        "FIXEDDROPBOOST",
+        "FreePterSpin",
+        "FreeQuakeSpin",
+        "FruitAwakeningTime",
+        "Halloween2023",
+        "Halloween2024",
+        "HYDRAGLYPHICS",
+        "InfernoKingAwaits",
+        "IslandQuestRepeat",
+        "KioruV2PowerUp",
+        "lagshallnotpass",
+        "OWNERMETEOR",
+        "PassiveMaster",
+        "Peodiz10k",
+        "PLAYKINGLEGACYFOR10GEMS",
+        "PlayKingLegacyFor5Gems",
+        "PvPArenaFun",
+        "QuakeSurprise",
+        "QuakeTsunamiBoost",
+        "RiseOfPhoenix",
+        "Serpent10",
+        "shutdownhotfix",
+        "SORRYFORSHUTDOWN",
+        "Sub2Leepungg",
+        "TelekinesisFruitPower",
+        "ThirdSeaAdventures",
+        "Thx4Waiting",
+        "THXFOR1BVISIT",
+        "Update2_17",
+        "Update2_5",
+        "Update3",
+        "Update3_17",
+        "UPDATE3.5",
+        "UPDATE4",
+        "UPDATE4.0.2",
+        "UPDATE4.5.0",
+        "UPDATE4.5.2",
+        "UPDATE4.5.3",
+        "Update4.6YAY",
+        "Update4.7",
+        "UPDATE5",
+        "Update7.0.4",
+        "Update7.1",
+        "Update7Release",
+        "Update8.0.4",
+        "Update8.0.5",
+        "Update8Release",
+        "X100KSuccess",
+        "YT100KLEGEND",
+        "YT10K",
+        "YT90KCELEBRATION"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "fruit-battlegrounds": {
+      "active": [
+        {
+          "code": "BIGMILLIHUNNID!",
+          "reward": "2000 Gems"
+        },
+        {
+          "code": "CODEFIX",
+          "reward": "Free Title"
+        },
+        {
+          "code": "HIGHER1M120K",
+          "reward": "800 Gems"
+        },
+        {
+          "code": "ITSTHEBILLION!",
+          "reward": "600 Gems"
+        },
+        {
+          "code": "YOO1M110K!",
+          "reward": "2000 Gems"
+        }
+      ],
+      "expired": [
+        "1M40KRAZY!!",
+        "1M50INSANE",
+        "1M60WOWZER",
+        "3LAPSED!",
+        "4BUNDANCY",
+        "4MPUTAT3",
+        "530GYAT",
+        "540DAYUM",
+        "550POGG",
+        "570FAVS",
+        "580FLAMES",
+        "650ISMADD!",
+        "710KOMG!!",
+        "730EXPLODE",
+        "750KINSANE!",
+        "760KISKRAZY",
+        "770KWOW!",
+        "810TIME!",
+        "830KBRO!",
+        "840MENTAL",
+        "860KHYPEE",
+        "930KINS4NITY",
+        "940KHAPPYDAYZ",
+        "950KOMGGG!",
+        "ANTICIPATION",
+        "AYO640K!",
+        "AYY1M30!",
+        "BAM700K",
+        "BIG1M170K!!",
+        "BIG8HUNDO!",
+        "BIGB1RD",
+        "BIGDAY",
+        "BIGUPDATE20",
+        "CLEANREB00T",
+        "CLOSERR990K!",
+        "COOKEDPASTRY!",
+        "CRASHL4NDING!",
+        "DAHUNT2024",
+        "FREEBOOT!",
+        "FREEBOTAGAIN",
+        "GLITTER780K",
+        "HAHA740K!",
+        "HIGH590",
+        "HOWLINGFALL!",
+        "HYPEE920K!",
+        "HYPEWHOLECAKE",
+        "IAMLEOPARD",
+        "ICEW0LF",
+        "ILOV3C4NDY",
+        "ITSTIME!!",
+        "JEEZ630",
+        "KOLDKRAZE!",
+        "LAGFIXX",
+        "LAVAPARTY",
+        "LETSGOO130K",
+        "LOL960K!",
+        "LVLBUFFHYPE",
+        "MAGNIFICENT890K!!",
+        "MILLITEN!",
+        "MOSTH4TED",
+        "N3WW0RLD!",
+        "NANAP0CALYPSE!",
+        "NEWBOUNTYERA!",
+        "NEWYEAR2025!!",
+        "OMG600K!!!",
+        "OMG9HUNDRED!",
+        "OMGBIGMILLI!!!",
+        "OMGREBOOTAGAIN",
+        "OMGUPDATE19!",
+        "OMGUPDATE22",
+        "pleasezakineedthis",
+        "POS1T1V1TY",
+        "POW680K!",
+        "REBOOTPART2",
+        "RIGHT720",
+        "SCORCHINGSUMMER",
+        "SHEEESH520!!",
+        "SHINE790K",
+        "SM4LLFRY",
+        "SORRY4DELAY",
+        "SORRYMOBILE",
+        "SPLENDID820",
+        "SPR34DL0V3",
+        "THANKSFORDAMILLY",
+        "THEMARINEHERO",
+        "THXFOR610!!",
+        "TIMEISVALUABLE",
+        "TRUEMENACE",
+        "UNLOCK690K!",
+        "UPDATE21!",
+        "VALENTINES2024",
+        "WINTAH2023",
+        "WINTER2024!",
+        "WORLDWAR2025",
+        "WOW1MIL20!",
+        "WOWZER620!",
+        "WOWZER910",
+        "YOOO560"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "anime-vanguards": {
+      "active": [
+        {
+          "code": "1DayDelay",
+          "reward": "200 Trait Rerolls (Requires Level 30)"
+        },
+        {
+          "code": "25thHour",
+          "reward": "50 Trait Rerolls and 50 Memoria Shards (Requires Level 30)"
+        },
+        {
+          "code": "2BVisits",
+          "reward": "200 Trait Rerolls, 200 Mem Shards"
+        },
+        {
+          "code": "2ndAnniDay1",
+          "reward": "100 Trait Rerolls"
+        },
+        {
+          "code": "2ndAnniDay2",
+          "reward": "100 Memoria Shards"
+        },
+        {
+          "code": "2ndAnniDay3",
+          "reward": "100 Rerolls"
+        },
+        {
+          "code": "2ndAnniDay4",
+          "reward": "100 Memoria Shards"
+        },
+        {
+          "code": "2ndAnniDay5",
+          "reward": "100 Memoria Shards"
+        },
+        {
+          "code": "AnniNextHopefully",
+          "reward": "100 Trait Rerolls, 100 Memoria Shards, and 5,000 Gems (requires Level 30)"
+        },
+        {
+          "code": "Assault",
+          "reward": "100 Trait Rerolls"
+        },
+        {
+          "code": "kat",
+          "reward": "Meme Code"
+        },
+        {
+          "code": "LetTheLarpingBegin",
+          "reward": "50 Controller Tokens, 10k Gems, and 50k Gold"
+        },
+        {
+          "code": "MiniUpd2",
+          "reward": "200 Trait Rerolls and 50,000 Gems"
+        },
+        {
+          "code": "Miniupdate1",
+          "reward": "50 Trait Rerolls, 50 Mem Shards"
+        },
+        {
+          "code": "Prepare",
+          "reward": "Red Key"
+        },
+        {
+          "code": "Retribution",
+          "reward": "20,000 Gems, 50 Trait Rerolls, and 50 Memoria Shards"
+        },
+        {
+          "code": "SummerLeaving",
+          "reward": "100 Memoria Shards"
+        },
+        {
+          "code": "Wrath",
+          "reward": "200 Memoria Shards and 50,000 Gems"
+        }
+      ],
+      "expired": [
+        "100KLIKES",
+        "100kSubs",
+        "100MVISITS",
+        "10KLIKES",
+        "10MVISITS",
+        "13.5",
+        "150KYT",
+        "1DayL8",
+        "1DayLeft",
+        "1MILLION",
+        "1stAnniversary",
+        "1WeekDelay",
+        "200KLIKES",
+        "2026",
+        "23RDPRESIDENT",
+        "25MVISITS",
+        "2DaysLeftButWorkingFR",
+        "2MLIKES",
+        "300KLIKES",
+        "300KPLAYERS",
+        "3DaysLeft",
+        "400KLIKES",
+        "4DaysLeft",
+        "500MVISITS",
+        "5DaysLeft",
+        "600KLIKES",
+        "70MVISITS",
+        "7Weeks",
+        "800KLIKES",
+        "AboveHeaven",
+        "ALMOST100K",
+        "ALSISBEST",
+        "AngryMan",
+        "AnotherUnit",
+        "ASTRAL",
+        "AURA",
+        "AV500KLIKES",
+        "AV50MIL",
+        "BPSoon",
+        "BugDemonAttacked",
+        "BYEDIVALO",
+        "BYTES",
+        "Chainsaws",
+        "CLANWARSSEASON2",
+        "CORRUPTION",
+        "CUPOFJOE",
+        "DELAY",
+        "DELAYGUARDS",
+        "DoubleDigits",
+        "DOUBLEEVOLUTION",
+        "EASTERSPRINGTRAP",
+        "EEPart1",
+        "EGG",
+        "ENNARD",
+        "enumaelish",
+        "EternalAdversaries",
+        "ExecutionPart2",
+        "EXTENDEDMAINT",
+        "Fall25",
+        "FallEndsSoon",
+        "FallenKingdom",
+        "FateUpdate",
+        "FAZRATINGPRESTIGE",
+        "Freedom",
+        "FreedomsCall",
+        "FreedomsCallPart2",
+        "Gambler",
+        "HALLOWEENWASLASTMONTH",
+        "HAPPYEASTER",
+        "HappyHolidays",
+        "HAPPYNEWYEAR",
+        "HeavenOrHell",
+        "HeavyEyes",
+        "HEROESANDVILLAINS",
+        "HorseRacing",
+        "IAMTHEONEWHODECIDES",
+        "InnocentAnger",
+        "ItsCold",
+        "KABOOM!",
+        "LagGone",
+        "Late",
+        "LateBP",
+        "LATECUSTOMLEVEL",
+        "LateUpdate",
+        "LATEUPDATESORRY",
+        "LOLBIT",
+        "LordShadow",
+        "LotsofPresents!",
+        "Memoria",
+        "MOONLESS",
+        "NewLobby!",
+        "NoCustoms",
+        "NOTLONELY",
+        "ODYSSEYFIX",
+        "OneInAVanguardillion",
+        "Oops",
+        "PART7",
+        "PinkVillainRaid",
+        "PowerOfLove",
+        "PvP",
+        "PysephBirthday",
+        "RELEASE",
+        "ROST10K",
+        "SALTERBOSS",
+        "SALVAGE",
+        "Sasageyo",
+        "SEASONOFLOVE",
+        "SHIBUYA",
+        "SLAYER",
+        "Sorry4Bugs",
+        "SORRY4SHUTDOWN",
+        "SorryForBugs",
+        "Spring",
+        "STANDPROUD",
+        "STEELBALL",
+        "SUMMER",
+        "SUPERCOMPUTER",
+        "SUPERHERO",
+        "THEONE",
+        "TheStrongest",
+        "THESYSTEM",
+        "TheWorld",
+        "THXFOR1MLIKES",
+        "TIKTOK50K",
+        "TOURNAMENTBUG",
+        "TURBONICLEGRANDMA",
+        "UnendingRage",
+        "UntilThenIsTheBestGame",
+        "UPDATE1",
+        "UPDATE22",
+        "UPDATE24",
+        "UPDATE25",
+        "UPDATE26",
+        "UPDATE27",
+        "UPDATE28",
+        "UPDATE29",
+        "Update3!",
+        "VanguardsVsSkeletons",
+        "WECURSESHAVENOLIMITS",
+        "WhoopsieDaisy",
+        "WHYISTHISNOTWORKING????????",
+        "Winter26",
+        "WinterUpdateSoon",
+        "YT200K"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "all-star-tower-defense": {
+      "active": [
+        {
+          "code": "ALateSummerAwaits",
+          "reward": "4000 Gems and 100 Stardust"
+        },
+        {
+          "code": "AwesomeBeginnerCode",
+          "reward": "4000 Gems, 50 Stardust, and Otherworldly Pickle"
+        },
+        {
+          "code": "cosmicrebel",
+          "reward": "2700 Gems, and 170 Stardust"
+        },
+        {
+          "code": "fordanielxd",
+          "reward": "67 Gems, 67 Stardust, and special limited unit (LVL 100+)"
+        },
+        {
+          "code": "FusionReborn",
+          "reward": "4000 Gems and 150 Stardust"
+        },
+        {
+          "code": "LIMITEDTIMECODEX",
+          "reward": "2500 Gems, 85 Trait Burner, 20 Bounded Cube"
+        },
+        {
+          "code": "omgupdate2024",
+          "reward": "Gems and Stardust"
+        },
+        {
+          "code": "omgupdate2026",
+          "reward": "2700 Gems, and 170 Stardust (LVL 50+)"
+        },
+        {
+          "code": "ReturnOfTheLobbies",
+          "reward": "4000 Gems and 150 Stardust"
+        },
+        {
+          "code": "sbrupdate",
+          "reward": "Gems and Stardust"
+        },
+        {
+          "code": "sorryfordelayandmonkeyking",
+          "reward": "4000 Gems, 280 Stardust"
+        },
+        {
+          "code": "SPRINGOWEENRELEASED",
+          "reward": "2500 Gems, 85 Trait Burner, 20 Bounded Cube"
+        },
+        {
+          "code": "superdaydaykid100ksubs",
+          "reward": "Gems and Stardust"
+        },
+        {
+          "code": "superluffysubcount",
+          "reward": "Gems and Stardust"
+        },
+        {
+          "code": "tboicats",
+          "reward": "3000 Gems, 170 Stardust"
+        },
+        {
+          "code": "THANKYOUFORPLAYINGLOVE",
+          "reward": "2500 Gems, 85 Trait Burner, 20 Bounded Cube"
+        },
+        {
+          "code": "TheOverlordArrives",
+          "reward": "4000 Gems and 250 Stardust"
+        },
+        {
+          "code": "tungtungnobannersahur",
+          "reward": "2700 Gems, and 170 Stardust"
+        },
+        {
+          "code": "twete93dont",
+          "reward": "2700 Gems, and 170 Stardust"
+        },
+        {
+          "code": "ultramicro",
+          "reward": "Gems and Stardust"
+        },
+        {
+          "code": "UPDATE9",
+          "reward": "2500 Gems, 85 Trait Burner, 20 Bounded Cube"
+        },
+        {
+          "code": "WhoInvitedThisGuy",
+          "reward": "4000 Gems, 250 Stardust, and Special limited unit , LVL 100+)"
+        },
+        {
+          "code": "yickadee",
+          "reward": "2000 Gems, 230 Stardust, special limited unit (LVL 100+)"
+        }
+      ],
+      "expired": [
+        "100ksubnavyxflame",
+        "1mgroupmembers",
+        "24hoursupdate",
+        "2MGROUPMEMBERS",
+        "2milfavoriteup",
+        "2yearanniversary",
+        "2yearanniversaryduo",
+        "300ksubscribersonyoutube300k",
+        "4partyrocking",
+        "6billionvisits",
+        "6billionvists",
+        "abouttimesnowrbx2023",
+        "AFIRSTTIME3001",
+        "allstarspring",
+        "ALOTOFSHUT",
+        "animecardbattle",
+        "animeroulette1",
+        "anniversaryastd",
+        "astd1millikes",
+        "ASTDDevs",
+        "ASTDEggOpenedFinally",
+        "astdx2022",
+        "bigcode3",
+        "BIGFIX",
+        "bigwinterupdatesoon",
+        "Blamsdefnotlate300kcode",
+        "blamsponge",
+        "blamspot500kcodeunitrelease",
+        "BUGFIXES22",
+        "Chainsmoke91",
+        "congratulations2kingluffy",
+        "DEADLOOP",
+        "december2021",
+        "delayp",
+        "DELAYYY3",
+        "DELAYYY5",
+        "DEVLOG1",
+        "diablo12",
+        "eatlotsonthanksgiving",
+        "egoupdate",
+        "EnumaElish2024",
+        "FOLLOWS10KBREAD",
+        "FORTYFIVELIKES",
+        "fraudkunaupdate",
+        "FREENIMBUSMOUNT",
+        "goldgemgold",
+        "Halloween2022",
+        "happy3yearanniversary",
+        "HAPPYHALLOWEEN",
+        "happyhalloween2021",
+        "happyholidays",
+        "happyholidays1",
+        "happyholidays2",
+        "happylatemothersday",
+        "happyspookymonth",
+        "hope2024",
+        "HunterStarPass",
+        "igot2look",
+        "july4threalupdate",
+        "KingLuffyFan200k",
+        "LIKEF5",
+        "LOVAW",
+        "lvlreqny",
+        "MADAO90YAY",
+        "maintenacecode15",
+        "mbshutdown",
+        "MBSHUTDOWNB",
+        "melonmen1",
+        "merrychristmas2k21",
+        "MINIUPD33",
+        "miniupd393",
+        "MINORDELAY",
+        "MOREUPDATES",
+        "MUDAMUDAMUDA",
+        "MUDAMUDAMUDA2",
+        "MUDAMUDAMUDA55",
+        "NavyXFlame130kNoLeak",
+        "navyxflame170kyoutubereal",
+        "NavyxFlame80Ksubs",
+        "navyxflamelate200kcodeomg",
+        "NavyXFlameOtherCode",
+        "navyxflameyt80k",
+        "newaprilupdate",
+        "NEWMODENEXTUPDATE",
+        "newstarcode",
+        "newstarpass69",
+        "newupdate1121",
+        "newupdatecode",
+        "NEWUPDATESTUFF",
+        "newupdcode2",
+        "newupdcode3",
+        "NewWorld2",
+        "NEXTLIKEGOAL500K",
+        "novemberupdate",
+        "ONEEIGHTYFIVELIKES",
+        "PreChriistmas2023",
+        "robloxyay",
+        "rolerewardcode",
+        "somanylikes",
+        "SORRY4BREAK",
+        "sorry4delay",
+        "SORRY4DELAYZ",
+        "SORRYFORDELAYS",
+        "sorryfordelayupdate2",
+        "SORRYFOREVERYTHING2",
+        "sorryforlongdelay",
+        "srry4delay",
+        "SRRYFORSHUTDOWN",
+        "stardustupdate",
+        "starshipway",
+        "SubscribeToBlamSpotOnYoutube200k",
+        "SUBTOBLAMSPOT100kBOA",
+        "superwoop",
+        "THANKYOU12345",
+        "THANKYOUFOR500KLIKES",
+        "THANKYOUFOR500MVISITS",
+        "THANKYOUFOR540KLIKES",
+        "THANKYOUFOR570KLIKES",
+        "thankyoufor5bvisits",
+        "thankyoufor6bvisits",
+        "THANKYOUFORLIKES123",
+        "THANKYOUFORPATIENCE",
+        "THANKYOUFORSUPPORT",
+        "thecityofangels",
+        "TheDrumsOfLiberation",
+        "TheDrumsOfLiberation2",
+        "themadao",
+        "THREEHUNDREDTHOUSANDPLAYERS",
+        "timechamberfix",
+        "tournamentstart",
+        "towerrestore",
+        "towerrestore1",
+        "TOWERRESTORE3",
+        "TOWERRESTORE4",
+        "tradingupdate",
+        "TRAITPITYADDED",
+        "TRAITPITYONUPDATE",
+        "Tsukuyomi2024",
+        "ultramove",
+        "UniverseReset",
+        "UPD1",
+        "UPD2",
+        "UPDATE4",
+        "UPDATE5",
+        "UPDATE6",
+        "UPDATE7ORISIT8",
+        "UpdateThisWeek",
+        "UPDNEXTWEEKEND",
+        "VERYHIGHLIKEB",
+        "videocode12135",
+        "winterbreakwhen",
+        "winterguy19",
+        "world2comingsoon",
+        "world2ishere",
+        "world3ishere",
+        "youtubekingluffy350kdone"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "ninja-legends": {
+      "active": [
+        {
+          "code": "blizzardninja500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "chaosblade1000",
+          "reward": "1K Chi"
+        },
+        {
+          "code": "christmasninja500",
+          "reward": "500 Gems"
+        },
+        {
+          "code": "darkelements2000",
+          "reward": "2K Chi"
+        },
+        {
+          "code": "DesertNinja250",
+          "reward": "250 Chi"
+        },
+        {
+          "code": "dojomasters500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "dragonlegend750",
+          "reward": "750 Chi"
+        },
+        {
+          "code": "dragonwarrior500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "elementmaster750",
+          "reward": "750 Chi"
+        },
+        {
+          "code": "epicelements500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "epicflyingninja500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "epicninja250",
+          "reward": "250 Chi"
+        },
+        {
+          "code": "epictrain15",
+          "reward": "15 Minutes of Auto-Training"
+        },
+        {
+          "code": "fastninja100",
+          "reward": "100 Chi"
+        },
+        {
+          "code": "flyingninja500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "goldupdate500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "legendaryninja500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "legends200M",
+          "reward": "1.1K Chi"
+        },
+        {
+          "code": "legends500m",
+          "reward": "1000 Chi"
+        },
+        {
+          "code": "legends700m",
+          "reward": "1.2K Chi"
+        },
+        {
+          "code": "masterninja750",
+          "reward": "1K Chi"
+        },
+        {
+          "code": "mythicalninja500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "omegasecrets5000",
+          "reward": "5k Chi"
+        },
+        {
+          "code": "roboninja15",
+          "reward": "15 Minutes of Auto-Training"
+        },
+        {
+          "code": "secretcrystal1000",
+          "reward": "750 Chi"
+        },
+        {
+          "code": "senseisanta500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "shadowninja500",
+          "reward": "500 Chi"
+        },
+        {
+          "code": "skymaster750",
+          "reward": "750 Chi"
+        },
+        {
+          "code": "soulhunter5",
+          "reward": "5 Souls"
+        },
+        {
+          "code": "soulninja1000",
+          "reward": "1K Chi"
+        },
+        {
+          "code": "swiftblade300",
+          "reward": "300 Chi"
+        },
+        {
+          "code": "ultrasecrets10k",
+          "reward": "10K Chi"
+        },
+        {
+          "code": "zenmaster15K",
+          "reward": "15K Chi"
+        },
+        {
+          "code": "zenmaster500",
+          "reward": "500 Chi"
+        }
+      ],
+      "expired": [
+        "Chiinnerpeace5k",
+        "Chisilentshadows1000",
+        "Chiskyblades10K",
+        "epictower350",
+        "epicturrets450",
+        "goldninja500",
+        "powers500",
+        "shurikencity500",
+        "sparkninja20",
+        "treeninja400"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "muscle-legends": {
+      "active": [
+        {
+          "code": "bossguard",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "bossstrike",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "ENCHANTED",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "epicreward500",
+          "reward": "500 Gems"
+        },
+        {
+          "code": "frostgems10",
+          "reward": "10,000 Gems"
+        },
+        {
+          "code": "galaxycrystal50",
+          "reward": "5,000 Gems"
+        },
+        {
+          "code": "launch250",
+          "reward": "250 Gems"
+        },
+        {
+          "code": "megalift50",
+          "reward": "250 Strength"
+        },
+        {
+          "code": "mightygems2500",
+          "reward": "2500 Gems"
+        },
+        {
+          "code": "MillionWarriors",
+          "reward": "1,500 Strength"
+        },
+        {
+          "code": "MOMENTUM",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "Musclestorm50",
+          "reward": "1,500 Strength"
+        },
+        {
+          "code": "OVERCHARGE",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "overchargedpart2",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "Skyagility50",
+          "reward": "500 Agility"
+        },
+        {
+          "code": "spacegems50",
+          "reward": "5,000 Gems"
+        },
+        {
+          "code": "speedy50",
+          "reward": "250 Agility"
+        },
+        {
+          "code": "supermuscle100",
+          "reward": "200 Strength"
+        },
+        {
+          "code": "superpunch100",
+          "reward": "100 Strength"
+        },
+        {
+          "code": "ultimate250",
+          "reward": "250 Strength"
+        }
+      ],
+      "expired": [],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "bubble-gum-simulator-infinity": {
+      "active": [
+        {
+          "code": "Easter",
+          "reward": "Get 4 Mystery Gifts"
+        },
+        {
+          "code": "fishe",
+          "reward": "Get Secret and Infinity Elixir"
+        },
+        {
+          "code": "halloween",
+          "reward": "Get Secret and Infinity Elixir"
+        },
+        {
+          "code": "Lucky",
+          "reward": "Get 1 Luck Potion V"
+        },
+        {
+          "code": "milestones",
+          "reward": "Get Secret and Infinity Elixir"
+        },
+        {
+          "code": "obby",
+          "reward": "Get obby keys and crates"
+        },
+        {
+          "code": "ogbgs",
+          "reward": "Get 3 Infinity Elixir"
+        },
+        {
+          "code": "onemorebonus",
+          "reward": "Get 1 of each Infinity Potion and 5 Secret Elixir"
+        },
+        {
+          "code": "Release",
+          "reward": "Get 1 Mystery Gift"
+        },
+        {
+          "code": "season7",
+          "reward": "Get Secret and Infinity Elixir"
+        },
+        {
+          "code": "sylentlyssorry",
+          "reward": "Get 3x Infinity Elixir, 1x Giant Dice, and 1x Golden Dice"
+        },
+        {
+          "code": "throwback",
+          "reward": "Get 3 Eggs Elixir"
+        },
+        {
+          "code": "update10",
+          "reward": "Get 12x Infinity Elixir"
+        },
+        {
+          "code": "update11",
+          "reward": "Get 10x Infinity Elixir"
+        },
+        {
+          "code": "update12",
+          "reward": "Get 12x Infinity Elixir"
+        },
+        {
+          "code": "update13",
+          "reward": "Get 12x Infinity Elixir"
+        },
+        {
+          "code": "update15",
+          "reward": "Get Secret and Infinity Elixir"
+        },
+        {
+          "code": "update16",
+          "reward": "Get Secret and Infinity Elixir"
+        },
+        {
+          "code": "update17",
+          "reward": "Get Secret and Infinity Elixir"
+        },
+        {
+          "code": "update18",
+          "reward": "Get Secret and Infinity Elixir"
+        },
+        {
+          "code": "update2",
+          "reward": "Get 5 Mystery Gifts"
+        },
+        {
+          "code": "update3",
+          "reward": "Get 2x Dice and 2x Giant Dice"
+        },
+        {
+          "code": "update4",
+          "reward": "Get 2x Infinity Elixir and 5x Mystery Box"
+        },
+        {
+          "code": "update5",
+          "reward": "Get 2x Infinity Elixir"
+        },
+        {
+          "code": "update6",
+          "reward": "Get 2x Infinity Elixir and 3x Ancient Token"
+        },
+        {
+          "code": "update8",
+          "reward": "Get 3x Infinity Elixir"
+        },
+        {
+          "code": "update9",
+          "reward": "Get 3x Light Box, 3x Egg Elixir, and 5x Mythic Evolved"
+        },
+        {
+          "code": "world3",
+          "reward": "Get Secret and Infinity Elixir"
+        }
+      ],
+      "expired": [
+        "Thanks",
+        "Whoops"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "fisch": {
+      "active": [
+        {
+          "code": "CARBON",
+          "reward": "Free Carbon bobber"
+        },
+        {
+          "code": "Happy2ndYear",
+          "reward": "2026 Coins, Giant Fisch Cake boat, 25 Cupcakes, and a Random item"
+        },
+        {
+          "code": "omoji",
+          "reward": "Zombi Kitty Bobber and Omoji Peer cat Lantern"
+        },
+        {
+          "code": "scarlet",
+          "reward": "Scarlet skin for Nate’s Blade"
+        },
+        {
+          "code": "spookyomoji",
+          "reward": "Omoji Skelecat Lantern and Kittyyy Bobber"
+        },
+        {
+          "code": "TemporarySubmarine",
+          "reward": "Submarine parts"
+        },
+        {
+          "code": "VroomVroom",
+          "reward": "1000 Coins, Pancaked Flimsy rod skin, 10x Instant Catcher, 5x Luminous Larva, and a Random item"
+        }
+      ],
+      "expired": [
+        "049andNickneedatan",
+        "100M",
+        "1BVisits",
+        "200K",
+        "4THOFJULY",
+        "Advent",
+        "ALIENS",
+        "AncientIsle",
+        "AquariumCustomization",
+        "Astraeus",
+        "ATLANTEANSTORM",
+        "BIGGLE",
+        "BigUpdateSoon",
+        "BorealPines",
+        "Brinestorm",
+        "Brother",
+        "CAVERN",
+        "ChangesComing",
+        "CollectMyPufferfish",
+        "Companions",
+        "Crews",
+        "CultistLair",
+        "DAILYSHOP",
+        "DARKHEART",
+        "DEVSLOPSKINS",
+        "DrylandsIsFire",
+        "Easter2026",
+        "ECLIPSEBLADE",
+        "EverturnForest",
+        "FISCHANNIVERSARY",
+        "FISCHFEST",
+        "Fischfest2026",
+        "FischFright2024",
+        "FischFright2025",
+        "FischFrightPart2",
+        "FISCHFRIGHTSOON",
+        "Fischgiving",
+        "FischIsTheBest",
+        "FISCHMASDAY",
+        "FischmasSoon",
+        "FORAREASON",
+        "FRIENDXP",
+        "GOLDENTIDE",
+        "GOODBYEFISCHMAS",
+        "HAPPY4TH",
+        "HarpoonGunsAreAwesome",
+        "HarpoonGunsNextWeek",
+        "HumpbackAndMegamouth",
+        "isitreallyyou?",
+        "JOUNCE",
+        "JungleExpansion",
+        "JungleExpansionSOON",
+        "KingCrabstle",
+        "Legomy",
+        "LittleBudlingUpdate",
+        "LivyatanAndCompanions",
+        "LOSTJUNGLE",
+        "LOSTJUNGLESOON",
+        "LunarNewYear",
+        "MarianaIsGoingCrazy",
+        "MerlinMystery",
+        "MermaidCove",
+        "MERRYFISCHMAS",
+        "MerryFischmas2",
+        "METEOR",
+        "NewBeginnings",
+        "NewIslandSoon",
+        "NewYear",
+        "NewYears",
+        "NickNate049492SnoStage105",
+        "NorthernExpedition",
+        "OGNOLIFE",
+        "PeaceLoveUnityRespect",
+        "PERSONALAQUARIUMS",
+        "Prehistoric",
+        "RFG",
+        "RoamingFishAndWaterPark",
+        "ROSES",
+        "Scubaaaa",
+        "SECONDARYENCHANT",
+        "SeventhOfMarch!",
+        "Shady",
+        "ShadySorry",
+        "ShootingStars",
+        "SkycrestIsInTheSky",
+        "SkycrestNextWeek",
+        "SLOPSKINSFORMIGUROD",
+        "SNOWBURROW",
+        "SORRY",
+        "SorryForDowntime",
+        "SorryForShopShenanigans",
+        "SorryforShutdown",
+        "SORRYGUYS",
+        "SorryReward",
+        "Sovereign",
+        "StPatricks",
+        "SUPPORTERDESTINY",
+        "ThanksFor10Mil",
+        "ThanksgivingSoon",
+        "ThankYou",
+        "ThankYouFollowers",
+        "ThankYouFollowers2",
+        "ThankYouFollowers3",
+        "TheDeepAwaitsForYou",
+        "TheDeepIsVeryDeep",
+        "TheDepths",
+        "THEKRAKEN",
+        "Tidefall",
+        "TradePlazaRevamp",
+        "TradeRevampSoon",
+        "Valentides",
+        "ValentinesDay",
+        "ValentinesOver",
+        "ValentinesSoon",
+        "VenueTakeover",
+        "WRATHOFOLYMPUS"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "type-soul": {
+      "active": [
+        {
+          "code": "almightycristishowcasev2",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "armastorcode",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "armastorcode2",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "BalanceStage",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "ErikkiMonth",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "heyitsmevegadodgeframe",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "HiddensBLESSING",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "HotfixesThxForPlayingTypeSoul",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "ItNearlyCameHome",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "Kurtisatung",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "kyokanerfsweredeservedlol",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "palacecountdown",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "PALACEUPDATE2060",
+          "reward": "4x Locked Red Elixir, 100x Locked Element Reroll, 4x Locked Skill Box Chooser, 35x Letzt Model Reroll, Locked True Hogyoku, 100x Locked Weapon Reroll, 55x Vi…"
+        },
+        {
+          "code": "SmallPatchYay",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "SpainWorldCupWinners26",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "texbday",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "TheSecretIsInUpdateLogs",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "TrueWorldbearer",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "TypeSoulBurden",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "TypeSoulWorldCup2030",
+          "reward": "Free Rewards"
+        }
+      ],
+      "expired": [
+        "1kcristi",
+        "1rerollcode",
+        "200klikeswoah",
+        "2rerollcode",
+        "2weekdelaywoah",
+        "300KLikes",
+        "300mvisits",
+        "350mvisitsalright",
+        "3daysthosewhoknow",
+        "500kdiscmemberswoo",
+        "500mvisitsthankyou",
+        "600MVisits",
+        "700kwoahthanks",
+        "7daysnotawordnotavideonotaclipnotapostnothing",
+        "7staredwardnewgate",
+        "800kcodeyeah",
+        "8by2typejole",
+        "allaccordingtocake",
+        "andyismysonnn",
+        "anextracode",
+        "angrycanadian",
+        "anotherbrickedshutdown",
+        "apologycode",
+        "apologyforlate",
+        "arrogantecristi5k",
+        "avaricecascade",
+        "bamblamwham",
+        "baragganintorisingswallow",
+        "bararaqgbincident",
+        "bigkiswatching",
+        "blamethetesters",
+        "blazblueincident",
+        "brovisitedhisfriends",
+        "broyouareopdude",
+        "butisitenough",
+        "canyouletusbalance",
+        "causethatstheupdateineed",
+        "cctokenfix",
+        "cellorsell",
+        "championship",
+        "clavgotframemoggedbyasufratleader",
+        "code1",
+        "codecodecode",
+        "codeforshutdownisuppose",
+        "codeforvoonithestrongestsoulispeak",
+        "codelolhaha",
+        "codeofdoom",
+        "compensationforinconvenientrelease",
+        "contentcoming",
+        "corneaburdenbday",
+        "cowoenuovaentvari",
+        "cowoesorry",
+        "cristi10k",
+        "cristi1ktwitch",
+        "cristi2ktwitch",
+        "cristibday",
+        "cristiqol",
+        "cristirespondfasternexttime",
+        "cristitoldmetomakeacode",
+        "cursedgearruinsfriendships",
+        "cyberpoint",
+        "ddanielisevil",
+        "delayordelayed",
+        "didntyousaynoupdtonight",
+        "doomaroomeneverexisted",
+        "eduardocarrying",
+        "EidMubarak",
+        "entvari10k",
+        "ermwhatthetypesoul",
+        "excaliburfool",
+        "explodeincident",
+        "ezcodeforconsole",
+        "flowerfinally",
+        "goplayranked",
+        "greengiantv",
+        "groundhakudamogsairhakuda",
+        "guesswhosback",
+        "gutteddodgevariantgobrrr",
+        "hakudanerfafter1000years",
+        "halloweenpart2",
+        "happyfortuneentvariblessing",
+        "happylatehalloween",
+        "haveagoodday",
+        "hellopiety",
+        "helpeduardosmentalsanity",
+        "higuys",
+        "higuyscode",
+        "higuysiranoutofcodenames",
+        "higuysupdate",
+        "hotfixandhottakis",
+        "howsetroboominfooledtheinternet",
+        "hqrsepowered",
+        "icallshotgun",
+        "idontdotheseoften",
+        "imnotnamingitthat",
+        "imsorry",
+        "ithoughtupdateswereweekly",
+        "itsalmostthatkindofsummer",
+        "itstypesoulfriday",
+        "jambajuice1v1",
+        "joshnosreppcristi",
+        "latenightbruh",
+        "latenightfightnight",
+        "lateupdatesareannoying",
+        "leafyhorizoncore",
+        "leafystray",
+        "letsbringback2023typesoul",
+        "lightningshunkoaftertwoyearslol",
+        "lockinseason",
+        "lookfordatspiralfb",
+        "mahoragathosewhoknow",
+        "mainmenufixes",
+        "mangolordking700mangos",
+        "mediarip",
+        "meditation",
+        "midtermsover",
+        "miniupdatewowawesome",
+        "mre10kfollowers",
+        "mreessay",
+        "myrobloxkeepscrashinghelp",
+        "myrobloxneedstostopcrashing",
+        "mythoughtsonthislater",
+        "myvfxartistneedstostopghostingmebru",
+        "natelacedthespiraltwinsoulsrig",
+        "newbosseswow",
+        "newcodeoldbugged",
+        "newrankedrewards",
+        "newrankedrewards2",
+        "newrankedrewards3",
+        "no1amupdate",
+        "NoobSoul",
+        "noreallythanksfor500m",
+        "nosrepphakudarework",
+        "nuovarandomcode",
+        "ohioframesperskibidi",
+        "ohsnapwaitsnapignis",
+        "oopswandenexploded",
+        "petgod101",
+        "pointsplease",
+        "privateservercompensation",
+        "promiseddecembercode",
+        "putthesefoolishambitionstorest",
+        "quickcodeforcodesocodeyescodehowcodewithcode",
+        "raidsfixed",
+        "rankedplswork",
+        "reallycoolcodehaha",
+        "reallycooloriginalcodename",
+        "redeem72024",
+        "rerererelease",
+        "royalisverycool",
+        "secretcodethatgives1000rerolls",
+        "senkuwascloudkageinjoedame",
+        "serverlistfixed",
+        "setroboominda",
+        "setrohadtoguesswhatthiscodewasnamed",
+        "setrona1vertagzeu0",
+        "skibidiquro",
+        "skibidisigmastofighttheohiorizzler",
+        "somebugsfixes",
+        "soonupdates",
+        "sorrybugs",
+        "sorryforbank",
+        "sorryfordelays",
+        "sorryfornospiral",
+        "sorryforthat",
+        "sorryforthebankbugs",
+        "sorryfortheshutdowns",
+        "sorryhopethishelps",
+        "sozforbrick",
+        "sozformobile",
+        "stefan10kfollowers",
+        "streamericdoa",
+        "superduperfunsecretcode",
+        "tama62121",
+        "tamacodesareback",
+        "tamaforyoutamaforall",
+        "tamaonetwothreefour",
+        "tamapackageone",
+        "tamarandomcode",
+        "tamastrikesagain",
+        "tamasuigetsu",
+        "tamataisentwo",
+        "tamaverified",
+        "tamayaren",
+        "teleportswentdown",
+        "temisburger",
+        "thanksfor900k",
+        "thanksforpatience",
+        "thanksgivingbreakwoohoo",
+        "thankuqasward",
+        "TheProdigy",
+        "thereisnosuchthing",
+        "theresahiddennpcsomewhere",
+        "thesecretisstillinsoulsociety",
+        "thewhatorwhat",
+        "theykeepbeggingmeforcodes",
+        "thisisnotsigma",
+        "thisiswhyweclash1m",
+        "thisiswhywetestthosewhoknow",
+        "thosewhoknowemblem",
+        "thosewhoknowmango",
+        "timetravellermistake",
+        "tradehub",
+        "tweakinpostupdate",
+        "TYPESOUL2026VVVKHOATICFENG",
+        "updatewoohoo",
+        "vdekuglobalban",
+        "veil10k",
+        "visionaryrework",
+        "vultures",
+        "wasitworthit",
+        "watermelon",
+        "wednesdaypatchesmoreplz",
+        "weekendgiftorsomething",
+        "weloveeduardo",
+        "wereached400mvisits",
+        "whatagoodcode",
+        "whatdoesheevendo",
+        "whatwillyoudoaboutthesecondone",
+        "whenwedance",
+        "whereiskendoweapondude",
+        "wheresmybuddy",
+        "whocareswhatthenameis",
+        "whodathuh",
+        "whoops",
+        "windwake",
+        "wowshutdowncodeyeah",
+        "yallaskedforitig",
+        "yayfirstweekly",
+        "yessirupdatetime",
+        "yesterdayshutdown",
+        "yippeweekly",
+        "youaremyspecialbuddy",
+        "youcanrollraresnow",
+        "youdidntexpectheretobeasecondonedidyou",
+        "yurrrrlistenman"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "a-universal-time": {
+      "active": [
+        {
+          "code": "WeReadTheComplaintsP2",
+          "reward": "Free rewards"
+        }
+      ],
+      "expired": [
+        "11224SHUTDOWN",
+        "44REBALANCE",
+        "ANSHEN",
+        "ARCADE",
+        "BEOWULF",
+        "BTDSOON",
+        "DELTAWHEN",
+        "DIOISALIVE",
+        "DRAGONBALL",
+        "FORTHEDELTA",
+        "FREEBIE",
+        "FuelTheMachine",
+        "GAROU",
+        "GODOFDEATH",
+        "GUTSISHERE",
+        "HALLOWEEN",
+        "HAPPYHOLIDAYS",
+        "HUTAO",
+        "ICHIGOFREESKINCODE",
+        "IMTHESPY",
+        "KARSWHAT",
+        "KNICKSWON",
+        "KNICKSWON2",
+        "KNICKSWON3",
+        "LATESUMMER",
+        "LIKEADRAGON",
+        "NEWYEAR2025",
+        "NOCSWEEP",
+        "OpenTheDOOOR",
+        "PHASE4",
+        "PHASETHREE",
+        "SAVEDAUTFROMSHADOW",
+        "SHADOW",
+        "SHADOWFORCE",
+        "SHESREALLYHER",
+        "SLIPPERY",
+        "SOON",
+        "SORRYFORANOTHERDELAY",
+        "SORRYFORDATAISSUES",
+        "SORRYFORDELAYINGBTD",
+        "SORRYFORDELYA",
+        "SORRYFORFLING",
+        "SORRYFORPHASE4DELAY",
+        "SORRYFORSHUTDOWNAGAIN",
+        "SORRYFORSHUTDOWNAGAIN2",
+        "SORRYFORTHEDELAYS",
+        "SORRYFORWAIT",
+        "SPIRITUALTICKET",
+        "STEELBALLRUN",
+        "SUKUNASWEEP",
+        "SUMMERUPDATEPHASE3",
+        "THATSRAD",
+        "THEMASCOTS1",
+        "THEMESANDSUCH",
+        "THXFOR735K",
+        "thxfor740k",
+        "THXFOR750MVISITS",
+        "UMBRAREWORK",
+        "UPDATE361",
+        "URYU",
+        "WONDEROFWHO",
+        "YAREYARE"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "peroxide": {
+      "active": [
+        {
+          "code": "445kLikesDupersGoAway",
+          "reward": "+ 15 Product Essence and +1 Slot"
+        },
+        {
+          "code": "StayHydrated",
+          "reward": "+ 15 Product Essence"
+        }
+      ],
+      "expired": [
+        "15kSubsSoEpic",
+        "170mVisitsGuys",
+        "190mVisitsThanks",
+        "200MVisitsAwesome",
+        "2025Easter",
+        "210MVisitsAwesome",
+        "220MVisitsArrancarTerrorism",
+        "230MVisitsCodeCritters",
+        "270kLikesOhHowJolly",
+        "280kLikesThankYouForYourSupport",
+        "290kLikesLOOLOLOL",
+        "310KLikesHappyWeekend",
+        "320kLikesThanks",
+        "330kLikes",
+        "340kLikes",
+        "350kLikes",
+        "360kLikes",
+        "370kLikes",
+        "375kLikes",
+        "380kLikes",
+        "385kLikes",
+        "390kLikesExcla",
+        "395kLikes",
+        "400kLikesLOTM",
+        "405kLikesFreeSlot",
+        "410kLikesFreeSlotTwoTooTwoToo",
+        "415kLikesAwesome",
+        "420kLikes",
+        "425kLikes",
+        "435kLikes",
+        "440kLikes",
+        "445kLikesYipee",
+        "450KLikesWithUpdateSoon",
+        "4thJuly2025",
+        "4thJuly2026",
+        "AlvinAndTheChipmunks",
+        "ChoppedChin",
+        "Chung",
+        "Chungsmas",
+        "classiclyingspreemybad",
+        "DelayedMaintenanceEvilTesters",
+        "EgxcellentEggventure",
+        "EvilWarlordTriumph",
+        "FBBossIncident",
+        "FBUpdate",
+        "FusionForgotHowToShutdown",
+        "FusionHoldingUsHostageUpdateIsComing",
+        "FusionStopGamblingWorkOnTheGame",
+        "GlacierReworkShoutOutTemporary",
+        "GoAheadAndJoinTheGame",
+        "GokuDayCodeSuper2",
+        "GokuObbyOfDoom",
+        "HappyHalloween24",
+        "HappyNewYearJoMamaJoeBiden12121",
+        "HappyThanksgiving2025",
+        "iknowwhozingusis",
+        "JesterMiniUpdate",
+        "LongMaintenance",
+        "MayIngusRest",
+        "MiAmigo",
+        "mybadforthesebrokencodes",
+        "NEWYEAR2025",
+        "NewYearsOf2026",
+        "notlikeus",
+        "OneMillionPE",
+        "Peroxide10kSubs",
+        "Peroxide5kSubs",
+        "PeroxideAnniPE",
+        "peroxidedidmygloriouskingdirty",
+        "PeroxideHolloween2025",
+        "PeroxideTwitter",
+        "PLAYSTORMDELVE",
+        "Relic29",
+        "Serveroutage925",
+        "ServerRestartToday",
+        "shutdowntofixnpcs",
+        "SkibiShutdown",
+        "sorry4thebugs",
+        "SorryForDelay",
+        "TasteTheRainbow",
+        "ThanksRoblox",
+        "The1HourOfDoomAndDespair",
+        "TheEvilHalloweenDuper",
+        "TheFirstDayOfWinter",
+        "TheMenosAreSmallInNewServersAgain",
+        "TheShura",
+        "thevisionarythatblewupwandenreich",
+        "ThisIsMySalvation",
+        "UnluckyBruhxide",
+        "Valentines2025",
+        "ValentinesDay",
+        "ValentinesDayButNoValentines",
+        "WeEnjoyRatingChanges",
+        "wymthisupdatewassupposedtodrop2monthsago",
+        "YayAHalloweenUpdate",
+        "YouDoNotHaveShikai"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "anime-adventures": {
+      "active": [
+        {
+          "code": "APRILFOOLS"
+        }
+      ],
+      "expired": [
+        "AINCRAD",
+        "AMEGAKURE",
+        "ANNIVERSARY",
+        "BILLION",
+        "CHAINSAW",
+        "CHALLENGEFIX",
+        "CHRISTMAS2022",
+        "CLOUD",
+        "Cxrsed",
+        "DATAFIX",
+        "DRESSROSA",
+        "DUNGEONS",
+        "ENTERTAINMENT",
+        "FictioNTheFirst",
+        "FIRSTRAIDS",
+        "GHOUL",
+        "GINYUFIX",
+        "GOLDEN",
+        "GOLDENSHUTDOWN",
+        "GRAVITY",
+        "HALLOWEENUPDATESOON",
+        "HAPPYEASTER",
+        "HAPPYHALLOWEEN",
+        "HERO",
+        "HOLIDAY2023",
+        "HOLIDAYS2024",
+        "HOLLOW",
+        "HOLYGRAIL",
+        "HUNTER",
+        "KingLuffy",
+        "MADOKA",
+        "MARINEFORD",
+        "MERRYCHRISTMAS",
+        "MERRYCHRISTMAS2",
+        "MORIOH",
+        "MUGENTRAIN",
+        "NEWCODE0819",
+        "NEWYEAR2023",
+        "noclyps",
+        "OVERLORD",
+        "QUESTFIX",
+        "REASON2FIGHT",
+        "RELEASE",
+        "SACREDPLANET",
+        "SERVERFIX",
+        "SHUTDOWNCODE1230",
+        "SINS",
+        "SINS2",
+        "STRAYDOGS",
+        "SubToBlamspot",
+        "SubToKelvingts",
+        "subtomaokuma",
+        "SUMMER2023",
+        "SuperTierMagicSoon",
+        "TOADBOIGAMING",
+        "TOURNAMENTUIFIX",
+        "TWOMILLION",
+        "UCHIHA",
+        "UNBREAKABLE",
+        "UNLEASHFUSESOON",
+        "UPD20INCOMING",
+        "UPDATE20RELEASE",
+        "UPDATESOON5189",
+        "VIGILANTE"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "gym-league": {
+      "active": [
+        {
+          "code": "10KVIEWS",
+          "reward": "5 Money Potions"
+        },
+        {
+          "code": "2XEVENT",
+          "reward": "5x all Potions"
+        },
+        {
+          "code": "400MVISITS",
+          "reward": "2 Mega Potions and 5 Pose Rerolls"
+        },
+        {
+          "code": "5xmuscle",
+          "reward": "10 Cosmic Pots, 10 Shadow Pots, and 10 Summer Drinks"
+        },
+        {
+          "code": "Ancient",
+          "reward": "3 Holy Grail and 5 Power Potion"
+        },
+        {
+          "code": "ASCENSION",
+          "reward": "500 Cash and 3 Breakfast of Champions"
+        },
+        {
+          "code": "BALANCE",
+          "reward": "3 Cosmic Potions, 3 Mega Potions, and 3 Power Potions"
+        },
+        {
+          "code": "BetterGameplay",
+          "reward": "3 Power Potion"
+        },
+        {
+          "code": "BLOODMOON",
+          "reward": "5 Blood Potions"
+        },
+        {
+          "code": "Bonusgains",
+          "reward": "50 Cosmic, Shadow, Lightning, and Blood potions"
+        },
+        {
+          "code": "BRAINROT",
+          "reward": "3 Power Potions and 3 Mega Potions"
+        },
+        {
+          "code": "christmasgains",
+          "reward": "10 Candy Cane, 10 Gingerbread, 10 Protein Ham"
+        },
+        {
+          "code": "compsfix",
+          "reward": "2 Breakfast of champions, Warriors lunch, and Dinner of legends"
+        },
+        {
+          "code": "COSMICGAINS",
+          "reward": "5 Cosmic Potions"
+        },
+        {
+          "code": "DIVINE",
+          "reward": "20 minutes of 1.25x Muscle Gain Buff"
+        },
+        {
+          "code": "DUNGEONGYM",
+          "reward": "5 Mega Potions and 5 Power Potions"
+        },
+        {
+          "code": "EASYGAINS",
+          "reward": "5 Speed Potions"
+        },
+        {
+          "code": "FEELINGLUCKY",
+          "reward": "5 Lucky Potions, 3 Power Potions, and 3 Mega Potions"
+        },
+        {
+          "code": "FLAMING",
+          "reward": "5 Purple Cocktails"
+        },
+        {
+          "code": "FOLLOWGYMLEAGUERBLX",
+          "reward": "3x Small Speed Potions"
+        },
+        {
+          "code": "FRESHSTART",
+          "reward": "20 minutes of 1.25x Cash Gain Buff"
+        },
+        {
+          "code": "frozen",
+          "reward": "10 Ice Cube, 10 Glacial Punch, 10 Cryo Charge"
+        },
+        {
+          "code": "GLcomeback",
+          "reward": "1 Breakfast of champions, 1 Warriors lunch, 1 Dinner of legends"
+        },
+        {
+          "code": "GYMGAMES",
+          "reward": "10 Power Potions and 5 Mega Potions"
+        },
+        {
+          "code": "Halloweenpart1",
+          "reward": "25 Blood Potions"
+        },
+        {
+          "code": "halloweenpart2",
+          "reward": "2 Pumpkin candy bag and 100 Candies"
+        },
+        {
+          "code": "hauntedbalanced",
+          "reward": "2 Breakfast of champions, 2 Warriors lunch, and 2 Dinner of legends"
+        },
+        {
+          "code": "HolidaySeasons",
+          "reward": "3 Christmas Potion, 3 Gingerbread, and 100 Snowflakes"
+        },
+        {
+          "code": "Jungle",
+          "reward": "1 Banana, 1 Sacred Flower, 1 Jaguar’s Fang, 1 Leaf Tonic, and 1 Nature’s Essence"
+        },
+        {
+          "code": "Junglegames",
+          "reward": "5 Sacred Flowers and 5 Bananas"
+        },
+        {
+          "code": "LateXMAS",
+          "reward": "3 Christmas Potion"
+        },
+        {
+          "code": "LEAGUES2",
+          "reward": "2 Mega Potion and 2 Premium Aura Rerolls"
+        },
+        {
+          "code": "LIGHTNINGEVENT",
+          "reward": "5 Lightning Potions"
+        },
+        {
+          "code": "LIGHTNINGQUEST",
+          "reward": "10 Lightning Potions"
+        },
+        {
+          "code": "MIDUPD",
+          "reward": "2 Mega Potion"
+        },
+        {
+          "code": "NewGears",
+          "reward": "10 Mega Potions"
+        },
+        {
+          "code": "OLYMPUS",
+          "reward": "5 Lightning Potions"
+        },
+        {
+          "code": "PLAYER456",
+          "reward": "5 Money Potions"
+        },
+        {
+          "code": "powerupqol",
+          "reward": "5 Lightning potions, 5 Shadow potions, 5 Cosmic potions, 5 Pumpkin candy bag, and 5 Protein candy corn"
+        },
+        {
+          "code": "QOL2",
+          "reward": "5 Lightning potions, 5 Shadow potions, and 5 Cosmic potions"
+        },
+        {
+          "code": "QualityOfLife",
+          "reward": "3 Mega Potion"
+        },
+        {
+          "code": "RELEASE",
+          "reward": "20 minutes of 1.25x Muscle Gain Buff"
+        },
+        {
+          "code": "SEASON3PASS",
+          "reward": "5 Power Potions, 5 Mega Potions, and 5 Lucky Potions"
+        },
+        {
+          "code": "SHADOWS",
+          "reward": "2 Shadow Potions"
+        },
+        {
+          "code": "SOLOLEVELING",
+          "reward": "5 Raffle Tickets"
+        },
+        {
+          "code": "SPARTAN",
+          "reward": "5 Power Potions and 5 Mega Potions"
+        },
+        {
+          "code": "STARLIFT",
+          "reward": "5 Money Potions"
+        },
+        {
+          "code": "SUMMERBODY",
+          "reward": "5 Purple Cocktails and 2 OP Summer Drinks"
+        },
+        {
+          "code": "TRADINGPLAZA",
+          "reward": "5 Lightning Potions"
+        },
+        {
+          "code": "TWILIGHT",
+          "reward": "150 Raffle Tickets and 5 Money Potions"
+        },
+        {
+          "code": "Undead",
+          "reward": "10 Blood Potions"
+        },
+        {
+          "code": "Update28",
+          "reward": "1 Breakfast of champions, 1 Warriors lunch, 1 Dinner of legends, 5 Blood Potions, 5 Lightning Potions, 5 Shadow Potions"
+        },
+        {
+          "code": "Update29",
+          "reward": "3 Breakfast of champions, 3 Warriors lunch, and 3 Dinner of legends"
+        },
+        {
+          "code": "update29p2",
+          "reward": "2 Breakfast of champions, 2 Warriors lunch, 2 Finner of legends"
+        },
+        {
+          "code": "Update29p3",
+          "reward": "3 Breakfast of champions, 3 Warriors lunch, and 3 Dinner of legends"
+        },
+        {
+          "code": "Update30",
+          "reward": "3 Breakfast of champions, 3 Warriors lunch, and 3 Dinner of legends"
+        },
+        {
+          "code": "Update30p2",
+          "reward": "3 Breakfast of champions, 3 Warriors lunch, and 3 Dinner of legends"
+        },
+        {
+          "code": "update31",
+          "reward": "5 Breakfast of champions, 5 Warriors Lunch, 5 Dinner of Legends"
+        },
+        {
+          "code": "WORLD10",
+          "reward": "20 minutes of 1.25x Cash Gain Buff"
+        },
+        {
+          "code": "ZeroG",
+          "reward": "25 Lightning Potions"
+        }
+      ],
+      "expired": [
+        "100KActive",
+        "10KLikes",
+        "150KLikes",
+        "150MVisits",
+        "1MMembers",
+        "1MVisits",
+        "2.5MFavs",
+        "20MVisits",
+        "5KLikes",
+        "650KLikes",
+        "BattlePotion",
+        "BETTERTOGETHER",
+        "BUGFIXES",
+        "CLANS",
+        "DEFLATION",
+        "DivineMuscles",
+        "FIRSTTRAINER",
+        "FruitPirate",
+        "HALLOWEEN",
+        "HIDDENFOOD",
+        "HugeUpdateSoon",
+        "LEAGUE",
+        "LEAGUEOVER",
+        "MineRations",
+        "PirateBugFix",
+        "powerlevel",
+        "POWERLIFTING",
+        "PrisonBound",
+        "PUMPKING",
+        "SORRY",
+        "SORRYFORDELAY",
+        "SUMMERFUN",
+        "SummerVibes",
+        "TRADE",
+        "UPDATE2",
+        "WEREBACK"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "basketball-zero": {
+      "active": [
+        {
+          "code": "15PERFV2",
+          "reward": "10 Lucky Spins and 100,000"
+        },
+        {
+          "code": "DELAY",
+          "reward": "5 Lucky Spins and 10,000"
+        },
+        {
+          "code": "PERFV2",
+          "reward": "15 Lucky Spins and 50,000"
+        }
+      ],
+      "expired": [
+        "1.5MLIKES",
+        "100KHONOREDONE",
+        "100KINTERESTED",
+        "100KW",
+        "10CHROLLOV2",
+        "10KFOLLOWERSTY",
+        "10KLIKES",
+        "10klikesyt",
+        "10KLIKESYTS",
+        "150kevent",
+        "150KINTERESTED2",
+        "150KLIKES",
+        "150KLOCK",
+        "15IZURE",
+        "15KIRA",
+        "15KLIKESYT",
+        "15SCARYMONSTER",
+        "15SILVER",
+        "15TATLISV2",
+        "1HRCHROLLOVSTATLIS",
+        "1HRCURSEKING",
+        "1HRFRIDAYUPD",
+        "1HRFUNSUNDAY",
+        "1HRGENIUS",
+        "1HRGIFTSUNDAY",
+        "1HRGOAT",
+        "1HRHONOREDONE",
+        "1HRJOHNNY",
+        "1HRJUDGEMENT",
+        "1HRNEWSEASON",
+        "1HRRETURNOFKINGS",
+        "1HRSATURDAY",
+        "1HRTATLISRETURN",
+        "1HRVALENTINE",
+        "1HRWEEKCASH",
+        "1MLIKES",
+        "2.5MLIKES",
+        "200KINTERESTED",
+        "200KLOCK",
+        "200KPERFECT",
+        "2026",
+        "3.5MLIKES",
+        "300KEMPEROR",
+        "300KINTERESTED",
+        "30ALIEN",
+        "30CHROLLORETURN",
+        "30CHROLLOVSTATLIS",
+        "30CLAN",
+        "30CURSEKING",
+        "30FRIDAYUPD",
+        "30FUNSUNDAY",
+        "30GENIUS",
+        "30GIFTSUNDAY",
+        "30GOAT",
+        "30HONOREDONE",
+        "30JOHNNY",
+        "30JUDGEMENT",
+        "30LEAGUE",
+        "30NEWSEASON",
+        "30NOLIMITED",
+        "30RETURNOFKINGS",
+        "30REWARD",
+        "30SATURDAY",
+        "30SHADOWQUEST",
+        "30SUNDAY",
+        "30TATLISRETURN",
+        "30THIEF",
+        "30VALENTINE",
+        "30WEEKCASH",
+        "30WEEKCASH2",
+        "350KLIKES",
+        "4.5MLIKES",
+        "400KWOW",
+        "4THJULY30",
+        "5.5MLIKES",
+        "500KLIKES",
+        "50KLIKES",
+        "67",
+        "ACCIDENTS",
+        "ACEREWORK",
+        "AIR",
+        "AIRSHUTDOWN",
+        "ALIEN",
+        "ANOTHERGIFT",
+        "BASKETBALLGOD",
+        "BBZ2025",
+        "BESTSPORTSGAME2025",
+        "BIGEVENTNEXTWEEK",
+        "BIGNEWSSOON",
+        "BONUSCHROLLO",
+        "BOOSTEDCODE",
+        "CASHEVENT",
+        "CHROLLO1MTT",
+        "CHROLLO600KSUBS",
+        "CHROLLO700KSUBS",
+        "CHROLLOBDAY",
+        "CHROLLOBIRTHDAY",
+        "CHROLLOBOREDRN",
+        "CHROLLODROP",
+        "CHROLLODROPHOORAY",
+        "CHROLLOFORGOT",
+        "CHROLLOGIFT",
+        "chrollohi",
+        "CHROLLOMVP",
+        "CHROLLORETURN",
+        "CHROLLOSBACK",
+        "CHROLLOSGIFTTY",
+        "CHROLLOSOLOS",
+        "CHROLLOSURPRISE",
+        "CHROLLOV2",
+        "CHROLLOVSTATLIS",
+        "CHROTATCAREPACKAGE",
+        "CLAN",
+        "CONSOLESUCKS",
+        "CURSEKING",
+        "CYBER250K",
+        "CYBERRETURN",
+        "CYBERVSPSYCHIC",
+        "DEALER",
+        "DOBETTERM",
+        "DOMAINCLASH",
+        "ECLIPSE",
+        "EMPERORREWORK",
+        "EMPERORSOON",
+        "EMPERORUPD",
+        "EXTRASPINS",
+        "FREEEMOTE",
+        "FRIDAYUPD",
+        "FRIENDLYEVENT",
+        "FUNSUNDAY",
+        "GENIUS",
+        "GHOST",
+        "GIFTSUNDAY",
+        "GOAT",
+        "GOLD",
+        "GOODLUCKV2",
+        "GOODWEEKEND",
+        "GREATREBALANCEUPD",
+        "HAHA",
+        "HAPPY4THJULY",
+        "HIPALS",
+        "HISRRY",
+        "HOLIDAYS",
+        "HONOREDONE",
+        "IMINYOURWALLS",
+        "IZURE",
+        "JACKPOT",
+        "JACKPOTTOMORROW",
+        "JOFUGIFT",
+        "JOHNNY",
+        "JOKERFIX",
+        "JUDGEMENT",
+        "KING",
+        "KINGVSAIR",
+        "KIRA",
+        "LASTCHANCETOGETPOPSTAR",
+        "LASTCODE",
+        "LAZYWORKER",
+        "LCLANKERS",
+        "LEAGUE",
+        "LECODE",
+        "LEWISAYSSORRY",
+        "LEWIWASHEREAGAIN",
+        "LOOKBEHINDYOU",
+        "LROBLOX",
+        "LUKA",
+        "MERRYCHRISTMAS",
+        "NEWCHAPTER",
+        "NEWCODESRRY",
+        "NEWSEASON",
+        "NEWYORK",
+        "NOLIMITED",
+        "OIL",
+        "OILEDJUDGEMENT",
+        "ONEMORE",
+        "ONEMORECODE",
+        "ONEMORECODEAGAIN",
+        "PERFECTION",
+        "POPSTAR",
+        "PSYCHIC",
+        "RANKEDBLEWUPAGAIN",
+        "RANKEDCODE",
+        "RANKEDISSUESSORRY",
+        "rankedsoon",
+        "REFEREE",
+        "RELEASE",
+        "RETURNOFKINGS",
+        "riftkuro-serverfix-sorryjofu",
+        "RUBBER250K",
+        "sabotageisshameful",
+        "SATURDAY",
+        "SCARYMONSTER",
+        "SEASON2COSMETICS",
+        "SEASON2TODAY",
+        "SHADOWQUEST",
+        "SILVER",
+        "SILVERRETURN",
+        "SKILLS",
+        "SORRY4DELAY",
+        "SORRY4RESTARTAGAIN",
+        "SPIDER300K",
+        "SPINSGIFT",
+        "SRRYFORCRASH",
+        "STARREWORK",
+        "STOPBEGGING",
+        "SUMMERFIXES",
+        "SUNDAYCASH",
+        "SUNDAYPATCH",
+        "SWITCHERSTYLE",
+        "SYMBIOTE",
+        "TATLISBETTER",
+        "TATLISBUGOOPS",
+        "TATLISCODE",
+        "TATLISPATCHWOW",
+        "TATLISRETURN",
+        "TATLISV2",
+        "TEAMCHROLLO",
+        "TEAMTATLIS",
+        "TEAMTATLISHOORAY",
+        "THEGREATREBALANCE",
+        "THERETURN",
+        "THIEF",
+        "TOOEZ",
+        "UNC",
+        "UNCLESAM",
+        "VALENTINE",
+        "VAMPIRE",
+        "VAMPIREOP",
+        "VERYSRRYDELAY",
+        "WCHROLLO",
+        "WEEKCASH",
+        "WEEKCASH2",
+        "WOW100K",
+        "wowforgotcode",
+        "YIPPEE3V3"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "volleyball-legends": {
+      "active": [
+        {
+          "code": "JINX",
+          "reward": "5 Lucky Ability Spins"
+        },
+        {
+          "code": "SKELETON_BUNDLE",
+          "reward": "5 Lucky Style Spins"
+        },
+        {
+          "code": "SLOT_REWORK",
+          "reward": "100 Gems"
+        },
+        {
+          "code": "UPDATE_90",
+          "reward": "5 Lucky Style Spins"
+        }
+      ],
+      "expired": [
+        "1_BILLION_VISITS",
+        "1_MIL_FAVS",
+        "1.5M_FAVS",
+        "1.6_M_MEMBERS",
+        "1.7M_FAVS",
+        "100K_INTERESTED",
+        "100K_INTERESTED2",
+        "100K_MEMBERS",
+        "100M_VISITS",
+        "10MIN_DELAY",
+        "15M_PLAYS",
+        "175MILLION_VISITS",
+        "180K_FAVS",
+        "1M_Likes",
+        "1M_MEMBERS",
+        "1MILLION",
+        "1V1",
+        "2_BILLION",
+        "200K_LIKES",
+        "200MILLION_VISITS",
+        "250K_MEMBERS",
+        "250M_VISITS",
+        "2M_FAVS",
+        "2M_MEMBERS",
+        "2RAINBOWSTATS",
+        "2X_SECRET_WEEKEND",
+        "300K_CCU",
+        "350K_MEMBERS",
+        "3M_FAVS",
+        "400M_VISITS",
+        "40M_VISITS",
+        "500K_LIKES",
+        "50M_Visits",
+        "600K_MEMBERS",
+        "650M_VISITS",
+        "700M_VISITS",
+        "750K_MEMBERS",
+        "800K_LIKES",
+        "800K_MEMBERS",
+        "80M_VISITS",
+        "900K_MEMBERS",
+        "ABILITY_FIX",
+        "AKARI_BACK",
+        "AKARI_NINJA",
+        "ANGRY_MAN",
+        "APRIL_UPDATE",
+        "AURA",
+        "BACK_TILT",
+        "BALANCE",
+        "BALANCE_76",
+        "BALANCE_CHANGES",
+        "BALL_MACHINES",
+        "BAN_CHALLENGE",
+        "BAN_FIX",
+        "BECOME_SPIDER",
+        "BIG_HUGE_UPDATE",
+        "BIGGESTEVER",
+        "BLAME_DONDRED",
+        "BLOCKED",
+        "BLOCKING",
+        "BONUS_SHELLS",
+        "BONUS_YEN",
+        "BUFF",
+        "BUG_FIXES",
+        "CHALLENGE",
+        "CHALLENGER",
+        "CHAOS_MODE",
+        "CHAT_BUBBLES",
+        "CHOPPED",
+        "CLONE",
+        "COOKED",
+        "CURVE_SPIKER",
+        "CUSTOM_JERSEY",
+        "DAILY_TASKS",
+        "DASHING",
+        "DELAY_LEGENDS",
+        "DELAYED",
+        "DONT_TAP_THE_GLASS",
+        "DOUBLE_DASH",
+        "DUELS",
+        "EASTER",
+        "EASTER_EGGS",
+        "EASTER_UPDATE",
+        "ENCHO_NERF",
+        "ENCHO_RETURNS",
+        "EVO_RARITY",
+        "EXTRA_TOUCH",
+        "EXTRA_TOUCH_BUFF",
+        "FALL_SEASON",
+        "FAST_MODE",
+        "FESTIVAL_UPD",
+        "FREE_ABILITY_SLOT",
+        "FREE_SLOT_HERE",
+        "GET_SLIMED",
+        "GOAT_SETTER_RETURNS",
+        "GODLY_BLOCKER",
+        "HAKKA_NERF",
+        "HAKKA_RETURN",
+        "HAPPY_HOLIDAYS",
+        "HIDARI_FINALLY",
+        "HIDARI_GOAT",
+        "HOLO_WALLS",
+        "HOTFIX",
+        "IBARA",
+        "INDOOR_COURT",
+        "JETPACK",
+        "JINKO_CLAUS",
+        "JUNE_2026",
+        "JUNGLE_MAP",
+        "KATANA",
+        "KAZANA_BACK",
+        "KAZANA_COMING",
+        "KIJO",
+        "KIMIRO_ABILITY",
+        "KIMIRO_BLOCK",
+        "KIMIRO_BOUNCY",
+        "KIMIRO_HEIGHT",
+        "KIMIRO_OUT",
+        "KIMIRO_SET",
+        "KIMIRO_SPEED",
+        "KIMIRO_SPIKE",
+        "KIMIRO_THICK",
+        "KISUKI_BUFFED",
+        "KNEE_SLIDE",
+        "LAUNCH",
+        "LEAD_FEET",
+        "LEAD_FEET_AGAIN",
+        "LEADERBOARD",
+        "LIMITED_ABILITY",
+        "MADNESS",
+        "MASTERIES",
+        "MASTERY_2",
+        "MATCHMAKING_PLS_WORK",
+        "MIKAGE_GOATED",
+        "MIKAGE_IS_BACK",
+        "MIKAGE_REVIVED",
+        "MIKAGE_W",
+        "MOBILE_FIXES",
+        "NEW_ABILITY",
+        "NEW_LOBBY",
+        "NEW_MAP",
+        "NEW_NAME",
+        "NEW_PACK",
+        "NEW_STYLE",
+        "NEW_STYLE_SOON",
+        "NEW_TIMESKIP",
+        "NEW_YEAR",
+        "NOTONTIME",
+        "OCEAN_UPDATE",
+        "OP_LIBERO",
+        "PIRATE_SZN",
+        "PLAYERCARDS",
+        "PRACTICE_AREA",
+        "PROTORI_100K_CLUB",
+        "PROTORI_50K",
+        "PROTORI_YT",
+        "PROTORIONTWITTER",
+        "QOL",
+        "RANKED",
+        "RANKED_FIX",
+        "RANKED_FIXING",
+        "RICOCHET_TOURNEY",
+        "RIKU",
+        "ROBLOX_ISSUES",
+        "ROBO_ARM",
+        "ROKETTO",
+        "RONIN",
+        "RONIN_RETURN",
+        "SANU_BUFF",
+        "SCHOOL_SOON",
+        "SCHOOLS_BACK",
+        "SEASON_11",
+        "SEASON_12",
+        "SEASON_13",
+        "SEASON_14",
+        "SEASON_15",
+        "SEASON_16",
+        "SEASON_17",
+        "SEASON_18",
+        "SEASON_2",
+        "SEASON_3",
+        "SEASON_6_GRIND",
+        "SEASON_9",
+        "SEASON_X",
+        "SEASON1",
+        "SECRET_ABILITY",
+        "SECRET_CARDS",
+        "SET_DUMP",
+        "SHIELD_BREAKER",
+        "SHIRO",
+        "SHOW_OFF",
+        "SHUTDOWN_CODE",
+        "SHUTDOWN_CODE2",
+        "SILLY_POTIONS",
+        "SKELETON",
+        "SOME_ABILITY_SPINS",
+        "SPECTATING",
+        "SPIKER",
+        "SPINS",
+        "SPOOKY_MONTH",
+        "STPATRICKS_DAY",
+        "STRETCH",
+        "STYLISH_SUIT",
+        "SUMMER_DELUXE",
+        "SUMMER_UPDATE",
+        "SUPER_DIVE",
+        "SUPER_TILTS",
+        "TAICHOU_2026",
+        "TAICHOU_SHELLS",
+        "TAICHOU_SOON",
+        "TAICHOU_WINNER",
+        "TAICHOU_YEN",
+        "THUNDER_SPIKE",
+        "TIMESKIP",
+        "TIMESKIP_KAGAYOMO",
+        "TOURNAMENTS",
+        "TSH_67",
+        "TSH_RETURNS",
+        "TSK_RETURNS_WOO",
+        "TWINS_ARE_HERE",
+        "TWINS_RETURN",
+        "TWINS_REWORK",
+        "ULTRA",
+        "UPDATE_11",
+        "UPDATE_12",
+        "UPDATE_13",
+        "UPDATE_14",
+        "UPDATE_15",
+        "UPDATE_16",
+        "UPDATE_18",
+        "UPDATE_19",
+        "UPDATE_20",
+        "UPDATE_21",
+        "UPDATE_22",
+        "UPDATE_23",
+        "UPDATE_24",
+        "UPDATE_25",
+        "UPDATE_26",
+        "UPDATE_27",
+        "UPDATE_28",
+        "UPDATE_30",
+        "UPDATE_31_W",
+        "UPDATE_32_JINKO",
+        "UPDATE_33_EVIL",
+        "UPDATE_33_GOOD",
+        "UPDATE_34_BALANCE",
+        "UPDATE_35",
+        "UPDATE_36",
+        "UPDATE_37",
+        "UPDATE_38",
+        "UPDATE_39",
+        "UPDATE_40",
+        "UPDATE_41",
+        "UPDATE_43",
+        "UPDATE_44",
+        "UPDATE_45",
+        "UPDATE_46",
+        "UPDATE_47",
+        "UPDATE_48",
+        "UPDATE_49",
+        "UPDATE_50",
+        "UPDATE_51",
+        "UPDATE_52",
+        "UPDATE_53",
+        "UPDATE_54",
+        "UPDATE_55",
+        "UPDATE_56",
+        "UPDATE_57",
+        "UPDATE_58",
+        "UPDATE_59",
+        "UPDATE_60",
+        "UPDATE_61",
+        "UPDATE_62",
+        "UPDATE_63",
+        "UPDATE_64",
+        "UPDATE_65",
+        "UPDATE_66",
+        "UPDATE_67",
+        "UPDATE_68",
+        "UPDATE_69",
+        "UPDATE_70",
+        "UPDATE_71",
+        "UPDATE_72",
+        "UPDATE_73",
+        "UPDATE_74",
+        "UPDATE_75",
+        "UPDATE_76",
+        "UPDATE_77",
+        "UPDATE_78",
+        "UPDATE_79",
+        "UPDATE_80",
+        "UPDATE_81",
+        "UPDATE_82",
+        "UPDATE_83",
+        "UPDATE_84",
+        "UPDATE_85",
+        "UPDATE_86",
+        "UPDATE_87",
+        "UPDATE_88",
+        "UPDATE_89",
+        "UPDATE1",
+        "UPDATE10",
+        "UPDATE18_CRYSTALS",
+        "UPDATE2",
+        "UPDATE3",
+        "UPDATE4",
+        "UPDATE5",
+        "UPDATE6",
+        "UPDATE8",
+        "UPDATE9",
+        "VALENTINES_DAY",
+        "VINE_WALLS",
+        "VOLCANO_SEASON",
+        "VOTE_BLOXY",
+        "WE_CURSED",
+        "WINTER_IS_HERE",
+        "XP_BOOST",
+        "YEAR_2026",
+        "YOGAN_BUFF",
+        "YOGAN_REWORK"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "blue-lock-rivals": {
+      "active": [
+        {
+          "code": "ACEEATER",
+          "reward": "5 Lucky Spins"
+        },
+        {
+          "code": "DONREVAMP",
+          "reward": "5 Lucky Spins and 5 Lucky Flows"
+        },
+        {
+          "code": "SENDOUNEXT",
+          "reward": "5 Lucky Flows"
+        }
+      ],
+      "expired": [
+        "1.5MGOALHIT",
+        "100KCHRO",
+        "100KLIKES",
+        "10KDEVS",
+        "150KWOW",
+        "15KTATLIS",
+        "1BVISITS",
+        "1KLIKES",
+        "1KTATLIS",
+        "1MEVENT",
+        "1MILLIONCCU!!",
+        "1MLIKES",
+        "200CRAZY",
+        "200KSUB",
+        "2026Battlepass",
+        "2026BLR",
+        "2026Crate",
+        "20KCHANNEL",
+        "20KCHROLLO",
+        "20KLIKES",
+        "20KLIKESPT2",
+        "250KLIKES",
+        "25KTATLIS",
+        "25SNOWLOCK",
+        "2BVISITS!",
+        "2MINTERESTED!",
+        "300KCHROLLO",
+        "300KLIKES",
+        "300KREO",
+        "30KLIKES",
+        "35KCHROLLO",
+        "3BILLIONVISITS!",
+        "3KLIKES",
+        "3V3TIME",
+        "400KLIKES",
+        "40KAGAIN",
+        "40KCHANNEL",
+        "40KKUNIGAMI",
+        "40KLIKES",
+        "44PANTHER",
+        "4HOURS!",
+        "500KLIKES",
+        "50KTATLIS",
+        "5KTATLIS",
+        "5KVID",
+        "600KCRAZY",
+        "60KFOLLOWERS",
+        "6KLIKES",
+        "700KLIKES",
+        "70KLIKES",
+        "800KLIKES",
+        "900KLIKES",
+        "ADDRESSME",
+        "AFKUPDATE",
+        "AIKU",
+        "AIKU1.15M!",
+        "AikuBack",
+        "AIKUREWORK!",
+        "BACHIRA!!",
+        "BACHIRADAD",
+        "BACHIRAEVOLUTION",
+        "BACHIRAHALLOWEEN",
+        "BAROUSNOWLOCK",
+        "BEARCLAW",
+        "BIGBEAUTIFULBALANCE",
+        "BIGGESTGROUP",
+        "BIGTRAILERSOON",
+        "BloodmoonRisen",
+        "BRAZILMAN",
+        "BREAKDANCE",
+        "BUGFIXES",
+        "BUILDTHEROCKET",
+        "BUNNYPEAK",
+        "CAREPACKAGE!",
+        "CHARLESTIME",
+        "CHEMREACTION!",
+        "CHEMREACTW",
+        "CHIGIRIHERE",
+        "CHIGIRISOON",
+        "CHRISTMAS",
+        "CHROLLO100K",
+        "CHROLLO4AM",
+        "CHROLLO4FUN",
+        "CHROLLOCAREPACKAGE",
+        "CHROLLOYT",
+        "CODEANGRY",
+        "CodeSnake",
+        "COOKIECODE",
+        "CROWCODE",
+        "CROWFLOWCODE",
+        "DANCERHYPE",
+        "DELAYSORRY",
+        "DEMON",
+        "DESTROYERMODE",
+        "DINNERBATTLEPASS",
+        "DONLORENZO",
+        "DRAGON",
+        "EASTER25!",
+        "EasterYuki",
+        "EGGHunt!!!",
+        "EggStyle",
+        "EGODEFENSE",
+        "EGOISTNOW",
+        "FESTIVEGOAL",
+        "FINALFESTIVE",
+        "FINE1M",
+        "FIREWORKMONSTER",
+        "FIREWORKNEXTWEEK",
+        "FIRSTGIFT",
+        "FIXESLATERTODAY",
+        "FLOW3V3",
+        "FORGIVEME",
+        "FROZENLOKI",
+        "GAGAMARU",
+        "GAGAREWORK",
+        "GATEKEEPOVER",
+        "GINGERBREADPASSER",
+        "GOALMET",
+        "GOALRUSH",
+        "GODSPEED!",
+        "HALFBAKED",
+        "HalloweenFinale",
+        "HappyHalloween",
+        "HAPPYHOLIDAYS",
+        "HAPPYSNOWLOCK",
+        "HEARTFLOW",
+        "HEARTSTYLE",
+        "HIORIHYPE",
+        "HIORIREWORK",
+        "HIORISOON",
+        "HOLIDAYHYPE",
+        "HOORAY",
+        "HYP3",
+        "IGAGOAT1.8M!",
+        "INSANETRAILERSOON",
+        "ISAGIEVOLUTION",
+        "ISAGISHOES",
+        "ISAGITODAY",
+        "ISAGIWINS",
+        "ITOSHIBROTHERS",
+        "ITSBACK",
+        "ITSNESS",
+        "JULIANLOKI!",
+        "KAISER2M",
+        "KAISERFIX",
+        "KAISERSOON",
+        "KARASU",
+        "KARASUHYPE",
+        "KING1.5M",
+        "KINGAUTHORITY!",
+        "KINGAWAKENING!",
+        "KINGNEXTWEEK",
+        "KINGOVERHAUL!",
+        "KINGREWORK",
+        "KIYORARELEASE",
+        "KUNIGAMIUPD",
+        "KUNIGAMIW",
+        "KURONANOW",
+        "KURONATOMORROW",
+        "KURONAUNVAULTING",
+        "LASTWEEKSORRY",
+        "LAVINHONEXTWEEK",
+        "LAZYLUCKYGENIUS",
+        "LikeGoalHalloween",
+        "LOKISOON!",
+        "LUCKY7!",
+        "LUCKYCODE10",
+        "LUNARYEAR",
+        "MAGICIAN",
+        "MASSIVEBUGFIXES!",
+        "MASSIVEUPDATE",
+        "MASTEROFALLTRADES",
+        "MASTEROFALLTRADES!",
+        "MASTERS!",
+        "MBFORDELAY",
+        "MCNAGIHYPE",
+        "METAVISION",
+        "MINIUPDATE",
+        "MIRO1MCCU",
+        "MiroMiroMiro",
+        "MONST3R",
+        "MRSPAX",
+        "NAGIATEPUMPKINS",
+        "NAGIEVOLUTION",
+        "NAGITHEBEST",
+        "NEL2.0",
+        "NELEVENT",
+        "NELFLOWSPINS",
+        "NELHIORI",
+        "NELISAGI",
+        "NELKING",
+        "NELLUCKY",
+        "NELNAGIW",
+        "NELPASS",
+        "NELQUEST",
+        "NELQUEST2",
+        "NELREO!",
+        "NELSORRY",
+        "NELSTYLESPINS",
+        "NELSUMMER!",
+        "NELTEAMSHYPE",
+        "NeoEgoistRIN!",
+        "NESSFLOW",
+        "NESSMAGICIAN",
+        "NESSNEXTWEEK",
+        "NESSTODAY",
+        "NEWCHEM1.1M!",
+        "NEWCHEMSOON",
+        "NEWHIORI!",
+        "NEWIMPACTS",
+        "NEWJERSEYS",
+        "NEWMAP",
+        "NEWMASTER",
+        "NEWYEARHYPE",
+        "NIKOHERE",
+        "NIKOSOON",
+        "NINJASPINS",
+        "OOPSDELAY",
+        "OPUPDATE",
+        "OTOYA!!",
+        "OTOYAUPD",
+        "PhantomCode",
+        "PRODIGYBALANCE",
+        "QOLNEXTWEEK!",
+        "QOLUPD",
+        "QUARTERFINALSOON",
+        "RABBITPULL",
+        "RAICHIHYPE",
+        "RANKED!",
+        "RANKEDRETURN",
+        "REAPERCODE",
+        "REBALANCES",
+        "RELEASED",
+        "REOHYPE",
+        "REORETURN",
+        "REOSOON",
+        "REVAMP!",
+        "REWORKW",
+        "Rin999K!",
+        "RINLOSES",
+        "RINRIN",
+        "RINSOON",
+        "RINTODAY",
+        "RIPGENERATIONAL",
+        "RIPISAGI5",
+        "SAEREWORK",
+        "SAERRY4DELAY",
+        "SAEW",
+        "SAEXSHIDOU",
+        "SANTALAVINHOHERE",
+        "SEMIFINALS",
+        "SerpentSpins",
+        "SHARKBOY",
+        "SHARKTIME",
+        "SHIDOUTOMORROW",
+        "SkeletonNagiHype",
+        "SMALLUPDATECODE",
+        "SNAKEDEFENCE!",
+        "SNOWFALLDELAY",
+        "SNOWFLAKE",
+        "SNOWLOCK1",
+        "SNOWLOCK2",
+        "SNOWLOCKDUO",
+        "SnowlockIsOver",
+        "SNUFFYSOON",
+        "SNUFFYUPD",
+        "SORRY4DELAY",
+        "SORRY4DELAY!!",
+        "SORRYDELAY",
+        "SORRYDELAYEASTER",
+        "SORRYDELAYGGS",
+        "SORRYFORDELAY",
+        "SORRYFORDELAY!!!!!",
+        "SORRYLOADING",
+        "SPEEDSTER",
+        "Sry4Delay",
+        "SUMMERPT1!",
+        "SUMMERUPDATE",
+        "TEAMBRAZIL",
+        "TEAMSPAIN",
+        "THANKS4BVISITS",
+        "THANKSGIVING",
+        "THANKYOU",
+        "THECODE",
+        "TheDestroyer!",
+        "THEDON",
+        "THEGODSPRINTER!",
+        "THEJOKER",
+        "THEMONK!",
+        "THESCYTHEDIDIT",
+        "THX30KLIKES",
+        "THX40KAGAIN",
+        "THX40KLIKES",
+        "TIMETIME",
+        "TONGUESOUT",
+        "TRAILER20K",
+        "TURKEYTURKEY",
+        "U20CUP",
+        "UBERSCONTINUES",
+        "UBERSMONTH",
+        "UBERSTAKEOVER",
+        "UBERSVOTE",
+        "UPDATEHYPE3",
+        "VALENTINESDAY",
+        "WEEK2HYPE",
+        "WEHIT2M",
+        "WEWANTSPINS",
+        "WHATSNESS",
+        "WILDCARD",
+        "WINTERISCOMING",
+        "WINTERPART2",
+        "WIROWIROWIRO",
+        "WMIRO",
+        "WORLDTOURNAMENT",
+        "WORLDTOURNAMENTPART3",
+        "WPATCH",
+        "WSNUFFY",
+        "WTEAMWORK",
+        "YENUPDATE",
+        "YoMichael",
+        "YUKIEVENTGOAL8V8HYPE",
+        "YUKIGLASSES",
+        "YUKIMIYA",
+        "ZOMBIETIME"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "ninja-time": {
+      "active": [
+        {
+          "code": "80MilVisits!",
+          "reward": "10 Spins of all types"
+        },
+        {
+          "code": "AbyssImprovementsOnTheHouse!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "AbyssModeImprovementsPlease!",
+          "reward": "30 Spins"
+        },
+        {
+          "code": "Almost3KInterested!",
+          "reward": "30 Spins of all types"
+        },
+        {
+          "code": "Anniversary!",
+          "reward": "100 Spins of all types"
+        },
+        {
+          "code": "AwakeningSkip!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "BugFixes!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "CrimsonEyes!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "CustomChakraColors!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "CustomColours!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "CustomMasksSoon!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "DailyBonuses?!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "DailyMissions!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "DelayDelayDelay",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "DelayDelayDelay!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "DelayedChristmasGift!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "DelayedDelays!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "DelayTime!",
+          "reward": "25 Spins of all types"
+        },
+        {
+          "code": "Divine!",
+          "reward": "20 Spins"
+        },
+        {
+          "code": "DroprateTweaks!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "DualEyesTweak!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "Event!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "FixedFixes!",
+          "reward": "8 Spins of all types"
+        },
+        {
+          "code": "Fixes!",
+          "reward": "8 Spins of all types"
+        },
+        {
+          "code": "GoldDust!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "HarmonyRaid!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "HuntOrBeHunted!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "InventoriesSorted!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "IronSand!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "LetItSnow!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "LifeSteal!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "M1Rework!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "MassiveBackendRework!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "MobileQOL!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "MountMyo!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "MovesetSavingUpgrade!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "MovesetUIRework!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "NewChakraJump!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "NewGuildsHunting!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "NewSandMissions!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "NewSpecialBoss?!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "NewSpinFocus!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "OneTailsStage2!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "Organizations!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "PartyImprovementsWhen!",
+          "reward": "30 Spins"
+        },
+        {
+          "code": "PastOfShuraku!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "PrestigeRework!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "QoL!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "QualityOfLife!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "RavensDespair!",
+          "reward": "50 Spins of all types"
+        },
+        {
+          "code": "RavensUltimateEternal!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "RedEyesAwakeningImprovements!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "Reworks!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "RoamingSquads!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "SandPart2Soon!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "SandWeapons!",
+          "reward": "25 Spins of all types"
+        },
+        {
+          "code": "ShadowSetting!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "SixPathsAwakening!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "SixPathsClan!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "SlightDelay!",
+          "reward": "20 Spins"
+        },
+        {
+          "code": "SmallPatch!",
+          "reward": "10 Spins of all types"
+        },
+        {
+          "code": "SnowRelease!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "Sorry!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "SorryAbtDelay",
+          "reward": "10 Spins of all types"
+        },
+        {
+          "code": "SorryForDeDelay!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "SorryForRevert!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "SusanooSoon!",
+          "reward": "50 Spins of all types"
+        },
+        {
+          "code": "SusanooWhen?!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "ThanksFor3KInterested!",
+          "reward": "50 Spins of all types"
+        },
+        {
+          "code": "ThanksFor5KCCU!",
+          "reward": "50 Spins"
+        },
+        {
+          "code": "ThanksFor5KInterested!",
+          "reward": "50 Spins of all types"
+        },
+        {
+          "code": "ThankYouFor30KInterested!",
+          "reward": "30 Spins"
+        },
+        {
+          "code": "ThankYouFor5KSubs!",
+          "reward": "80 Spins"
+        },
+        {
+          "code": "ThankYouFor7KInterested!",
+          "reward": "25 Spins of all types"
+        },
+        {
+          "code": "ToadForest!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "ToadSage!",
+          "reward": "30 Spins of all types"
+        },
+        {
+          "code": "Totsuka!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "UltimateRaven!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "ValleyOfReverence!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "WInterPart2!",
+          "reward": "20 Spins of all types"
+        },
+        {
+          "code": "Wired!",
+          "reward": "15 Spins of all types"
+        },
+        {
+          "code": "WoodGolemAwakening!",
+          "reward": "15 Spins"
+        },
+        {
+          "code": "Yata!",
+          "reward": "15 Spins of all types"
+        }
+      ],
+      "expired": [
+        "105KLIKES",
+        "10M",
+        "10spins",
+        "115KLIKES",
+        "12MVISITS",
+        "150KFAVS",
+        "150KMEMBERS",
+        "15MVISITS",
+        "195KFAVS",
+        "20viewersonbytelivethanksforthisguys",
+        "2M",
+        "2Weeks!",
+        "2xTransparency!",
+        "35MVISITS",
+        "50MILVISITS!",
+        "55KLIKES",
+        "60KLIKES",
+        "70KLIKES",
+        "70Mil!",
+        "77KLIKES",
+        "8M",
+        "9M",
+        "ainwpapai",
+        "ARIS",
+        "bestfixever!",
+        "BetterPerformance!",
+        "bigupdatesoon",
+        "BlackFlames!",
+        "BossRush!",
+        "BossStudios!",
+        "bugfixes9999",
+        "BYTE10K",
+        "BYTE1K",
+        "BYTE2K",
+        "Bytebirthday",
+        "canetaazulazulaneta",
+        "Clones!",
+        "codesinmenu!",
+        "Combo!",
+        "Confia!",
+        "CONFIABRASIL!",
+        "ConsoleSupport!",
+        "cookinglee!",
+        "DATARECONCILE",
+        "deladinhoproscrias",
+        "dialoguefixes!",
+        "DNAVial!",
+        "docedeleite",
+        "DualEyes!",
+        "EasterSpirit!",
+        "eightgatesiscoming!",
+        "ElementalMastery!",
+        "ElementRebalance!",
+        "elementrework",
+        "EquipmentRecode!",
+        "EternalMeteor!",
+        "Eureka!",
+        "EventFixes!",
+        "ExpansionClan!",
+        "ExpansionFamily!",
+        "Eyes!",
+        "FeriasProNoty",
+        "FIXANDNEWS",
+        "FixesAndAFKWorld!",
+        "fixessorry",
+        "fixmeditation!",
+        "fixramproblem10",
+        "fixtraining",
+        "FLAWLESSBirthday",
+        "flopalovehealer",
+        "Genjutsu!",
+        "Gifting!",
+        "GlazeTheBoss!",
+        "GoldenMode!",
+        "HiddenSpecial!",
+        "HYGON",
+        "hygonratlover!",
+        "ihatespeedbugs!",
+        "ILOVEMOBILES",
+        "InfiniteDungeon!",
+        "insanebooster",
+        "InventoryScrewup!",
+        "KCM2Release!",
+        "khirow",
+        "leeisout!",
+        "LeftoverSpins!",
+        "lepolepo",
+        "lindao",
+        "LongMaint!",
+        "LUXINN",
+        "MajorFixes!",
+        "MAYBEPERFORMANCE",
+        "meditationshutdown!",
+        "MENUREVAMP",
+        "MiniPatch!",
+        "MiniUpdate",
+        "MiniUpdate2!",
+        "MOBILEMOUNTS",
+        "MOREMOBILESFIX!",
+        "MORENPCFIXES",
+        "NewFamilies!",
+        "newitems90",
+        "NewQuests!",
+        "NOTYLINDO",
+        "OnboardingRework!",
+        "ParticleRelease!",
+        "PerfectedKCM!",
+        "PerformanceFix!",
+        "polenguinho",
+        "PreSandEvent!",
+        "ProphecyChild!",
+        "QoLUpdate!",
+        "RAIDBOSS",
+        "RAIDS!",
+        "Rebalanced!",
+        "reboleichaum",
+        "ReincarnationEyes!",
+        "RELEASE",
+        "RELEASETESTERS",
+        "RetreatToSafety!",
+        "Rushed!",
+        "Sand!",
+        "SandDelay!",
+        "SandHype!",
+        "SandPatch!",
+        "SandSoon!",
+        "SandTmrw!",
+        "saturdayfixes1",
+        "ScorchRelease!",
+        "SecretCodee!",
+        "sextou1",
+        "shutdown909090",
+        "SilverFortune!",
+        "SilverStorm!",
+        "SinbadIsTheGoat",
+        "skeletonupdate90",
+        "Sorry4DaDelay!",
+        "Sorry4TheDelay!",
+        "SorryAboutDelay!",
+        "sorryforbugs999999",
+        "SorryForDelay!",
+        "sorryforleeproblems",
+        "SORRYFORNEWBUGS",
+        "SorryForRaidRewards!",
+        "sorryforthedelay90",
+        "SORRYFORTROUBLE",
+        "SorryMobile",
+        "sorrymobile5",
+        "SORRYSHUTDOWN",
+        "Soz4Delay!",
+        "SPECIALPLUG!",
+        "STFIX",
+        "StoneMuty!",
+        "stupidnetwork",
+        "SubjugateReplaced!",
+        "SUPERLUXINN",
+        "TaijutsuUpdate!",
+        "TBACodeDidWork!",
+        "TBACodeDoesNotWork!",
+        "TenseiganAwakening!",
+        "thanks1M",
+        "thanks3m",
+        "THANKS50KVISITS",
+        "THANKS70KVISITS",
+        "thanks8K",
+        "ThisIsAura!",
+        "Throwables!",
+        "THX100KDISC",
+        "THX100KFAV",
+        "thxbrandon!",
+        "trytofixping",
+        "ttonback",
+        "TyphoonElement!",
+        "TyphoonFixed!",
+        "Update0.5!",
+        "Vailuanamiga",
+        "VanishingImage!",
+        "VermillionProdigy!",
+        "WanderingNPCs",
+        "WarMode!",
+        "YOUTUBEBACK!!",
+        "youtubeisback!",
+        "YTIntervention!",
+        "zrb4iano"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "steal-a-brainrot": {
+      "active": [
+        {
+          "code": "BESTBRAINROTEVER",
+          "reward": "La Vacca Saturno Saturnita"
+        },
+        {
+          "code": "saturn",
+          "reward": "La Vacca Saturno Saturnita"
+        }
+      ],
+      "expired": [
+        "BLUESAMMY67",
+        "BRUNOISBETTER",
+        "CODESAREREAL321",
+        "FREE500DRAGS",
+        "FREEOCTO555",
+        "FREEOCTOBASE333W",
+        "FREEOCTOBLOCK777",
+        "FREEPREMIUMOCTO777",
+        "ILOVEFOOD123",
+        "IMANEGG",
+        "JOHNPORKDAPIGGY",
+        "L2EXPLOITERS",
+        "NEEDTHIS4CRAFT333",
+        "OCTOBLOCK555",
+        "SUMMERUPD3",
+        "WAVERIDER4FREELOL",
+        "WSUMMERUPD1"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "99-nights-in-the-forest": {
+      "active": [
+        {
+          "code": "afterparty",
+          "reward": "15 Diamonds"
+        },
+        {
+          "code": "forestwakesup26",
+          "reward": "15 Diamonds and three flames"
+        }
+      ],
+      "expired": [
+        "happyhalloween"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "driving-empire": {
+      "active": [
+        {
+          "code": "10KITS",
+          "reward": "Redeem for 10 Tuning Kits"
+        },
+        {
+          "code": "200KMEMBERS",
+          "reward": "Redeem for 50,000 Cash"
+        },
+        {
+          "code": "2MLIKES",
+          "reward": "Redeem for 2017 Nissan GT-R Bolt"
+        },
+        {
+          "code": "CALL911",
+          "reward": "Redeem for 50,911 Cash"
+        },
+        {
+          "code": "CUSTOMIZATION2025",
+          "reward": "Redeem for 10 Tuning Kits"
+        },
+        {
+          "code": "GOBBLEGOBBLE",
+          "reward": "Redeem for 10 Tuning Kits"
+        },
+        {
+          "code": "HAPPY2026",
+          "reward": "Redeem for Year gift"
+        },
+        {
+          "code": "MARCH2026",
+          "reward": "Redeem for Chevrolet Camaro ZL1"
+        },
+        {
+          "code": "NASCAR100M",
+          "reward": "Redeem for 200 Trophies"
+        },
+        {
+          "code": "NEWYEAR2025",
+          "reward": "Redeem for 75,000 Cash"
+        },
+        {
+          "code": "RDCNASCAR25",
+          "reward": "Redeem for Driving Empire NASCAR"
+        },
+        {
+          "code": "RECORD",
+          "reward": "Redeem for 75,000 Cash"
+        },
+        {
+          "code": "SPOOKY",
+          "reward": "Redeem for 80,000 Cash"
+        },
+        {
+          "code": "USA250",
+          "reward": "Redeem for Rocket Car"
+        },
+        {
+          "code": "UWU",
+          "reward": "Redeem for 75,000 Cash"
+        },
+        {
+          "code": "VEGAS2025",
+          "reward": "Redeem for 50,000 Cash"
+        },
+        {
+          "code": "WHOOPS",
+          "reward": "Redeem for 75,000 Cash"
+        },
+        {
+          "code": "ZOOM",
+          "reward": "Redeem for 2023 Fairway Zoomer"
+        }
+      ],
+      "expired": [
+        "1BVisits",
+        "1MILCASH",
+        "1MILLIONLIKES",
+        "450KLIKES",
+        "500kLIK3S",
+        "50YEARS911TURBO",
+        "600kL1kes",
+        "650KL1KES",
+        "700KL1KES",
+        "700MVISITS",
+        "800kLIKES",
+        "850kLikes",
+        "900KLIKES",
+        "950klikes",
+        "CARCRUSHERS",
+        "EMPIRE",
+        "HAPPYXMAS",
+        "MEMBERS",
+        "OOPSMYBADLOL",
+        "ROBLOX",
+        "THANKYOU",
+        "VALENTINES",
+        "Winterfest2023"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "restaurant-tycoon-2": {
+      "active": [
+        {
+          "code": "Gruffalo",
+          "reward": "10 diamonds"
+        },
+        {
+          "code": "Ocean",
+          "reward": "Dolphin item"
+        },
+        {
+          "code": "Razorfishgaming",
+          "reward": "250 cash"
+        },
+        {
+          "code": "Subtoveddev",
+          "reward": "250 cash"
+        }
+      ],
+      "expired": [
+        "alien",
+        "billion",
+        "future",
+        "Luxury",
+        "slimy",
+        "sunset",
+        "underwater",
+        "winter2024"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "rivals": {
+      "active": [
+        {
+          "code": "BACK2BACK",
+          "reward": "RIA26 Best Shooter Charm (All Weapons,"
+        },
+        {
+          "code": "BONUS",
+          "reward": "1 Key"
+        },
+        {
+          "code": "BOOST",
+          "reward": "1 Key"
+        },
+        {
+          "code": "COMMUNITY26",
+          "reward": "x1 Community Wrap"
+        },
+        {
+          "code": "ELBILLUG",
+          "reward": "Nothing (joke code, it’s GULLIBLE spelled backwards)"
+        },
+        {
+          "code": "FREE200",
+          "reward": "3 Keys"
+        },
+        {
+          "code": "NOSNIYGAMESONTOP",
+          "reward": "RIA26 Best Studio Emote"
+        },
+        {
+          "code": "roblox_rtc",
+          "reward": "5 Keys"
+        }
+      ],
+      "expired": [
+        "100MVISITS",
+        "5B_VISITS_WHATTTTTT",
+        "BESTSHOOTERGAME",
+        "CANNONBALLLLL",
+        "COCONUTBONK",
+        "COMMUNITY",
+        "COMMUNITY10",
+        "COMMUNITY11",
+        "COMMUNITY12",
+        "COMMUNITY13",
+        "COMMUNITY14",
+        "COMMUNITY15",
+        "COMMUNITY16",
+        "COMMUNITY17",
+        "COMMUNITY18",
+        "COMMUNITY19",
+        "COMMUNITY2",
+        "COMMUNITY20",
+        "COMMUNITY21",
+        "COMMUNITY22",
+        "COMMUNITY23",
+        "COMMUNITY24",
+        "COMMUNITY25",
+        "COMMUNITY3",
+        "COMMUNITY4",
+        "COMMUNITY5",
+        "COMMUNITY6",
+        "COMMUNITY7",
+        "COMMUNITY8",
+        "COMMUNITY9",
+        "FREE100",
+        "FREE107",
+        "FREE127",
+        "FREE129",
+        "FREE133",
+        "FREE135",
+        "FREE137",
+        "FREE138",
+        "FREE150",
+        "FREE155",
+        "FREE158",
+        "FREE160",
+        "FREE165",
+        "FREE167",
+        "FREE169",
+        "FREE171",
+        "FREE172",
+        "FREE173",
+        "FREE176",
+        "FREE178",
+        "FREE181",
+        "FREE183",
+        "FREE185",
+        "FREE187",
+        "FREE188",
+        "FREE189",
+        "FREE190",
+        "FREE191",
+        "FREE194",
+        "FREE196",
+        "FREE197",
+        "FREE198",
+        "FREE199",
+        "HAPPYRIVALSWEEN",
+        "IMMELTINGHELP",
+        "IREADCHANGELOGS",
+        "RELEASE",
+        "REWARD26",
+        "RIVALSSUMMER",
+        "SORRY",
+        "SUMMERRR",
+        "TEN_BILLION_VISITS_OMG",
+        "THANKYOU_1BVISITS!",
+        "WRATH"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "grow-a-garden-2": {
+      "active": [
+        {
+          "code": "FREESEED",
+          "reward": "3 Uncommon Seed Pack/ Fall Seed Pack"
+        },
+        {
+          "code": "REMEMBERTODRINKWATER",
+          "reward": "1 Common Watering Can"
+        },
+        {
+          "code": "TEAMGREENBEAN",
+          "reward": "3 Green Bean Seeds"
+        },
+        {
+          "code": "WATERYOPLANTS",
+          "reward": "10 Common Watering Cans"
+        }
+      ],
+      "expired": [],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "anime-fighting-simulator": {
+      "active": [
+        {
+          "code": "100KFAVS",
+          "reward": "2 Chikara Boosts, 10 Trait Rerolls, 3 Fruit rolls, 3 Stat Boosts, and 500 Chikara Shards"
+        },
+        {
+          "code": "100THOUSANDLIKES",
+          "reward": "1000 Chikara, 3 Stat boosts, and 3 Fruit rolls"
+        },
+        {
+          "code": "400KMEMBERS",
+          "reward": "2000 TenseiShards, 5 FruitRolls, 4 YenBoosts, and 1000 TowerTokens"
+        },
+        {
+          "code": "7.5SHUTDOWN",
+          "reward": "1500 Tensei and 1 Temp Server Boost"
+        },
+        {
+          "code": "BPEXP",
+          "reward": "400 Battle Pass XP"
+        },
+        {
+          "code": "CLOVERPASS",
+          "reward": "1000 Clover Tokens, 1000 Tensei Shards, 2500 Chikara Shards, 1 Temporary Server Boost, and 2 Shiny Potions"
+        },
+        {
+          "code": "DELAYCODE",
+          "reward": "8 Dungeon Keys"
+        },
+        {
+          "code": "DEMONLORD",
+          "reward": "2 Tensei Shard Boost, 4 Stat Boosts, 4 Yen Boosts, 1500 Tensei Shards, 1 Titan Serum, and 3000 Chikara Shards"
+        },
+        {
+          "code": "DIM2FASTFIX",
+          "reward": "500 Tensei Shards and 1 Server Boost"
+        },
+        {
+          "code": "DIM2FIXES",
+          "reward": "1 Temp Server Boost and 500 Tensei Shards"
+        },
+        {
+          "code": "DIMENSION2",
+          "reward": "500 Tensei Shards, 2 Yen Boosts, 2 Stat Boosts, and 2 Speed Training Boosts"
+        },
+        {
+          "code": "FASTFIX",
+          "reward": "1 Server Boost"
+        },
+        {
+          "code": "FIGHT",
+          "reward": "2000 Tensei, 4 Speed, 4 Stat, and 10 Trait Rerolls"
+        },
+        {
+          "code": "FIVEUPDATE",
+          "reward": "2000 Chikara, 2 Stat boosts, 2 Yen boosts, and 2 Training speed boosts"
+        },
+        {
+          "code": "FLAMEBREATHING",
+          "reward": "5,000 Chikara, 750 Tensei Shards, 5 Stat Boosts, 5 Training Speed Boosts, and 5 Yen Boosts"
+        },
+        {
+          "code": "HOTFIXPATCH",
+          "reward": "3000 Chikara, 2 Fruit Rolls, and 2 Stat Boosts"
+        },
+        {
+          "code": "LIBERATION",
+          "reward": "2 Stat Boost, 2 Yen Boost, 1000 Chikara, and 1 Server Boost"
+        },
+        {
+          "code": "MIDBUGFIX",
+          "reward": "1000 Chikara, 1 Server Boost, 2 Stat Boosts, and 2 Yen Boosts"
+        },
+        {
+          "code": "MIDWEEK",
+          "reward": "500 Tensei Shards, 2 Training Speed Boosts, 2 Yen Boosts, and 10 Trait Rerolls"
+        },
+        {
+          "code": "MIDWEEKUPD",
+          "reward": "3 Stat Boost, 3 Yen Boost, 3 Fruit rolls, and 1000 Chikara"
+        },
+        {
+          "code": "MOREFIXES",
+          "reward": "1 Server Boost, 2 Stat Boosts, 750 Tensei Shards, and 2 Yen Boosts"
+        },
+        {
+          "code": "QUICKFIX",
+          "reward": "3 Server Boosts"
+        },
+        {
+          "code": "QUICKSHUTDOWN",
+          "reward": "2000 Chikara, 2 Stat Boosts, and 2 Yen Boosts"
+        },
+        {
+          "code": "RELEASE",
+          "reward": "600 Chikara Shards and 1 Speed Training Boost"
+        },
+        {
+          "code": "RUMBLING",
+          "reward": "4 Stat Boosts, 2 Training Boosts, 10 Trait Rerolls, and 1 Temp Server Boost"
+        },
+        {
+          "code": "SEASON2",
+          "reward": "750 Tensei Shards, 4 Stat Boosts, 4 Training Speed Boosts, and 10 Trait Rerolls"
+        },
+        {
+          "code": "SHUTDOWNBOOST",
+          "reward": "Temporary Server Boost"
+        },
+        {
+          "code": "SORRY4SHUTDOWN",
+          "reward": "1000 Clover Token and 1 Temporary Server Boost"
+        },
+        {
+          "code": "SWORDINCIDENT",
+          "reward": "4 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 2 Limbo Keys"
+        },
+        {
+          "code": "THANKYOUFOR50K",
+          "reward": "3 Fruit rolls, 2 Yen Boosts, 2 Stat Boost, 10 Trait Rerolls, and 2 Training Speed Boost"
+        },
+        {
+          "code": "THANKYOUSUPPORT",
+          "reward": "1 Fruit Roll and 2 Stat Boost"
+        },
+        {
+          "code": "TOURNEY",
+          "reward": "1500 Chikara, 1500 Tensei Shards, 4 Training Speed Boost, 4 Stat Boost, and 4 Yen Boost"
+        },
+        {
+          "code": "TOURNEYFIX",
+          "reward": "1 Temporary Server Boost, 4 Stat Boosts, 4 Chikara Boosts, and 2 Tensei Shard Boosts"
+        },
+        {
+          "code": "TRIPLET",
+          "reward": "1000 Tower Tokens, 2 Shifting Serums, 4 Training Speed Boost, 4 Stat Boost, and 2000 Tensei Shards"
+        },
+        {
+          "code": "UPD3RELEASE",
+          "reward": "3 Chikara Boost, 3 Yen Boost, 3 Stat Boost, 1000 Chikara, and 1 Champion Luck Boost"
+        },
+        {
+          "code": "UPD4RELEASE",
+          "reward": "3 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 2 Fruit Rolls"
+        },
+        {
+          "code": "UPDATE1",
+          "reward": "1 Stat Boost, 1 Chikara boost, 1 Yen Boost, 12 Trait Reroll, 5 Fruit Roll, 1 Malevolent Key, and 1k Chikara"
+        },
+        {
+          "code": "UPDATE2PLAY",
+          "reward": "3 Yen Boost, 3 Stat Boost, 3 Fruit Rolls, 12 Trait Rerolls, and 1000 Chikara Shards"
+        },
+        {
+          "code": "UPDATE9",
+          "reward": "5000 Chikaras, 3000 TenseiShards, 12 TraitRerolls, 4 StatBoosts, and 4 TrainingSpeedBoosts"
+        },
+        {
+          "code": "UPDATEWED",
+          "reward": "2 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 1 Server Boost"
+        },
+        {
+          "code": "UPDFIXES",
+          "reward": "1 Temporary Server Boost"
+        },
+        {
+          "code": "WIZARDKING",
+          "reward": "2,000 Clover Tokens, 2 Clover Giftbox, 5,000 Chikara, 3,000 Tensei Shards, 4 Stat Boost, 2 Chikara Boost, and 2 Fruit Rolls"
+        },
+        {
+          "code": "WTOPSPEED",
+          "reward": "1 Temp Server Boost"
+        }
+      ],
+      "expired": [
+        "BUGPATCH",
+        "LIKES10K",
+        "NPCFIX",
+        "OPTIMISATION",
+        "SORRY5SHUTDOWN",
+        "SORRY6SHUTDOWN",
+        "SORRYFORSHUTDOWN",
+        "THANKSFOR20K"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "no-limit-lifting-simulator-2": {
+      "active": [
+        {
+          "code": "UPDATE",
+          "reward": "Get 1 Fox pet"
+        }
+      ],
+      "expired": [],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "restaurant-tycoon-3": {
+      "active": [
+        {
+          "code": "africa",
+          "reward": "Get 10 Diamonds"
+        },
+        {
+          "code": "alora",
+          "reward": "Get 10 minutes of Cash Multiplier"
+        },
+        {
+          "code": "banana26",
+          "reward": "Get Free Rewards"
+        },
+        {
+          "code": "BikeRide",
+          "reward": "Get 100 Cash"
+        },
+        {
+          "code": "bounce99",
+          "reward": "10 minute Boost"
+        },
+        {
+          "code": "cake3",
+          "reward": "Get 150 Cash"
+        },
+        {
+          "code": "cookin",
+          "reward": "Get 150 Cash"
+        },
+        {
+          "code": "craig",
+          "reward": "Get 10 Diamonds"
+        },
+        {
+          "code": "dineanddash",
+          "reward": "Get 250 Cash"
+        },
+        {
+          "code": "diva",
+          "reward": "Get 250 Cash"
+        },
+        {
+          "code": "easter2026",
+          "reward": "Get 10 Diamonds"
+        },
+        {
+          "code": "frosting2",
+          "reward": "Get 5 Diamonds"
+        },
+        {
+          "code": "light26",
+          "reward": "Get 250 Cash"
+        },
+        {
+          "code": "moon1",
+          "reward": "Get 10 Diamonds"
+        },
+        {
+          "code": "pizza123",
+          "reward": "Get 150 Cash"
+        },
+        {
+          "code": "relaxing9",
+          "reward": "Get 200 Cash"
+        },
+        {
+          "code": "rig2",
+          "reward": "Get 10 Diamonds"
+        },
+        {
+          "code": "spoon3",
+          "reward": "Get 250 Cash"
+        },
+        {
+          "code": "star2",
+          "reward": "Get 10 Diamonds"
+        },
+        {
+          "code": "tiki7",
+          "reward": "Get 250 Cash"
+        },
+        {
+          "code": "ube1",
+          "reward": "Get 5 Diamonds"
+        },
+        {
+          "code": "UltrawEats",
+          "reward": "Get Ultraw pack"
+        },
+        {
+          "code": "vivaldi",
+          "reward": "Get 400 Cash"
+        }
+      ],
+      "expired": [
+        "01",
+        "10million",
+        "ALPHA",
+        "bacon",
+        "birthday",
+        "classic16",
+        "EarlyBird",
+        "FULMOON",
+        "gift123",
+        "Gullible100",
+        "heart5",
+        "horse2026",
+        "itsfree",
+        "jukebox",
+        "milkshake",
+        "outrage",
+        "Photon",
+        "RT3",
+        "SANTY22",
+        "Seniac",
+        "snowball",
+        "spook1",
+        "spotlight",
+        "thanks5",
+        "toytime",
+        "tuna5",
+        "vip123",
+        "Vitolinocode",
+        "WeirdBlox"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "elemental-dungeon": {
+      "active": [
+        {
+          "code": "CHRONOS",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "EASTER2026",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "FIREWORK",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "POWERUP",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "THWIP",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "TIMESUP26",
+          "reward": "Free Rewards"
+        }
+      ],
+      "expired": [
+        "100MVISITSTHANKS",
+        "10MVISITS",
+        "ASCENDED2025",
+        "ASTRONOMICAL",
+        "ATLANTIS212",
+        "BETA",
+        "CALMDOWNTANGERINES",
+        "CLOUDDUNGEON",
+        "CURSEDEVENT",
+        "DARKNESS",
+        "DONTDOUBTDAKID",
+        "EASTER2024",
+        "EDISBACK",
+        "ELEMENTALMAS",
+        "FALLSEASON",
+        "FESTIVEBESTIVE",
+        "FOLLOWER",
+        "frog",
+        "HALLOWEEN",
+        "ITSSNOWING",
+        "ITSSNOWINGAGAIN",
+        "LIGHTNINGSHOCK",
+        "MECHISHERE",
+        "MIDCODE",
+        "NEWCODE",
+        "NUWUPDAIT",
+        "RefundSP",
+        "SORRY",
+        "SORRYDELAYS",
+        "SORRYDELAYS2",
+        "SORRYDELAYS3",
+        "SPOOKY2024",
+        "SubToToadBoiGaming",
+        "TEAMMALT",
+        "TEAMMOOSE",
+        "TEAMZOOD",
+        "THISCODEISVERYSHORTHEHEEHE",
+        "TradingSoon",
+        "TRICKORTREAT",
+        "tyfor20kplayers",
+        "TYFOR50KPLAYERS851",
+        "UNDERWORLD",
+        "UPD4",
+        "UPDATEHYPEGIFT",
+        "WEAREBACK",
+        "WERESOSORRYDELAYS2",
+        "XMAS"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "murder-mystery-v": {
+      "active": [
+        {
+          "code": "TROPHIES",
+          "reward": "72 different Rewards"
+        },
+        {
+          "code": "VAMPIRE",
+          "reward": "Free Rewards"
+        }
+      ],
+      "expired": [
+        "500K",
+        "BANNED",
+        "D4RT",
+        "SH4RK",
+        "TYFOR10M",
+        "VALP"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "bloxstrike": {
+      "active": [
+        {
+          "code": "ANIME",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "FREEDOM",
+          "reward": "250 Credits"
+        },
+        {
+          "code": "REACTORDELAY",
+          "reward": "Free Rewards"
+        }
+      ],
+      "expired": [
+        "10KCCU",
+        "10MVISITS",
+        "1MGROUPMEMBERS",
+        "1MVISITS",
+        "25MILLIONVISITS",
+        "8KCCU",
+        "APEXCOLLECTION",
+        "BIRTHDAYBOYMALONI",
+        "BLOXSTRIKEXMEDAL",
+        "BUTTERFLYCASE",
+        "CAPTAINTTIROB",
+        "CHRISTMAS2025",
+        "DUST_II",
+        "EASTER2026",
+        "GAMEBROKE",
+        "GAMEBROKE318",
+        "HAPPYBDAYYUUTO",
+        "HELLENA",
+        "LIL30MINUTEDOWNTIME",
+        "LORE",
+        "MICHAELSRETURN",
+        "Missions",
+        "MYFAULTYALL",
+        "NEBULA",
+        "NEWYEARS2025",
+        "OCTOBER_DOWNTIME",
+        "QOLUPDATE",
+        "REACTOR",
+        "RIANOMINATED2026",
+        "SEASIDE",
+        "SORRYTHURSDAY",
+        "STILETTO",
+        "SUPERSOAKED",
+        "TRADINGRELEASE",
+        "TRADINGUPDATE",
+        "UPDATE320",
+        "WEAREBACK",
+        "WINTER2025"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "slayers-2": {
+      "active": [
+        {
+          "code": "ANIM4L",
+          "reward": "50 Spins and 5 Ores"
+        },
+        {
+          "code": "ARTRESET",
+          "reward": "Reset Art"
+        },
+        {
+          "code": "BREATHRESET",
+          "reward": "Reset Breath"
+        },
+        {
+          "code": "M1LL1ON",
+          "reward": "50 Spins, 10000 Wen, and 2x Luck"
+        },
+        {
+          "code": "Release26",
+          "reward": "100 Wen, 30 Spins, and 1 Refinement Ore"
+        },
+        {
+          "code": "Roguelike",
+          "reward": "35 Spins"
+        },
+        {
+          "code": "RoguelikeRaceReset",
+          "reward": "Reset Race"
+        },
+        {
+          "code": "SkillTreeReset",
+          "reward": "Reset Skill Tree Points"
+        },
+        {
+          "code": "SPINS50",
+          "reward": "50 Spins"
+        }
+      ],
+      "expired": [
+        "EVILARTSPINS",
+        "POINTSRESET",
+        "SORRYFORSHUTDOWN"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "anime-zero": {
+      "active": [
+        {
+          "code": "1MVISITS",
+          "reward": "50k Gold, 200 Trait Rerolls, and 300 Lucky Spins"
+        },
+        {
+          "code": "AZISOUT",
+          "reward": "1 Lucky Spins, 5 Rolls, and 1.5k Gold"
+        },
+        {
+          "code": "BACKUPSTRONGER",
+          "reward": "25k Gold, 25 Trait Rerolls, and 50 Lucky Spins"
+        },
+        {
+          "code": "BENICE2ME",
+          "reward": "100k Gold and 222 Trait Rerolls"
+        },
+        {
+          "code": "bigtypo"
+        },
+        {
+          "code": "HOP3YOU3NJOY",
+          "reward": "250 Rolls"
+        },
+        {
+          "code": "LAPASSION",
+          "reward": "10k Gold, 25 Trait Rerolls, and 60 Lucky Spins"
+        },
+        {
+          "code": "LESSLAG",
+          "reward": "10 Trait Rerolls, 25 Lucky Spins, and 300 Gems"
+        },
+        {
+          "code": "LETSGO",
+          "reward": "20 Rolls, 5 Trait Rerolls, and 2k Gold"
+        },
+        {
+          "code": "NEWRAID",
+          "reward": "100 trait rerolls, 75k coins, and 10k gems , requires level 50 or more)"
+        },
+        {
+          "code": "PATCH1",
+          "reward": "10 Rolls, 3 Lucky Spins, and 150 Gems"
+        },
+        {
+          "code": "PATCH2",
+          "reward": "5k Gold, 3 Trait Rerolls, and 250 Gems"
+        },
+        {
+          "code": "PATCHNOTE67",
+          "reward": "10k Gold, 50 Trait Rerolls, and 75 Lucky Spins"
+        },
+        {
+          "code": "RELEASE",
+          "reward": "1 Lucky Spins, 10 Rolls, and 2.5k Gold"
+        },
+        {
+          "code": "SERVERLIVE67",
+          "reward": "222 Lucky Spins and 67 Trait Rerolls"
+        },
+        {
+          "code": "SIXSEVEN",
+          "reward": "67 Gold"
+        },
+        {
+          "code": "SORRYFORDELAY",
+          "reward": "50 trait rerolls, 25k coins, and 5k gems , requires level 25 or more)"
+        },
+        {
+          "code": "SORRYXD67",
+          "reward": "25 Lucky Spins and 300 Gems"
+        },
+        {
+          "code": "TYASHIRA",
+          "reward": "500 Lucky Spins"
+        },
+        {
+          "code": "TYFRIGID",
+          "reward": "222 Trait Rerolls"
+        },
+        {
+          "code": "UPDATESOONWEPROMISE",
+          "reward": "100 trait rerolls, 100k coins, and 11 lucky spins"
+        }
+      ],
+      "expired": [],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "drill-to-earths-core": {
+      "active": [
+        {
+          "code": "GAMENAME",
+          "reward": "500 Cores"
+        }
+      ],
+      "expired": [
+        "Expiration",
+        "Typos"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "prehistoric-farm": {
+      "active": [
+        {
+          "code": "NESSIEISHERE",
+          "reward": "10k Coins and Diplodocus egg"
+        },
+        {
+          "code": "UICHANGES",
+          "reward": "800 Coins and Double Luck for 30 Minutes"
+        },
+        {
+          "code": "UPDATE05",
+          "reward": "20k Coins and Double EXP for 30 minutes"
+        }
+      ],
+      "expired": [
+        "OGURICAPSORRY",
+        "SORRYFORDELAYS"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "vampire-life": {
+      "active": [
+        {
+          "code": "KAISERTORTOYT",
+          "reward": "2x XP for 2 hours"
+        },
+        {
+          "code": "WFEEDVAMPS",
+          "reward": "4x XP for 1 hour"
+        }
+      ],
+      "expired": [
+        "CRYHACKERSLOL",
+        "ILOVEALLVAMP",
+        "NEWCODNEWNPC",
+        "NEWCODUPDATE27",
+        "Omg300Likes",
+        "RESETPOINTUNK",
+        "SORRY2KL",
+        "SORRYBUGSADM",
+        "SORRYILOVELALL",
+        "THANKS1KL",
+        "THANKS500",
+        "THANKS700L",
+        "ThankYou300"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "deep-fishing": {
+      "active": [
+        {
+          "code": "BigFish",
+          "reward": "3 Meadow Bait"
+        },
+        {
+          "code": "boats",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "Fishing",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "Frostmere",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "Gifting",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "keys",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "kraken",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "Mutations",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "pond",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "Release",
+          "reward": "$1000"
+        },
+        {
+          "code": "skins",
+          "reward": "3 Meadow Bait"
+        },
+        {
+          "code": "sunkencrown",
+          "reward": "5 Meadow Bait"
+        },
+        {
+          "code": "ThanksforPlaying",
+          "reward": "$5000 and Luck Potion"
+        },
+        {
+          "code": "tidal1000",
+          "reward": "Tidal Rod Skin"
+        },
+        {
+          "code": "Update2",
+          "reward": "$2500 and 3 Tide Bait"
+        },
+        {
+          "code": "Update3",
+          "reward": "$2500 and 3 Tide Bait"
+        },
+        {
+          "code": "update4",
+          "reward": "3 Tide Bait and Luck Potion"
+        },
+        {
+          "code": "Update5",
+          "reward": "3 Tide Bait and Luck Potion"
+        },
+        {
+          "code": "Update6",
+          "reward": "3 Tide Bait and Luck Potion"
+        },
+        {
+          "code": "update7",
+          "reward": "$5000 and Luck Potion"
+        },
+        {
+          "code": "update8",
+          "reward": "3 Tide Bait and Luck Potion"
+        },
+        {
+          "code": "update9",
+          "reward": "3 Tide Bait and Luck Potion"
+        },
+        {
+          "code": "volcano",
+          "reward": "5 Meadow Bait"
+        }
+      ],
+      "expired": [],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "anime-mysterious": {
+      "active": [
+        {
+          "code": "500KVISIT",
+          "reward": "1,000 Gems and 5 Trait Rerolls"
+        },
+        {
+          "code": "5KCCU",
+          "reward": "1,000 Gems and 5 Trait Rerolls"
+        },
+        {
+          "code": "FULLRELEASE",
+          "reward": "500 Gems and 5 Trait Rerolls"
+        },
+        {
+          "code": "SRYFORRESTART2",
+          "reward": "15 Trait Rerolls, 10 Mystery Capsules, 1,000 Gems, and 2,000 Coins"
+        },
+        {
+          "code": "THANKFORSUPPORT",
+          "reward": "1,000 Gems and 5 Trait Rerolls"
+        },
+        {
+          "code": "THANKSFOR10KCCU",
+          "reward": "Free rewards"
+        },
+        {
+          "code": "THANKSFOR1800CCU",
+          "reward": "500 Gems and 5 Trait Rerolls"
+        },
+        {
+          "code": "THANKSFOR1MVITS",
+          "reward": "Free rewards"
+        },
+        {
+          "code": "THANKSFOR2MVISIT",
+          "reward": "Free rewards"
+        },
+        {
+          "code": "THANKSFOR400KVISIT",
+          "reward": "500 Gems and 5 Trait Rerolls"
+        },
+        {
+          "code": "THANKSFOR6000CCU",
+          "reward": "Free rewards"
+        },
+        {
+          "code": "THANKSFOR7000CCU",
+          "reward": "Free rewards"
+        },
+        {
+          "code": "THANKSFOR8000CCU",
+          "reward": "Free rewards"
+        },
+        {
+          "code": "THANKSFOR9000CCU",
+          "reward": "Free rewards"
+        },
+        {
+          "code": "WORLDISALWAYSLEEP",
+          "reward": "5,000 Coins, 500 Gems, and 5 Trait Rerolls"
+        }
+      ],
+      "expired": [
+        "ANIMEMYSTERIOUS",
+        "RELEASE",
+        "SRYFORBUGS",
+        "SRYFORBUGS2",
+        "SRYFORBUGSANDFIXBALANCE",
+        "SRYFORRESTART",
+        "THANKS600CCU",
+        "THANKS800CCUAND3KMEMBERS",
+        "THANKSFOR1000CCU"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "survive-a-million-monkeys": {
+      "active": [
+        {
+          "code": "1MVISITS",
+          "reward": "10K Gems"
+        },
+        {
+          "code": "MONKEYS",
+          "reward": "1K Gems"
+        },
+        {
+          "code": "SURVIVE",
+          "reward": "1K Gems"
+        }
+      ],
+      "expired": [],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    },
+    "dungeon-lootr": {
+      "active": [
+        {
+          "code": "EXPEDITION",
+          "reward": "10x GM Blessing, 5000x Stars, 50x Mystery Box"
+        },
+        {
+          "code": "OKAMI",
+          "reward": "Revive Sigils, 3 Perfect Reforge Stones"
+        },
+        {
+          "code": "SLIME",
+          "reward": "5x Spirit Prism"
+        },
+        {
+          "code": "SorryForDelay",
+          "reward": "15x Spirit Prisms"
+        },
+        {
+          "code": "UPDATE3",
+          "reward": "20x Reforge Stones"
+        }
+      ],
+      "expired": [
+        "10KFAV",
+        "15KCCU",
+        "20KPLAYERS",
+        "20MVISIT",
+        "3KLIKES",
+        "45KLIKE",
+        "4KFAV",
+        "8KLIKE",
+        "BYEMETA",
+        "COURAGE",
+        "EARLYACCESSYAY",
+        "FORGESKIP",
+        "FULLRELEASE",
+        "GIVEMEGEMSPLEASE",
+        "HAWK",
+        "JACKAL",
+        "JACKPOT",
+        "LOOTR",
+        "LOOTRISBACK",
+        "LOVETHISGAME",
+        "MOONWITCH",
+        "NECROMANCER",
+        "NEWASPECT",
+        "PAYLOAD",
+        "RAIDTIME",
+        "SILVERINE",
+        "SLAYER",
+        "TORUS",
+        "TOURNAMENT",
+        "UPDATE1",
+        "UPDATE2",
+        "UPDATE2_5",
+        "WEEKENDBUFFS"
+      ],
+      "checkedAt": "2026-10-07T14:29:27.836Z",
+      "lastChangeAt": "2026-10-07T14:29:27.836Z"
+    }
+  }
+}

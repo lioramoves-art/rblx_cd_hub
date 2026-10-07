@@ -1,0 +1,503 @@
+[
+  {
+    "slug": "blox-fruits",
+    "name": "Blox Fruits",
+    "order": 1,
+    "sources": { "beebom": "https://beebom.com/roblox-blox-fruits-codes/" },
+    "desc": {
+      "en": "Train as a swordsman or gunfighter, sail between islands and take on raids in one of Roblox's longest-running adventure games. Codes hand out free fruit resets, boosts and in-game cash to speed up the grind.",
+      "ru": "Выберите путь мечника или стрелка, плавайте между островами и участвуйте в рейдах — одно из самых долгоживущих приключений на Roblox. Коды выдают бесплатные сбросы фруктов, бусты и внутриигровую валюту, чтобы ускорить прокачку."
+    }
+  },
+  {
+    "slug": "grow-a-garden",
+    "name": "Grow a Garden",
+    "order": 2,
+    "sources": { "beebom": "https://beebom.com/roblox-grow-a-garden-codes/" },
+    "desc": {
+      "en": "A laid-back farming sim where you plant seeds, wait for mutations and sell the harvest for profit. Redeem codes for free seeds, coins and handy boosts that make the garden pay for itself faster.",
+      "ru": "Расслабляющий фермерский симулятор: сажайте семена, ждите мутаций и продавайте урожай с прибылью. Активируйте коды за бесплатные семена, монеты и бусты, чтобы окупить сад быстрее."
+    }
+  },
+  {
+    "slug": "dress-to-impress",
+    "name": "Dress to Impress",
+    "order": 3,
+    "sources": { "beebom": "https://beebom.com/roblox-dress-to-impress-codes/" },
+    "desc": {
+      "en": "A fashion face-off: dress up to a theme, hit the runway and let the lobby vote for the best look. Codes typically cover free currency and clothing items for your next round.",
+      "ru": "Модный поединок: соберите образ по теме, выйдите на подиум и дайте игрокам проголосовать за лучший наряд. Коды обычно дают бесплатную валюту и предметы одежды для следующего тура."
+    }
+  },
+  {
+    "slug": "brookhaven",
+    "name": "Brookhaven RP",
+    "order": 4,
+    "type": "music",
+    "sources": { "beebom": "https://beebom.com/brookhaven-codes/" },
+    "desc": {
+      "en": "Life-roleplay town where you pick a house, a job and a car, then live out ordinary (or chaotic) days with friends. Brookhaven has no promo codes — the codes listed here are free music IDs you paste into the vehicle music box.",
+      "ru": "Городок для ролевой жизни: выберите дом, работу и машину и проводите обычные (или хаотичные) дни с друзьями. Промокодов в Brookhaven нет — здесь собраны бесплатные музыкальные ID, которые вставляются в музыкальный плеер машины."
+    }
+  },
+  {
+    "slug": "adopt-me",
+    "name": "Adopt Me!",
+    "order": 5,
+    "sources": { "beebom": "https://beebom.com/roblox-adopt-me-codes/" },
+    "desc": {
+      "en": "The classic pet-collecting and house-decorating game: hatch eggs, trade pets and grow your dream home. Codes occasionally appear around events and grant free toys, food or currency.",
+      "ru": "Классика про питомцев и дом: инкубируйте яйца, обменивайтесь животными и обустраивайте дом мечты. Коды время от времени появляются к событиям и дают бесплатные игрушки, еду или валюту."
+    }
+  },
+  {
+    "slug": "pet-simulator-99",
+    "name": "Pet Simulator 99",
+    "order": 6,
+    "sources": { "beebom": "https://beebom.com/pet-simulator-99-codes/" },
+    "desc": {
+      "en": "Break coins, hatch exotic pets and chase huge gems in the latest entry of the Pet Simulator series. Codes are a reliable source of free gems, boosts and potions.",
+      "ru": "Разбивайте монеты, выводите экзотических питомцев и собирайте огромные самоцветы в новой части серии Pet Simulator. Коды — надёжный источник бесплатных гемов, бустов и зелий."
+    }
+  },
+  {
+    "slug": "murder-mystery-2",
+    "name": "Murder Mystery 2",
+    "order": 7,
+    "sources": { "beebom": "https://beebom.com/murder-mystery-2-mm2-codes/" },
+    "desc": {
+      "en": "Social deduction at its purest: one murderer, one sheriff and everyone else trying to survive the round. Codes redeem for free knives, effects and gifts to stock your inventory.",
+      "ru": "Чистая социальная дедукция: один убийца, один шериф и все остальные пытаются пережить раунд. Коды обмениваются на бесплатные ножи, эффекты и подарки для инвентаря."
+    }
+  },
+  {
+    "slug": "jailbreak",
+    "name": "Jailbreak",
+    "order": 8,
+    "sources": { "beebom": "https://beebom.com/roblox-jailbreak-codes/" },
+    "desc": {
+      "en": "Cops-versus-criminals open world: pull heists, tune supercars or work the other side of the law. Codes usually hand out free cash and seasonal vehicle rewards.",
+      "ru": "Открытый мир «полиция против преступников»: грабьте банки, тюнингуйте суперкары или встаньте на сторону закона. Коды обычно выдают бесплатные деньги и сезонные награды на транспорт."
+    }
+  },
+  {
+    "slug": "bee-swarm-simulator",
+    "name": "Bee Swarm Simulator",
+    "order": 9,
+    "sources": { "beebom": "https://beebom.com/roblox-bee-swarm-simulator-codes/" },
+    "desc": {
+      "en": "Collect bees, pollinate fields and climb the honey ladder in a gentle grinder with deep mechanics. Codes give treats, boosts and quest shortcuts for your swarm.",
+      "ru": "Собирайте пчёл, опыляйте поля и поднимайтесь по лестнице мёда в неторопливой игре с глубокой механикой. Коды дают лакомства, бусты и подсказки для квестов вашего роя."
+    }
+  },
+  {
+    "slug": "arsenal",
+    "name": "Arsenal",
+    "order": 10,
+    "sources": { "beebom": "https://beebom.com/roblox-arsenal-codes-list/" },
+    "desc": {
+      "en": "Fast shooter where every kill upgrades your weapon until you reach the golden gun. Codes unlock free skins, effects and coins for the next session.",
+      "ru": "Динамичный шутер, где каждое убийство меняет оружие на следующее вплоть до золотого ствола. Коды открывают бесплатные скины, эффекты и монеты на следующую сессию."
+    }
+  },
+  {
+    "slug": "blade-ball",
+    "name": "Blade Ball",
+    "order": 11,
+    "sources": { "beebom": "https://beebom.com/roblox-blade-ball-codes/" },
+    "desc": {
+      "en": "A homing ball hunts the lobby and your only defence is perfect timing with the block button. Codes grant free spins, coins and ability-related rewards.",
+      "ru": "Наводящийся шар преследует площадку, а защита — идеальный тайминг нажатия блока. Коды выдают бесплатные вращения, монеты и награды, связанные со способностями."
+    }
+  },
+  {
+    "slug": "shindo-life",
+    "name": "Shindo Life",
+    "order": 12,
+    "sources": { "beebom": "https://beebom.com/roblox-shindo-life-codes/" },
+    "desc": {
+      "en": "Ninja sandbox with bloodlines, spins and PvP villages, inspired by classic anime ninja stories. Spins codes are the main prize — they roll new bloodline abilities.",
+      "ru": "Песочница ниндзю с кровными линиями, вращениями и PvP-деревнями по мотивам классических аниме про ниндзя. Главная награда кодов — вращения, дающие новые способности линий."
+    }
+  },
+  {
+    "slug": "king-legacy",
+    "name": "King Legacy",
+    "order": 13,
+    "sources": { "beebom": "https://beebom.com/roblox-king-legacy-codes/" },
+    "desc": {
+      "en": "Set sail for islands, devil fruits and sea bosses in an anime pirate adventure. Codes pay out gems, resets and stat points to rebuild your build.",
+      "ru": "Отправляйтесь к островам, дьявольским фруктам и морским боссам в аниме-приключении про пиратов. Коды выдают гемы, сбросы и очки характеристик для пересборки героя."
+    }
+  },
+  {
+    "slug": "fruit-battlegrounds",
+    "name": "Fruit Battlegrounds",
+    "order": 14,
+    "sources": { "beebom": "https://beebom.com/roblox-fruit-battlegrounds-codes/" },
+    "desc": {
+      "en": "Arena brawler where you roll for devil-fruit powers and clash in free-for-all fights. Codes deliver gems so you can keep pulling for stronger fruits.",
+      "ru": "Арена, где вы выкатываете силу дьявольских фруктов и сражаетесь в free-for-all боях. Коды выдают гемы, чтобы продолжать вытягивать более сильные фрукты."
+    }
+  },
+  {
+    "slug": "anime-vanguards",
+    "name": "Anime Vanguards",
+    "order": 15,
+    "sources": { "beebom": "https://beebom.com/anime-vanguards-codes/" },
+    "desc": {
+      "en": "Tower-defense roster of anime fighters: place your units, survive waves and evolve the strong ones. Codes hand out gems, units and evolution materials.",
+      "ru": "Тауэр-дифенс с ростером аниме-бойцов: расставляйте юнитов, переживайте волны и эволюционируйте сильных. Коды выдают гемы, юнитов и материалы для эволюции."
+    }
+  },
+  {
+    "slug": "all-star-tower-defense",
+    "name": "All Star Tower Defense",
+    "order": 16,
+    "sources": { "beebom": "https://beebom.com/all-star-tower-defense-codes/" },
+    "desc": {
+      "en": "Long-running tower defense with a huge roster of anime-inspired heroes and evolved forms. Codes are the usual source of gems, gold and summon tickets.",
+      "ru": "Давний тауэр-дифенс с огромным ростером героев по мотивам аниме и их эволюциями. Коды — привычный источник гемов, золота и билетов на призыв."
+    }
+  },
+  {
+    "slug": "ninja-legends",
+    "name": "Ninja Legends",
+    "order": 17,
+    "sources": { "beebom": "https://beebom.com/roblox-ninja-legends-codes/" },
+    "desc": {
+      "en": "Click to train, buy better clans and climb the ninja ranks on a satisfying upgrade loop. Codes add spins, gems and training boosts.",
+      "ru": "Кликайте для тренировок, покупайте кланы и поднимайтесь по ниндзя-рангам в затягивающем цикле улучшений. Коды добавляют вращения, гемы и бусты для прокачки."
+    }
+  },
+  {
+    "slug": "muscle-legends",
+    "name": "Muscle Legends",
+    "order": 18,
+    "sources": { "beebom": "https://beebom.com/roblox-muscle-legends-codes/" },
+    "desc": {
+      "en": "Lift weights, unlock muscles and race other players to become the strongest on the server. Codes give gems, steroids-free boosts and exclusive pets.",
+      "ru": "Поднимайте штанги, открывайте мышцы и соперничайте с игроками за звание сильнейшего на сервере. Коды дают гемы, бусты и эксклюзивных питомцев."
+    }
+  },
+  {
+    "slug": "bubble-gum-simulator-infinity",
+    "name": "Bubble Gum Simulator Infinity",
+    "order": 19,
+    "sources": { "beebom": "https://beebom.com/bubble-gum-simulator-infinity-codes/" },
+    "desc": {
+      "en": "Blow bubbles, float upward and hatch pets in the revived classic about popping and exploring. Codes drop gems, coins and coins-boosts for a faster start.",
+      "ru": "Надувайте пузыри, взлетайте вверх и выводите питомцев в возрождённой классике про лопание и исследования. Коды выдают гемы, монеты и бусты для старта."
+    }
+  },
+  {
+    "slug": "fisch",
+    "name": "Fisch",
+    "order": 20,
+    "sources": { "beebom": "https://beebom.com/roblox-fisch-codes/" },
+    "desc": {
+      "en": "A moody fishing trip: upgrade rods and baits, learn each island's spots and chase rare catches. Codes supply cash, baits and lure-speed boosts.",
+      "ru": "Атмосферная рыбалка: улучшайте удилища и наживки, изучайте точки на каждом острове и охотитесь за редкими трофеями. Коды дают деньги, наживки и бусты скорости заброса."
+    }
+  },
+  {
+    "slug": "type-soul",
+    "name": "Type Soul",
+    "order": 21,
+    "sources": { "beebom": "https://beebom.com/roblox-type-soul-codes/" },
+    "desc": {
+      "en": "Anime action RPG with classes, hollow-hunting and player duels where your build matters. Codes typically hand out rerolls and stat boosts.",
+      "ru": "Аниме-экшн RPG с классами, охотой на пустот и дуэлями игроков, где важна сборка персонажа. Коды обычно выдают переброски характеристик и бусты."
+    }
+  },
+  {
+    "slug": "a-universal-time",
+    "name": "A Universal Time",
+    "order": 22,
+    "sources": { "beebom": "https://beebom.com/roblox-aut-codes/" },
+    "desc": {
+      "en": "Stand-grinding open world with time-bending abilities, bosses and a deep crafting tree. Codes hand out free spins and in-game currency.",
+      "ru": "Открытый мир с гриндом стендов, способностями управления временем, боссами и глубоким деревом крафта. Коды выдают бесплатные вращения и внутриигровую валюту."
+    }
+  },
+  {
+    "slug": "peroxide",
+    "name": "Peroxide",
+    "order": 23,
+    "sources": { "beebom": "https://beebom.com/roblox-peroxide-codes/" },
+    "desc": {
+      "en": "Grim action RPG where you pick a race, unlock transformations and grind dungeons. Codes are best known for giving race and skill rerolls.",
+      "ru": "Мрачная экшн RPG: выберите расу, открывайте трансформации и гриндите данжи. Коды больше всего ценятся за переброски расы и навыков."
+    }
+  },
+  {
+    "slug": "anime-adventures",
+    "name": "Anime Adventures",
+    "order": 24,
+    "sources": { "beebom": "https://beebom.com/anime-adventures-codes/" },
+    "desc": {
+      "en": "Wave-based tower defense with summonable anime units and evolutions. Codes give gems and summons to refresh your roster.",
+      "ru": "Тауэр-дифенс волнами с призываемыми аниме-юнитами и их эволюциями. Коды дают гемы и призывы для обновления ростера."
+    }
+  },
+  {
+    "slug": "gym-league",
+    "name": "Gym League",
+    "order": 25,
+    "sources": { "beebom": "https://beebom.com/gym-league-codes/" },
+    "desc": {
+      "en": "Bodybuilding grinder: lift, pose and outgrow everyone else in the server. Codes boost you with free lifts, gems and cash.",
+      "ru": "Гринд бодибилдинга: поднимайте железо, позируйте и обходите всех на сервере. Коды ускоряют прогресс бесплатными тренировками, гемами и деньгами."
+    }
+  },
+  {
+    "slug": "basketball-zero",
+    "name": "Basketball Zero",
+    "order": 26,
+    "sources": { "beebom": "https://beebom.com/basketball-rivals-codes/" },
+    "desc": {
+      "en": "Anime-styled street basketball with flashy abilities and clutch shots. Codes deliver rolls for styles and traits that change how you play.",
+      "ru": "Уличный баскетбол в аниме-стиле с эффектными способностями и точными бросками. Коды выдают прокачки стилей и черт, меняющих манеру игры."
+    }
+  },
+  {
+    "slug": "volleyball-legends",
+    "name": "Volleyball Legends",
+    "order": 27,
+    "sources": { "beebom": "https://beebom.com/haikyuu-legends-codes/" },
+    "desc": {
+      "en": "High-flying volleyball duels where timing and team combos decide the set. Codes usually arrive around updates and grant spins and rolls.",
+      "ru": "Динамичные волейбольные дуэли, где сет выигрывают тайминг и командные комбо. Коды обычно появляются к обновлениям и дают вращения и прокачки."
+    }
+  },
+  {
+    "slug": "blue-lock-rivals",
+    "name": "Blue Lock Rivals",
+    "order": 28,
+    "sources": { "beebom": "https://beebom.com/blue-lock-rivals-codes/" },
+    "desc": {
+      "en": "Ego-driven soccer with cutscene shots, awakened styles and 3v3 rivalries. Codes hand out spins for new styles and devourer traits.",
+      "ru": "Стильный футбол с кинематографичными ударами, пробуждёнными стилями и дуэлями 3 на 3. Коды выдают вращения для новых стилей и особых черт."
+    }
+  },
+  {
+    "slug": "ninja-time",
+    "name": "Ninja Time",
+    "order": 29,
+    "sources": { "beebom": "https://beebom.com/the-time-of-ninja-codes/" },
+    "desc": {
+      "en": "Ninja clan life: pick an element, master jutsu and fight rival villages. Codes give spins and exp boosts to level faster.",
+      "ru": "Жизнь ниндзя-клана: выберите стихию, освойте дзюцу и сражайтесь с вражескими деревнями. Коды дают вращения и бусты опыта для быстрой прокачки."
+    }
+  },
+  {
+    "slug": "steal-a-brainrot",
+    "name": "Steal a Brainrot",
+    "order": 30,
+    "sources": { "beebom": "https://beebom.com/steal-a-brainrot-codes/" },
+    "desc": {
+      "en": "Chaotic base-builder where you sneak into other plots and steal their brainrot units for your income grid. Codes add cash and rebirths.",
+      "ru": "Хаотичная стройка базы: проникайте на чужие участки и воровите их brainrot-юнитов для своей сетки дохода. Коды добавляют деньги и перерождения."
+    }
+  },
+  {
+    "slug": "99-nights-in-the-forest",
+    "name": "99 Nights in the Forest",
+    "order": 31,
+    "sources": { "beebom": "https://beebom.com/99-nights-in-the-forest-codes/" },
+    "desc": {
+      "en": "Survival camp: gather wood, feed the fire and hold out night after night against what lives in the dark. Codes provide food and resource boosts.",
+      "ru": "Выживание в лагере: собирайте дрова, поддерживайте огонь и держитесь ночь за ночью против того, что живёт в темноте. Коды дают еду и бусты ресурсов."
+    }
+  },
+  {
+    "slug": "driving-empire",
+    "name": "Driving Empire",
+    "order": 32,
+    "sources": { "beebom": "https://beebom.com/roblox-driving-empire-codes/" },
+    "desc": {
+      "en": "Car culture done right: buy real-world-inspired rides, tune them and cruise with friends. Codes deliver cash for your next purchase.",
+      "ru": "Культура машин во всю: покупайте авто в духе реальных моделей, тюнингуйте и катайтесь с друзьями. Коды выдают деньги на следующую покупку."
+    }
+  },
+  {
+    "slug": "restaurant-tycoon-2",
+    "name": "Restaurant Tycoon 2",
+    "order": 33,
+    "sources": { "beebom": "https://beebom.com/roblox-restaurant-tycoon-2-codes/" },
+    "desc": {
+      "en": "Build a restaurant from a single kitchen to a full chain: design rooms, hire staff and serve dishes. Codes add cash and diamonds.",
+      "ru": "Постройте ресторан от одной кухни до сети: проектируйте залы, нанимайте персонал и подавайте блюда. Коды добавляют деньги и алмазы."
+    }
+  },
+  {
+    "slug": "rivals",
+    "name": "RIVALS",
+    "order": 34,
+    "sources": { "beebom": "https://beebom.com/roblox-rivals-codes/" },
+    "desc": {
+      "en": "Arcade FPS with snappy guns, utility gadgets and ranked rounds. Codes reward crates and coins for new loadouts.",
+      "ru": "Аркадный FPS с отзывчивым оружием, гаджетами и рейтинговыми раундами. Коды дают ящики и монеты для новой экипировки."
+    }
+  },
+  {
+    "slug": "grow-a-garden-2",
+    "name": "Grow a Garden 2",
+    "order": 35,
+    "sources": { "beebom": "https://beebom.com/grow-a-garden-2-codes/" },
+    "desc": {
+      "en": "The farming formula expanded: bigger plots, rarer mutations and co-op planting with friends. Codes kick in with seeds and coins.",
+      "ru": "Расширенная фермерская формула: большие участки, редкие мутации и совместная посадка с друзьями. Коды выдают семена и монеты."
+    }
+  },
+  {
+    "slug": "anime-fighting-simulator",
+    "name": "Anime Fighting Simulator",
+    "order": 36,
+    "sources": { "beebom": "https://beebom.com/anime-fighting-simulator-codes/" },
+    "desc": {
+      "en": "Train stats, awaken powers and battle through islands in the veteran anime trainer. Codes deliver coins, crates and strength boosts.",
+      "ru": "Тренируйте характеристики, пробуждайте силы и сражайтесь по островам в проверенном аниме-тренере. Коды дают монеты, ящики и бусты силы."
+    }
+  },
+  {
+    "slug": "no-limit-lifting-simulator-2",
+    "name": "No Limit Lifting Simulator 2",
+    "order": 37,
+    "sources": { "beebom": "https://beebom.com/no-limit-lifting-simulator-2-codes/" },
+    "desc": {
+      "en": "Lift to absurd numbers, unlock zones and race the server's strongest players. Codes hand out instant strength and luck boosts.",
+      "ru": "Поднимайте веса до абсурдных чисел, открывайте зоны и соревнуйтесь с сильнейшими игроками сервера. Коды выдают мгновенные бусты силы и удачи."
+    }
+  },
+  {
+    "slug": "restaurant-tycoon-3",
+    "name": "Restaurant Tycoon 3",
+    "order": 38,
+    "sources": { "beebom": "https://beebom.com/restaurant-tycoon-3-codes/" },
+    "desc": {
+      "en": "The latest Restaurant Tycoon with new kitchens, menus and a redesigned progression. Codes supply the starter cash and gems.",
+      "ru": "Новая часть Restaurant Tycoon с новыми кухнями, меню и переработанной системой прогресса. Коды дают стартовые деньги и гемы."
+    }
+  },
+  {
+    "slug": "elemental-dungeon",
+    "name": "Elemental Dungeon",
+    "order": 39,
+    "sources": { "beebom": "https://beebom.com/roblox-elemental-dungeon-codes/" },
+    "desc": {
+      "en": "Hack-and-slash dungeons where elemental skills combine into combos. Codes refill you with gems and potions between runs.",
+      "ru": "Данжи в духе hack-and-slash, где стихийные умения складываются в комбо. Коды пополняют запас гемов и зелий между забегами."
+    }
+  },
+  {
+    "slug": "murder-mystery-v",
+    "name": "Murder Mystery V",
+    "order": 40,
+    "sources": { "beebom": "https://beebom.com/murder-mystery-v-codes/" },
+    "desc": {
+      "en": "The newest chapter of the whodunit formula with fresh maps and roles. Codes bring free effects and gifts for your lobby presence.",
+      "ru": "Новая глава формулы «кто убийца» со свежими картами и ролями. Коды дают бесплатные эффекты и подарки для вашего присутствия в лобби."
+    }
+  },
+  {
+    "slug": "bloxstrike",
+    "name": "BloxStrike",
+    "order": 41,
+    "sources": { "beebom": "https://beebom.com/bloxstrike-codes/" },
+    "desc": {
+      "en": "Roblox answer to classic tactical shooters: buy, plant and outsmart the other team. Codes drop crates and coins for skins.",
+      "ru": "Ответ Roblox классическим тактическим шутерам: закупайтесь, ставьте фугасы и переигрывайте команду. Коды выдают ящики и монеты на скины."
+    }
+  },
+  {
+    "slug": "slayers-2",
+    "name": "Slayers 2",
+    "order": 42,
+    "sources": { "beebom": "https://beebom.com/slayers-2-codes/" },
+    "desc": {
+      "en": "Demon-slaying adventure with breathing styles, clans and sword combat. Codes grant spins for styles and clan rerolls.",
+      "ru": "Приключение про истребителей демонов с дыханиями, кланами и фехтованием на мечах. Коды дают вращения для стилей и переброски клана."
+    }
+  },
+  {
+    "slug": "anime-zero",
+    "name": "Anime Zero",
+    "order": 43,
+    "sources": { "beebom": "https://beebom.com/anime-zero-codes/" },
+    "desc": {
+      "en": "Anime grinder with weapon rolls, traits and heavy endgame bosses. Codes pay out rerolls, boosts and premium currency.",
+      "ru": "Аниме-гринд с прокачкой оружием, чертами и тяжёлыми боссами эндгейма. Коды выдают переброски, бусты и премиальную валюту."
+    }
+  },
+  {
+    "slug": "drill-to-earths-core",
+    "name": "Drill to Earth's Core",
+    "order": 44,
+    "sources": { "beebom": "https://beebom.com/drill-to-earths-core-codes/" },
+    "desc": {
+      "en": "Dig straight down, upgrade your drill and uncover layers of loot before the cave-in. Codes add cash and drill upgrades.",
+      "ru": "Копайте вниз, улучшайте бур и добывайте слои сокровищ до того, как обвалится пещера. Коды добавляют деньги и улучшения бура."
+    }
+  },
+  {
+    "slug": "prehistoric-farm",
+    "name": "Prehistoric Farm",
+    "order": 45,
+    "sources": { "beebom": "https://beebom.com/prehistoric-farm-codes/" },
+    "desc": {
+      "en": "Farm, but make it dinosaurs: hatch prehistoric creatures and work the land around them. Codes give coins and growth boosts.",
+      "ru": "Ферма, но с динозаврами: выводите доисторических существ и обрабатывайте вокруг них землю. Коды дают монеты и бусты роста."
+    }
+  },
+  {
+    "slug": "vampire-life",
+    "name": "Vampire Life",
+    "order": 46,
+    "sources": { "beebom": "https://beebom.com/vampire-life-codes/" },
+    "desc": {
+      "en": "Live the other side: feed, grow your powers and navigate a world of humans and predators. Codes hand out blood coins and boosts.",
+      "ru": "Поживите с другой стороны: питайтесь, растите силы и осваивайтесь в мире людей и хищников. Коды выдают кровавые монеты и бусты."
+    }
+  },
+  {
+    "slug": "deep-fishing",
+    "name": "Deep Fishing",
+    "order": 47,
+    "sources": { "beebom": "https://beebom.com/deep-fishing-codes/" },
+    "desc": {
+      "en": "Cast into deeper water as you unlock zones, rods and the odd monster fish. Codes supply cash and bait for the next cast.",
+      "ru": "Забрасывайте удочку всё глубже, открывая зоны, удилища и необычных рыб-монстров. Коды дают деньги и наживку на следующий заброс."
+    }
+  },
+  {
+    "slug": "anime-mysterious",
+    "name": "Anime Mysterious",
+    "order": 48,
+    "sources": { "beebom": "https://beebom.com/anime-mysterious-codes/" },
+    "desc": {
+      "en": "Mystery-flavoured anime grinder with skills to unlock and events to clear. Codes deliver free currency and XP multipliers.",
+      "ru": "Аниме-гринд с мистическим уклоном: открывайте навыки и проходите события. Коды выдают бесплатную валюту и множители опыта."
+    }
+  },
+  {
+    "slug": "survive-a-million-monkeys",
+    "name": "Survive a Million Monkeys",
+    "order": 49,
+    "sources": { "beebom": "https://beebom.com/survive-a-million-monkeys-codes/" },
+    "desc": {
+      "en": "Hold the line against an endless monkey swarm with traps, weapons and upgrades. Codes grant cash and survivability boosts.",
+      "ru": "Держите оборону против бесконечной орды обезьян с помощью ловушек, оружия и улучшений. Коды дают деньги и бусты выживаемости."
+    }
+  },
+  {
+    "slug": "dungeon-lootr",
+    "name": "Dungeon Lootr",
+    "order": 50,
+    "sources": { "beebom": "https://beebom.com/dungeon-lootr-codes/" },
+    "desc": {
+      "en": "Roguelike dungeon runs where every chest can change your build. Codes refill you with coins and reroll tokens.",
+      "ru": "Рогалик-забеги по данжам, где каждый сундук может пересобрать вашего героя. Коды пополняют запас монет и жетонов переброски."
+    }
+  }
+]

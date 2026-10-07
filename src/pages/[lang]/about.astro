@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t, type Lang } from '../../lib/i18n';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'ru' } }];
+}
+
+const lang = Astro.params.lang as Lang;
+---
+
+<Base
+  lang={lang}
+  title={`${t(lang, 'about.title')} — ${t(lang, 'site.name')}`}
+  description={t(lang, 'site.description')}
+  path={`/${lang}/about/`}
+>
+  <article class="static-page">
+    <h1>{t(lang, 'about.title')}</h1>
+    <p>{t(lang, 'about.p1')}</p>
+    <p>{t(lang, 'about.p2')}</p>
+    <p>{t(lang, 'about.p3')}</p>
+    <h2>{t(lang, 'contact.title')}</h2>
+    <p>{t(lang, 'contact.text')}</p>
+    <p class="muted">
+      <a href={`mailto:${t(lang, 'contact.emailValue')}`}>{t(lang, 'contact.emailValue')}</a>
+    </p>
+  </article>
+</Base>

@@ -1,0 +1,69 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t, type Lang } from '../../lib/i18n';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'ru' } }];
+}
+
+const lang = Astro.params.lang as Lang;
+const isRu = lang === 'ru';
+const year = new Date().getFullYear();
+---
+
+<Base
+  lang={lang}
+  title={`${t(lang, 'privacy.title')} — ${t(lang, 'site.name')}`}
+  description={isRu ? 'Как обрабатываются данные на RobloxCodesHub: cookies, статистика и реклама Google AdSense.' : 'How data is handled on RobloxCodesHub: cookies, analytics and Google AdSense advertising.'}
+  path={`/${lang}/privacy/`}
+>
+  <article class="static-page">
+    <h1>{t(lang, 'privacy.title')}</h1>
+    <p class="muted">{isRu ? `Последнее обновление: октябрь ${year}.` : `Last updated: October ${year}.`}</p>
+
+    <h2>{isRu ? 'Какие данные мы собираем' : 'What data we collect'}</h2>
+    <p>
+      {isRu
+        ? 'Сайт не требует регистрации и не собирает персональные данные напрямую: нет аккаунтов, форм с личной информацией и трекинга профилей. Мы можем временно хранить обезличенные технические логи хостинга (IP-адрес, время запроса, адрес страницы) исключительно для безопасности и диагностики.'
+        : 'The site does not require registration and does not collect personal data directly: there are no accounts, forms with personal information or profile tracking. We may temporarily keep anonymized technical hosting logs (IP address, request time, page path) strictly for security and diagnostics.'}
+    </p>
+
+    <h2>{isRu ? 'Файлы cookie' : 'Cookies'}</h2>
+    <p>
+      {isRu
+        ? 'Сам сайт использует cookie только для сохранения выбранного языка в вашем браузере. Рекламные партнёры, включая Google, могут использовать cookie для показа и измерения объявлений.'
+        : 'The site itself only uses cookies to remember your chosen language in your browser. Advertising partners, including Google, may use cookies to serve and measure ads.'}
+    </p>
+
+    <h2>Google AdSense</h2>
+    <p>
+      {isRu
+        ? 'Мы показываем рекламу через Google AdSense. Google и его партнёры используют cookie (в том числе cookie файла DART) для показа рекламы на основе посещений этого и других сайтов. Вы можете отключить персонализацию рекламы в Настройках объявлений Google (adssettings.google.com) или на странице aboutads.info.'
+        : 'We display advertising through Google AdSense. Google and its partners may use cookies (including the DART cookie) to serve ads based on visits to this and other sites. You can opt out of personalized advertising in Google Ads Settings (adssettings.google.com) or at aboutads.info.'}
+    </p>
+
+    <h2>{isRu ? 'Сторонние ссылки' : 'Third-party links'}</h2>
+    <p>
+      {isRu
+        ? 'Ссылки на Roblox и на сайты-источники ведут на внешние ресурсы с собственными политиками конфиденциальности. Мы не контролируем их обработку данных.'
+        : 'Links to Roblox and to source websites lead to external resources with their own privacy policies. We do not control their data handling.'}
+    </p>
+
+    <h2>{isRu ? 'Ваши права' : 'Your rights'}</h2>
+    <p>
+      {isRu
+        ? 'Если у вас есть вопросы о данных или вы хотите запросить удаление информации — напишите нам, и мы ответим.'
+        : 'If you have questions about data or want to request removal of information, write to us and we will respond.'}
+    </p>
+    <p class="muted">
+      <a href={`mailto:${t(lang, 'contact.emailValue')}`}>{t(lang, 'contact.emailValue')}</a>
+    </p>
+
+    <h2>{isRu ? 'Изменения в политике' : 'Policy changes'}</h2>
+    <p>
+      {isRu
+        ? 'Мы можем обновлять эту политику; актуальная версия всегда доступна на этой странице.'
+        : 'We may update this policy; the current version is always available on this page.'}
+    </p>
+  </article>
+</Base>

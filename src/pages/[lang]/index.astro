@@ -1,0 +1,109 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t, type Lang } from '../../lib/i18n';
+import { games, getCodes, getMeta, getCodesUpdatedAt } from '../../lib/data';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'ru' } }];
+}
+
+const lang = Astro.params.lang as Lang;
+const updatedAt = getCodesUpdatedAt();
+
+const items = games.map((g) => {
+  const codes = getCodes(g.slug);
+  const meta = getMeta(g.slug);
+  return {
+    slug: g.slug,
+    name: g.name,
+    active: codes.active.length,
+    playing: meta?.playing ?? null,
+    icon: meta?.icon ?? null,
+    fresh: codes.lastChangeAt
+      ? Date.now() - Date.parse(codes.lastChangeAt) < 48 * 3600 * 1000
+      : false,
+  };
+});
+---
+
+<Base
+  lang={lang}
+  title={`${t(lang, 'home.title')} — ${t(lang, 'site.name')}`}
+  description={t(lang, 'site.description')}
+  path={`/${lang}/`}
+>
+  <section class="hero">
+    <h1>{t(lang, 'home.title')}</h1>
+    <p>{t(lang, 'home.subtitle')}</p>
+    <div class="search">
+      <input
+        type="search"
+        id="game-search"
+        placeholder={t(lang, 'home.searchPlaceholder')}
+        autocomplete="off"
+        aria-label={t(lang, 'home.searchPlaceholder')}
+      />
+    </div>
+    {
+      updatedAt && (
+        <div class="updated-line">
+          {t(lang, 'home.updated', {
+            date: new Intl.DateTimeFormat(lang, { dateStyle: 'medium', timeStyle: 'short', timeZone: 'UTC' }).format(
+              new Date(updatedAt),
+            ),
+          })}
+        </div>
+      )
+    }
+  </section>
+
+  <div class="ad-slot" data-ad-slot="catalog-top">Advertisement</div>
+
+  <div class="game-grid" id="game-grid">
+    {
+      items.map((g) => (
+        <a
+          class="game-card"
+          href={`/${lang}/games/${g.slug}/`}
+          data-name={`${g.name.toLowerCase()} ${g.slug}`}
+        >
+          <div class={`icon${g.icon ? '' : ' placeholder'}`}>
+            {g.icon ? (
+              <img src={g.icon} alt={g.name} width="64" height="64" loading="lazy" />
+            ) : (
+              g.name.slice(0, 1)
+            )}
+          </div>
+          <div class="name">{g.name}</div>
+          <div class="badges">
+            <span class="badge codes">
+              {g.active === 1 ? t(lang, 'home.codesOne') : g.active > 0 ? t(lang, 'home.codes', { n: g.active }) : t(lang, 'home.noCodes')}
+            </span>
+            {g.fresh && <span class="badge new">NEW</span>}
+            {g.playing !== null && <span>{t(lang, 'home.playing', { n: g.playing.toLocaleString('en-US') })}</span>}
+          </div>
+        </a>
+      ))
+    }
+  </div>
+
+  <div class="ad-slot" data-ad-slot="catalog-bottom">Advertisement</div>
+
+  <p class="empty-state" id="no-results" hidden>{t(lang, 'home.noResults')}</p>
+</Base>
+
+<script>
+  const input = document.getElementById('game-search') as HTMLInputElement;
+  const cards = Array.from(document.querySelectorAll<HTMLElement>('.game-card'));
+  const noResults = document.getElementById('no-results') as HTMLParagraphElement;
+  input?.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    let visible = 0;
+    for (const card of cards) {
+      const match = !q || (card.dataset.name ?? '').includes(q);
+      card.style.display = match ? '' : 'none';
+      if (match) visible++;
+    }
+    if (noResults) noResults.hidden = visible > 0;
+  });
+</script>

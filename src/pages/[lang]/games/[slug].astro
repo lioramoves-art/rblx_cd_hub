@@ -1,0 +1,159 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { t, type Lang } from '../../../lib/i18n';
+import { games, getCodes, getMeta } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return games.map((g) => ({ params: { lang: null, slug: g.slug } })).flatMap((p) => [
+    { ...p, params: { lang: 'en', slug: p.params.slug } },
+    { ...p, params: { lang: 'ru', slug: p.params.slug } },
+  ]);
+}
+
+const lang = Astro.params.lang as Lang;
+const slug = Astro.params.slug!;
+const game = games.find((g) => g.slug === slug)!;
+const isMusic = game.type === 'music';
+const codesTitleKey = isMusic ? 'game.musicCodesTitle' : 'game.codesTitle';
+const redeemKey = isMusic ? 'game.musicRedeemText' : 'game.redeemText';
+const codes = getCodes(slug);
+const meta = getMeta(slug);
+const sourceUrl = game.sources.beebom ?? game.sources.tryhardguides ?? null;
+const playUrl = meta?.placeId ? `https://www.roblox.com/games/${meta.placeId}` : 'https://www.roblox.com/';
+const fmtDate = (iso: string | null | undefined) =>
+  iso
+    ? new Intl.DateTimeFormat(lang, { dateStyle: 'medium', timeStyle: 'short', timeZone: 'UTC' }).format(new Date(iso))
+    : null;
+---
+
+<Base
+  lang={lang}
+  title={`${game.name} ${t(lang, codesTitleKey)} — ${t(lang, 'site.name')}`}
+  description={`${game.desc[lang]} ${t(lang, 'site.tagline')}.`}
+  path={`/${lang}/games/${slug}/`}
+>
+  <nav class="breadcrumb">
+    <a href={`/${lang}/`}>{t(lang, 'game.back')}</a> / {game.name}
+  </nav>
+
+  <header class="game-head">
+    <div class="icon">
+      {meta?.icon && <img src={meta.icon} alt={game.name} width="84" height="84" />}
+    </div>
+    <div>
+      <h1>{game.name}</h1>
+      <div class="meta">
+        {meta?.playing !== null && meta?.playing !== undefined && (
+          <span>{t(lang, 'game.players')}: {meta.playing.toLocaleString('en-US')}</span>
+        )}
+        {codes.checkedAt && <span>{t(lang, 'game.updated')}: {fmtDate(codes.checkedAt)}</span>}
+      </div>
+    </div>
+  </header>
+
+  <div class="ad-slot" data-ad-slot="game-top">Advertisement</div>
+
+  <section class="section">
+    <h2>{t(lang, codesTitleKey)}</h2>
+    {
+      codes.active.length > 0 ? (
+        <div class="code-list">
+          {codes.active.map((c) => (
+            <div class="code-row">
+              <span class="code">{c.code}</span>
+              <span class="reward">{c.reward ?? ''}</span>
+              <button class="copy-btn" type="button" data-code={c.code}>
+                {t(lang, 'game.copy')}
+              </button>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <p class="note">{t(lang, 'game.noCodes')}</p>
+      )
+    }
+  </section>
+
+  <div class="ad-slot" data-ad-slot="game-mid">Advertisement</div>
+
+  {
+    codes.expired.length > 0 && (
+      <section class="section">
+        <details class="expired">
+          <summary>
+            {t(lang, 'game.expiredTitle')} ({codes.expired.length})
+          </summary>
+          <p class="note">{t(lang, 'game.expiredNote')}</p>
+          <div class="expired-grid">
+            {codes.expired.map((c) => (
+              <span>{c}</span>
+            ))}
+          </div>
+        </details>
+      </section>
+    )
+  }
+
+  <section class="section">
+    <h2>{t(lang, 'game.about')}</h2>
+    <div class="desc">
+      <p>{game.desc[lang]}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>{t(lang, 'game.redeem')}</h2>
+    <p class="note">{t(lang, redeemKey)}</p>
+  </section>
+
+  <section class="section btn-row">
+    <a class="btn primary" href={playUrl} rel="nofollow noopener" target="_blank">
+      {t(lang, 'game.play')}
+    </a>
+    {sourceUrl && (
+      <a class="btn" href={sourceUrl} rel="nofollow noopener" target="_blank">
+        {t(lang, 'game.source')}
+      </a>
+    )}
+  </section>
+
+  <div class="ad-slot" data-ad-slot="game-bottom">Advertisement</div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'VideoGame',
+    name: game.name,
+    description: game.desc[lang],
+    url: new URL(`/${lang}/games/${slug}/`, Astro.site).href,
+    inLanguage: lang,
+    gamePlatform: 'Roblox',
+    offers: { '@type': 'Offer', price: 0, priceCurrency: 'USD' },
+  })} />
+</Base>
+
+<script>
+  const labels = document.querySelectorAll<HTMLButtonElement>('.copy-btn');
+  const lang = document.documentElement.lang;
+  for (const btn of labels) {
+    btn.addEventListener('click', async () => {
+      const code = btn.dataset.code ?? '';
+      try {
+        await navigator.clipboard.writeText(code);
+      } catch {
+        const ta = document.createElement('textarea');
+        ta.value = code;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        ta.remove();
+      }
+      const original = btn.textContent;
+      btn.textContent = lang === 'ru' ? 'Скопировано!' : 'Copied!';
+      btn.classList.add('done');
+      setTimeout(() => {
+        btn.textContent = original;
+        btn.classList.remove('done');
+      }, 1500);
+    });
+  }
+</script>

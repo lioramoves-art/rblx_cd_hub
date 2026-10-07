@@ -1,0 +1,61 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t, type Lang } from '../../lib/i18n';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'ru' } }];
+}
+
+const lang = Astro.params.lang as Lang;
+const isRu = lang === 'ru';
+---
+
+<Base
+  lang={lang}
+  title={`${t(lang, 'disclaimer.title')} — ${t(lang, 'site.name')}`}
+  description={t(lang, 'disclaimer.lead')}
+  path={`/${lang}/disclaimer/`}
+>
+  <article class="static-page">
+    <h1>{t(lang, 'disclaimer.title')}</h1>
+    <p><strong>{t(lang, 'disclaimer.lead')}</strong></p>
+
+    <h2>{isRu ? 'Независимый фанатский сайт' : 'Independent fan site'}</h2>
+    <p>
+      {isRu
+        ? 'RobloxCodesHub — независимый фанатский проект. Сайт не связан с Roblox Corporation, не одобряется, не спонсируется и не контролируется ею или разработчиками перечисленных игр.'
+        : 'RobloxCodesHub is an independent fan-made project. The site is not affiliated with, endorsed by, sponsored by or otherwise connected to Roblox Corporation or the developers of the games listed.'}
+    </p>
+
+    <h2>{isRu ? 'Товарные знаки' : 'Trademarks'}</h2>
+    <p>
+      {isRu
+        ? 'Roblox, логотип Roblox и названия игр являются товарными знаками их законных владельцев. Все упоминания носят номинальный (информационный) характер и не означают ассоциации с правообладателями.'
+        : 'Roblox, the Roblox logo and game names are trademarks of their respective owners. All mentions are nominative (for informational purposes) and do not imply any association with the rights holders.'}
+    </p>
+
+    <h2>{isRu ? 'Коды и награды' : 'Codes and rewards'}</h2>
+    <p>
+      {isRu
+        ? 'Промокоды являются собственностью разработчиков игр. Мы собираем их из публичных источников и указываем ссылки на оригинальные материалы. Работоспособность кодов не гарантируется: разработчики могут отключить код в любой момент без уведомления.'
+        : 'Promo codes are the property of the game developers. We collect them from public sources and link to the original articles. Code availability is not guaranteed: developers may disable a code at any time without notice.'}
+    </p>
+
+    <h2>{isRu ? 'Тексты и изображения' : 'Texts and images'}</h2>
+    <p>
+      {isRu
+        ? 'Описания игр и тексты сайта написаны нами и не копируют статьи-источники. Обложки игр загружаются из официального API Roblox. Мы не воспроизводим чужие статьи целиком или по существу.'
+        : 'Game descriptions and site texts are written by us and do not copy the source articles. Game icons are loaded from the official Roblox API. We do not reproduce third-party articles in full or in substance.'}
+    </p>
+
+    <h2>{isRu ? 'Удаление контента' : 'Content removal'}</h2>
+    <p>
+      {isRu
+        ? 'Если вы правообладатель и хотите удалить материал — напишите нам. Мы удалим спорный контент оперативно и без судебных формальностей.'
+        : 'If you are a rights holder and want material removed, contact us. We will remove the disputed content promptly and without legal formalities.'}
+    </p>
+    <p class="muted">
+      <a href={`mailto:${t(lang, 'contact.emailValue')}`}>{t(lang, 'contact.emailValue')}</a>
+    </p>
+  </article>
+</Base>

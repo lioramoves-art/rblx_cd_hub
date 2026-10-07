@@ -1,0 +1,27 @@
+---
+import { DEFAULT_LANG } from '../lib/i18n';
+---
+
+<html lang={DEFAULT_LANG}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RobloxCodesHub</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="canonical" href="https://roblox-codes-hub.vercel.app/en/" />
+    <script is:inline>
+      (function () {
+        var stored = null;
+        try {
+          stored = localStorage.getItem('lang');
+        } catch (e) {}
+        var lang = stored || ((navigator.language || '').toLowerCase().indexOf('ru') === 0 ? 'ru' : 'en');
+        location.replace('/' + lang + '/');
+      })();
+    </script>
+    <noscript><meta http-equiv="refresh" content="0; url=/en/" /></noscript>
+  </head>
+  <body>
+    <p><a href="/en/">RobloxCodesHub</a></p>
+  </body>
+</html>
