@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://rblx-cd-hub.vercel.app',
+  site: 'https://roblox-codes-hub.vercel.app',
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ru'],
