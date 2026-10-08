@@ -14,46 +14,72 @@ const year = new Date().getFullYear();
 <Base
   lang={lang}
   title={`${t(lang, 'privacy.title')} — ${t(lang, 'site.name')}`}
-  description={isRu ? 'Как обрабатываются данные на RobloxCodesHub: cookies, статистика и реклама Google AdSense.' : 'How data is handled on RobloxCodesHub: cookies, analytics and Google AdSense advertising.'}
+  description={isRu ? 'Как обрабатываются данные на RobloxCodesHub: технические данные, cookies, Google AdSense и ваши права.' : 'How data is handled on RobloxCodesHub: technical data, cookies, Google AdSense and your rights.'}
   path={`/${lang}/privacy/`}
 >
   <article class="static-page">
     <h1>{t(lang, 'privacy.title')}</h1>
     <p class="muted">{isRu ? `Последнее обновление: октябрь ${year}.` : `Last updated: October ${year}.`}</p>
 
-    <h2>{isRu ? 'Какие данные мы собираем' : 'What data we collect'}</h2>
+    <h2>{isRu ? 'Какие данные мы обрабатываем' : 'What information we process'}</h2>
     <p>
       {isRu
-        ? 'Сайт не требует регистрации и не собирает персональные данные напрямую: нет аккаунтов, форм с личной информацией и трекинга профилей. Мы можем временно хранить обезличенные технические логи хостинга (IP-адрес, время запроса, адрес страницы) исключительно для безопасности и диагностики.'
-        : 'The site does not require registration and does not collect personal data directly: there are no accounts, forms with personal information or profile tracking. We may temporarily keep anonymized technical hosting logs (IP address, request time, page path) strictly for security and diagnostics.'}
+        ? 'Сайт не требует регистрации и не предлагает аккаунтов: мы не просим имя, платёжные данные или иную идентифицирующую информацию. Для работы сервиса мы можем обрабатывать техническую информацию — IP-адрес, сведения о браузере и устройстве, запрошенные страницы и время запроса. Это необходимо исключительно для безопасности, диагностики и работы сайта.'
+        : 'The site does not require user registration or accounts: we do not ask for your name, payment details or other identifying information. To operate the service we may process technical information such as IP address, browser and device information, requested pages and request timestamps. We do this solely for security, diagnostics and operation of the site.'}
     </p>
 
-    <h2>{isRu ? 'Файлы cookie' : 'Cookies'}</h2>
+    <h2>{isRu ? 'Файлы cookie и localStorage' : 'Cookies and localStorage'}</h2>
     <p>
       {isRu
-        ? 'Сам сайт использует cookie только для сохранения выбранного языка в вашем браузере. Рекламные партнёры, включая Google, могут использовать cookie для показа и измерения объявлений.'
-        : 'The site itself only uses cookies to remember your chosen language in your browser. Advertising partners, including Google, may use cookies to serve and measure ads.'}
+        ? 'Сам сайт хранит выбранный язык в вашем браузере (localStorage) и не использует для этого cookie. Рекламные партнёры, включая Google, могут использовать cookie и аналогичные технологии, чтобы показывать и измерять объявления. Вы можете управлять cookie в настройках браузера; их блокировка может повлиять на работу рекламы.'
+        : 'The site itself stores your chosen language in your browser (localStorage) and does not use cookies for this. Advertising partners, including Google, may use cookies and similar technologies to serve and measure ads. You can manage cookies in your browser settings; blocking them may affect how ads are delivered.'}
     </p>
 
     <h2>Google AdSense</h2>
     <p>
       {isRu
-        ? 'Мы показываем рекламу через Google AdSense. Google и его партнёры используют cookie (в том числе cookie файла DART) для показа рекламы на основе посещений этого и других сайтов. Вы можете отключить персонализацию рекламы в Настройках объявлений Google (adssettings.google.com) или на странице aboutads.info.'
-        : 'We display advertising through Google AdSense. Google and its partners may use cookies (including the DART cookie) to serve ads based on visits to this and other sites. You can opt out of personalized advertising in Google Ads Settings (adssettings.google.com) or at aboutads.info.'}
+        ? 'Мы показываем рекламу через Google AdSense. Google и его партнёры могут использовать cookie (в том числе cookie DART) для показа рекламы на основе посещений этого и других сайтов. Вы можете отключить персонализацию рекламы в Настройках объявлений Google (adssettings.google.com) или узнать больше на aboutads.info. Обработка данных Google описана в Политике конфиденциальности Google.'
+        : 'We display advertising through Google AdSense. Google and its partners may use cookies (including the DART cookie) to serve ads based on visits to this and other sites. You can opt out of personalized advertising in Google Ads Settings (adssettings.google.com) or learn more at aboutads.info. Google’s own data handling is described in Google’s Privacy & Terms.'}
     </p>
 
-    <h2>{isRu ? 'Сторонние ссылки' : 'Third-party links'}</h2>
+    <h2>{isRu ? 'Аналитика' : 'Analytics'}</h2>
+    <p>
+      {isRu
+        ? 'Мы не подключаем отдельные инструменты аналитики. Агрегированная статистика показов рекламы и посещаемости может собираться нашим рекламным партнёром (Google AdSense).'
+        : 'We do not run a separate analytics tool. Aggregated statistics about ad impressions and traffic may be collected by our advertising partner (Google AdSense).'}
+    </p>
+
+    <h2>{isRu ? 'Сторонние сервисы' : 'Third-party services'}</h2>
+    <p>
+      {isRu
+        ? 'Сайт размещается у провайдера Vercel, Inc., который обрабатывает запросы для его доставки и ведёт технические логи. Иконки игр загружаются с контент-серверов Roblox (tr.rbxcdn.com), которые при загрузке изображений могут получать ваш IP-адрес.'
+        : 'The site is hosted by Vercel, Inc., which processes requests to deliver it and keeps technical logs. Game icons are loaded from Roblox content servers (tr.rbxcdn.com), which may receive your IP address when images are loaded.'}
+    </p>
     <p>
       {isRu
         ? 'Ссылки на Roblox и на сайты-источники ведут на внешние ресурсы с собственными политиками конфиденциальности. Мы не контролируем их обработку данных.'
         : 'Links to Roblox and to source websites lead to external resources with their own privacy policies. We do not control their data handling.'}
     </p>
 
+    <h2>{isRu ? 'Сроки хранения' : 'Data retention'}</h2>
+    <p>
+      {isRu
+        ? 'Технические логи, описанные выше, хранятся ограниченное время — как правило, не более 30 дней — после чего удаляются или обезличиваются. Данные из писем хранятся только столько, сколько необходимо для ответа и ведения переписки.'
+        : 'The technical logs described above are kept for a limited period — as a rule, no longer than 30 days — and are then deleted or aggregated. Data from emails is kept only for as long as needed to respond to you and maintain the correspondence.'}
+    </p>
+
+    <h2>{isRu ? 'Запросы через контакт-страницу' : 'Contact requests'}</h2>
+    <p>
+      {isRu
+        ? 'Когда вы пишете нам на почту, мы обрабатываем ваш адрес и содержимое письма исключительно, чтобы ответить. Мы не добавляем эти данные в какие-либо списки и не передаём их третьим лицам.'
+        : 'When you email us, we process your address and the content of your message solely to respond. We do not add it to any lists or share it with third parties.'}
+    </p>
+
     <h2>{isRu ? 'Ваши права' : 'Your rights'}</h2>
     <p>
       {isRu
-        ? 'Если у вас есть вопросы о данных или вы хотите запросить удаление информации — напишите нам, и мы ответим.'
-        : 'If you have questions about data or want to request removal of information, write to us and we will respond.'}
+        ? 'В зависимости от вашей юрисдикции (например, GDPR в ЕС/ЕЭЗ или CCPA/CPRA в Калифорнии) вы можете иметь право на доступ, исправление или удаление ваших данных, а также возражать против определённых видов обработки. Если у вас есть вопросы или запрос — напишите нам.'
+        : 'Depending on your jurisdiction (for example GDPR in the EU/EEA or CCPA/CPRA in California), you may have the right to request access to, correction or deletion of your data, and to object to certain processing. If you have a question or request, write to us.'}
     </p>
     <p class="muted">
       <a href={`mailto:${t(lang, 'contact.emailValue')}`}>{t(lang, 'contact.emailValue')}</a>
