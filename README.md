@@ -1,4 +1,4 @@
-# RobloxCodesHub
+# GameCodesHub
 
 Fan site with promo codes for popular Roblox games. Static site on [Astro](https://astro.build), deployed on Vercel, data updated by a GitHub Actions parser every 8 hours.
 

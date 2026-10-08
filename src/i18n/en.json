@@ -1,5 +1,5 @@
 {
-  "site.name": "RobloxCodesHub",
+  "site.name": "GameCodesHub",
   "site.tagline": "Working codes for popular Roblox games",
   "site.description": "Free promo codes for the most popular Roblox games — updated every few hours. Active codes, expiry dates and step-by-step redemption.",
   "nav.games": "Games",
@@ -32,8 +32,8 @@
   "game.back": "All games",
   "game.players": "Playing now",
   "game.expiredNote": "These codes no longer work, but we keep the list so you don't waste attempts.",
-  "about.title": "About RobloxCodesHub",
-  "about.p1": "RobloxCodesHub is an independent fan project that collects promo codes for popular Roblox games in one place. The list is refreshed automatically every 8 hours, so you see active codes without digging through forums and videos.",
+  "about.title": "About GameCodesHub",
+  "about.p1": "GameCodesHub is an independent fan project that collects promo codes for popular Roblox games in one place. The list is refreshed automatically every 8 hours, so you see active codes without digging through forums and videos.",
   "about.p2": "We are not affiliated with, endorsed by or sponsored by Roblox Corporation or the developers of the games listed. All game names and trademarks belong to their respective owners.",
   "about.p3": "Codes are collected from public sources and checked for relevance against multiple sources. Descriptions and texts on this site are written by us.",
   "disclaimer.title": "Disclaimer",
@@ -42,7 +42,7 @@
   "contact.text": "Found a wrong code or want your content removed? Write to us and we will respond as soon as possible.",
   "contact.email": "Email",
   "contact.emailValue": "liora.moves@gmail.com",
-  "disclaimer.lead": "RobloxCodesHub is an independent fan site and is not affiliated with Roblox Corporation.",
+  "disclaimer.lead": "GameCodesHub is an independent fan site and is not affiliated with Roblox Corporation.",
   "footer.about": "An independent fan-made aggregator of promo codes for Roblox games. Not affiliated with Roblox Corporation.",
   "footer.rights": "Roblox is a trademark of Roblox Corporation. Game names belong to their respective owners.",
   "lang.switch": "Русский"

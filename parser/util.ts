@@ -1,4 +1,4 @@
-const UA = 'RobloxCodesHubBot/1.0 (+https://gamecodeshub.vercel.app)';
+const UA = 'GameCodesHubBot/1.0 (+https://gamecodeshub.vercel.app)';
 
 export function sleep(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms));
