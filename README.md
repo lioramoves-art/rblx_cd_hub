@@ -4,7 +4,7 @@ Fan site with promo codes for popular Roblox games. Static site on [Astro](https
 
 - English + Russian (`/en/`, `/ru/`), sitemap, hreflang, JSON-LD
 - Codes from public sources (Beebom, Try Hard Guides), cross-checked for relevance
-- Game icons and online players from the official Roblox API
+- Game icons and online players from publicly available Roblox services
 - Placeholders for Google AdSense (Auto Ads) and Search Console verification
 
 ## Commands
