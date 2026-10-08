@@ -20,39 +20,39 @@ const isRu = lang === 'ru';
     <h1>{t(lang, 'disclaimer.title')}</h1>
     <p><strong>{t(lang, 'disclaimer.lead')}</strong></p>
 
-    <h2>{isRu ? 'Независимый фанатский сайт' : 'Independent fan site'}</h2>
+    <h2>{isRu ? 'Независимый неофициальный фанатский сайт' : 'Independent, unofficial fan site'}</h2>
     <p>
       {isRu
-        ? 'GameCodesHub — независимый фанатский проект. Сайт не связан с Roblox Corporation, не одобряется, не спонсируется и не контролируется ею или разработчиками перечисленных игр.'
-        : 'GameCodesHub is an independent fan-made project. The site is not affiliated with, endorsed by, sponsored by or otherwise connected to Roblox Corporation or the developers of the games listed.'}
+        ? 'GameCodesHub — независимый неофициальный фанатский веб-сайт, который предоставляет информацию о промокодах и играх, доступных на платформе Roblox. Сайт не связан с Roblox Corporation, её дочерними компаниями или партнёрами, не одобряется, не спонсируется и не ассоциируется с ними, а также с разработчиками перечисленных игр. Ничто на этом сайте не указывает на официальные отношения, партнёрство, спонсорство, одобрение или авторизацию со стороны Roblox Corporation или любого разработчика игр.'
+        : 'GameCodesHub is an independent, unofficial fan-made website that provides information about promotional codes and games available on the Roblox platform. GameCodesHub is not affiliated with, endorsed by, sponsored by, or otherwise associated with Roblox Corporation or any of its subsidiaries or partners, or with the developers of the games listed. Nothing on this website is intended to suggest an official relationship, partnership, sponsorship, endorsement, or authorization by Roblox Corporation or any game developer.'}
     </p>
 
-    <h2>{isRu ? 'Товарные знаки' : 'Trademarks'}</h2>
+    <h2>{isRu ? 'Товарные знаки и интеллектуальная собственность' : 'Trademarks and intellectual property'}</h2>
     <p>
       {isRu
-        ? 'Roblox, логотип Roblox и названия игр являются товарными знаками их законных владельцев. Все упоминания носят номинальный (информационный) характер и не означают ассоциации с правообладателями.'
-        : 'Roblox, the Roblox logo and game names are trademarks of their respective owners. All mentions are nominative (for informational purposes) and do not imply any association with the rights holders.'}
+        ? '«Roblox» и другие упоминаемые товарные знаки, названия игр, логотипы, изображения и прочая интеллектуальная собственность принадлежат их законным владельцам. Упоминания Roblox и отдельных игр делаются исключительно для идентификации и в информационных целях. GameCodesHub не претендует на право собственности на игры, игровые ресурсы, товарные знаки или другую интеллектуальную собственность третьих лиц.'
+        : '“Roblox” and other referenced trademarks, game names, logos, images, and other intellectual property belong to their respective owners. References to Roblox and individual Roblox games are made solely for identification and informational purposes. GameCodesHub does not claim ownership of Roblox games, game assets, trademarks, or other third-party intellectual property.'}
     </p>
 
     <h2>{isRu ? 'Коды и награды' : 'Codes and rewards'}</h2>
     <p>
       {isRu
-        ? 'Промокоды являются собственностью разработчиков игр. Мы собираем их из публичных источников и указываем ссылки на оригинальные материалы. Работоспособность кодов не гарантируется: разработчики могут отключить код в любой момент без уведомления.'
-        : 'Promo codes are the property of the game developers. We collect them from public sources and link to the original articles. Code availability is not guaranteed: developers may disable a code at any time without notice.'}
+        ? 'Коды на сайте приводятся в информационных целях. Коды, награды, доступность и сроки действия могут меняться в любой момент и полностью контролируются разработчиками соответствующих игр. Мы собираем коды из публичных источников и даём ссылки на оригинальные материалы, чтобы вы могли проверить информацию. Работоспособность кодов не гарантируется.'
+        : 'Game codes listed on this website are provided for informational purposes. Codes, rewards, availability, and expiration dates may change at any time and are controlled by the respective game developers. We collect codes from public sources and link to original articles so you can verify the information. Code availability is not guaranteed.'}
     </p>
 
-    <h2>{isRu ? 'Тексты и изображения' : 'Texts and images'}</h2>
+    <h2>{isRu ? 'Данные и изображения' : 'Data and images'}</h2>
     <p>
       {isRu
-        ? 'Описания игр и тексты сайта написаны нами и не копируют статьи-источники. Обложки игр загружаются из официального API Roblox. Мы не воспроизводим чужие статьи целиком или по существу.'
-        : 'Game descriptions and site texts are written by us and do not copy the source articles. Game icons are loaded from the official Roblox API. We do not reproduce third-party articles in full or in substance.'}
+        ? 'Описания игр и тексты сайта написаны нами и не копируют статьи-источники. Иконки игр загружаются в браузер напрямую с контент-серверов Roblox и не хранятся на наших серверах. Использование публично доступных сервисов и API Roblox не передаёт никаких прав на полученный через них контент: названия, изображения и товарные знаки остаются собственностью их владельцев.'
+        : 'Game descriptions and site texts are written by us and do not copy the source articles. Game icons are loaded in your browser directly from Roblox content delivery servers and are not stored on our servers. The use of publicly available Roblox services and APIs does not transfer any rights to content obtained through them: game names, images, and trademarks remain the property of their respective owners.'}
     </p>
 
     <h2>{isRu ? 'Удаление контента' : 'Content removal'}</h2>
     <p>
       {isRu
-        ? 'Если вы правообладатель и хотите удалить материал — напишите нам. Мы удалим спорный контент оперативно и без судебных формальностей.'
-        : 'If you are a rights holder and want material removed, contact us. We will remove the disputed content promptly and without legal formalities.'}
+        ? 'Если вы правообладатель и считаете, что материал на GameCodesHub должен быть удалён или изменён — свяжитесь с нами через контакты на сайте. Мы удалим спорный контент оперативно и без судебных формальностей.'
+        : 'If you are a rights holder and believe that content on GameCodesHub should be removed or modified, please contact us using the contact information provided on this website. We will remove the disputed content promptly and without legal formalities.'}
     </p>
     <p class="muted">
       <a href={`mailto:${t(lang, 'contact.emailValue')}`}>{t(lang, 'contact.emailValue')}</a>

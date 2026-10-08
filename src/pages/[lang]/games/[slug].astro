@@ -44,7 +44,7 @@ const fmtDate = (iso: string | null | undefined) =>
       <h1>{game.name}</h1>
       <div class="meta">
         {meta?.playing !== null && meta?.playing !== undefined && (
-          <span>{t(lang, 'game.players')}: {meta.playing.toLocaleString('en-US')}</span>
+          <span>{t(lang, 'game.players')}: {meta.playing.toLocaleString('en-US')} · {t(lang, 'game.playersSource')}</span>
         )}
         {codes.checkedAt && <span>{t(lang, 'game.updated')}: {fmtDate(codes.checkedAt)}</span>}
       </div>
