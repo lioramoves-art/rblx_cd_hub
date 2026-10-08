@@ -11,7 +11,7 @@ interface Props {
 }
 
 const { lang, title, description, path } = Astro.props;
-const site = Astro.site ?? new URL('https://roblox-codes-hub.vercel.app');
+const site = Astro.site ?? new URL('https://rblx-cd-hub.vercel.app');
 const canonical = new URL(path, site).href;
 const altLang: Lang = lang === 'en' ? 'ru' : 'en';
 const altUrl = new URL(localizePath(path, altLang), site).href;

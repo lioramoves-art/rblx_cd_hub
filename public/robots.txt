@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://roblox-codes-hub.vercel.app/sitemap-index.xml
+Sitemap: https://rblx-cd-hub.vercel.app/sitemap-index.xml
