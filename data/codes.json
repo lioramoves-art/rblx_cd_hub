@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:26:08.916Z",
+  "updatedAt": "2026-11-01T00:35:12.716Z",
   "games": {
     "blox-fruits": {
       "active": [
@@ -132,7 +132,7 @@
         "SECRET_ADMIN",
         "TRIPLEABUSE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "grow-a-garden": {
@@ -150,7 +150,7 @@
         "LUNARGLOW10",
         "torigate"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "dress-to-impress": {
@@ -319,7 +319,7 @@
         "WINTERUPDATE",
         "YEAROFTHESNAKE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "brookhaven": {
@@ -602,7 +602,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "adopt-me": {
@@ -623,7 +623,7 @@
         "SUMMERBREAK",
         "SUMMERSALE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "pet-simulator-99": {
@@ -648,7 +648,7 @@
         "TitanicFireDragon",
         "VWJ33JE6SLED"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": null
     },
     "murder-mystery-2": {
@@ -672,7 +672,7 @@
         "SUB0",
         "TH3N3XTL3V3L"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": null
     },
     "jailbreak": {
@@ -762,7 +762,7 @@
         "Winter22",
         "WinterUpdate2021"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "bee-swarm-simulator": {
@@ -837,7 +837,7 @@
         "WeekExtension",
         "Wink"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "arsenal": {
@@ -916,7 +916,7 @@
         "POG",
         "TROLLFACE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "blade-ball": {
@@ -1007,7 +1007,7 @@
         "XMAS",
         "ZEROGRAVITY"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "shindo-life": {
@@ -1167,7 +1167,7 @@
         "ShindoLifeTakenDown!",
         "Year5ShindoLife!"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "king-legacy": {
@@ -1286,7 +1286,7 @@
         "YT10K",
         "YT90KCELEBRATION"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "fruit-battlegrounds": {
@@ -1412,7 +1412,7 @@
         "WOWZER910",
         "YOOO560"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "anime-vanguards": {
@@ -1656,7 +1656,7 @@
         "WinterUpdateSoon",
         "YT200K"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-12T08:12:53.073Z"
     },
     "all-star-tower-defense": {
@@ -1664,6 +1664,10 @@
         {
           "code": "ALateSummerAwaits",
           "reward": "4000 Gems and 100 Stardust"
+        },
+        {
+          "code": "anniversarypreparation",
+          "reward": "4000 gems, 50 stardust, and Alucard"
         },
         {
           "code": "AwesomeBeginnerCode",
@@ -1680,6 +1684,10 @@
         {
           "code": "FusionReborn",
           "reward": "4000 Gems and 150 Stardust"
+        },
+        {
+          "code": "killorbekilled",
+          "reward": "4000 gems, 100 stardust"
         },
         {
           "code": "LIMITEDTIMECODEX",
@@ -1924,8 +1932,8 @@
         "world3ishere",
         "youtubekingluffy350kdone"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-17T00:19:08.065Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "ninja-legends": {
       "active": [
@@ -2078,7 +2086,7 @@
         "sparkninja20",
         "treeninja400"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "muscle-legends": {
@@ -2173,7 +2181,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-18T08:17:05.423Z"
     },
     "bubble-gum-simulator-infinity": {
@@ -2295,7 +2303,7 @@
         "Thanks",
         "Whoops"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "fisch": {
@@ -2449,7 +2457,7 @@
         "WRATHOFOLYMPUS",
         "WrathOfOlympus"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-31T16:26:08.916Z"
     },
     "type-soul": {
@@ -2777,7 +2785,7 @@
         "youdidntexpectheretobeasecondonedidyou",
         "yurrrrlistenman"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-26T08:35:47.763Z"
     },
     "a-universal-time": {
@@ -2855,7 +2863,7 @@
         "WONDEROFWHO",
         "YAREYARE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-10T08:08:18.805Z"
     },
     "peroxide": {
@@ -2967,7 +2975,7 @@
         "YayAHalloweenUpdate",
         "YouDoNotHaveShikai"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "anime-adventures": {
@@ -3043,7 +3051,7 @@
         "UPDATESOON5189",
         "VIGILANTE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-26T08:35:47.763Z"
     },
     "gym-league": {
@@ -3351,17 +3359,17 @@
         "UPDATE2",
         "WEREBACK"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-27T08:31:45.486Z"
     },
     "basketball-zero": {
       "active": [
         {
-          "code": "15NINJA",
+          "code": "15HALLOWEEN",
           "reward": "10 Lucky Spins and 100,000"
         },
         {
-          "code": "NINJA",
+          "code": "HALLOWEEN",
           "reward": "15 Lucky Spins and 50,000"
         }
       ],
@@ -3385,6 +3393,7 @@
         "15KIRA",
         "15KLIKESYT",
         "15MONSTERRETURN",
+        "15NINJA",
         "15PERFV2",
         "15SCARYMONSTER",
         "15SILVER",
@@ -3558,6 +3567,7 @@
         "NEWCODESRRY",
         "NEWSEASON",
         "NEWYORK",
+        "NINJA",
         "NOLIMITED",
         "OIL",
         "OILEDJUDGEMENT",
@@ -3626,8 +3636,8 @@
         "wowforgotcode",
         "YIPPEE3V3"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-25T00:16:26.401Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "volleyball-legends": {
       "active": [
@@ -3979,22 +3989,18 @@
         "YOGAN_BUFF",
         "YOGAN_REWORK"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-31T16:26:08.916Z"
     },
     "blue-lock-rivals": {
       "active": [
         {
-          "code": "AIKUCHANGES",
+          "code": "LIMITEDSBACK",
+          "reward": "5 Lucky Spins and 5 Lucky Flows"
+        },
+        {
+          "code": "ZANTESUHERE",
           "reward": "5 Lucky Flows"
-        },
-        {
-          "code": "NEW",
-          "reward": ")"
-        },
-        {
-          "code": "SKELETON",
-          "reward": "5 Lucky Spins"
         }
       ],
       "expired": [
@@ -4056,6 +4062,7 @@
         "AIKU",
         "AIKU1.15M!",
         "AikuBack",
+        "AIKUCHANGES",
         "AIKUREWORK!",
         "BACHIRA!!",
         "BACHIRADAD",
@@ -4261,6 +4268,7 @@
         "SHARKBOY",
         "SHARKTIME",
         "SHIDOUTOMORROW",
+        "SKELETON",
         "SkeletonNagiHype",
         "SMALLUPDATECODE",
         "SNAKEDEFENCE!",
@@ -4282,6 +4290,7 @@
         "SORRYFORDELAYAIKU",
         "SORRYLOADING",
         "SPEEDSTER",
+        "SPOOKY",
         "Sry4Delay",
         "SUMMERPT1!",
         "SUMMERUPDATE",
@@ -4333,8 +4342,8 @@
         "YUKIMIYA",
         "ZOMBIETIME"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-25T00:16:26.401Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "ninja-time": {
       "active": [
@@ -4869,7 +4878,7 @@
         "YTIntervention!",
         "zrb4iano"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-25T00:16:26.401Z"
     },
     "steal-a-brainrot": {
@@ -4902,7 +4911,7 @@
         "WAVERIDER4FREELOL",
         "WSUMMERUPD1"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "99-nights-in-the-forest": {
@@ -4923,7 +4932,7 @@
       "expired": [
         "happyhalloween"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T16:11:44.737Z"
     },
     "driving-empire": {
@@ -5026,7 +5035,7 @@
         "VALENTINES",
         "Winterfest2023"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "restaurant-tycoon-2": {
@@ -5058,7 +5067,7 @@
         "underwater",
         "winter2024"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "rivals": {
@@ -5175,7 +5184,7 @@
         "THANKYOU_1BVISITS!",
         "WRATH"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-31T16:26:08.916Z"
     },
     "grow-a-garden-2": {
@@ -5198,7 +5207,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "anime-fighting-simulator": {
@@ -5218,6 +5227,10 @@
         {
           "code": "400KMEMBERS",
           "reward": "2000 TenseiShards, 5 FruitRolls, 4 YenBoosts, and 1000 TowerTokens"
+        },
+        {
+          "code": "500KFAVS",
+          "reward": "2500 Tensei Shards, 4 Training boosts, and 8 Fruit rolls"
         },
         {
           "code": "7.5SHUTDOWN",
@@ -5336,12 +5349,24 @@
           "reward": "Temporary Server Boost"
         },
         {
+          "code": "SORRY4RESTART",
+          "reward": "Free Rewards"
+        },
+        {
           "code": "SORRY4SHUTDOWN",
           "reward": "1000 Clover Token and 1 Temporary Server Boost"
         },
         {
+          "code": "SPOOKY",
+          "reward": "1500 Chikara, 3000 Tensei Shards, 1000 Candy, 3 Stat Boosts, 3 Trick or Treat Bags, and 3 Clover Giftbox"
+        },
+        {
           "code": "SWORDINCIDENT",
           "reward": "4 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 2 Limbo Keys"
+        },
+        {
+          "code": "THANKYOU100K",
+          "reward": "5000 Tensei shards, 2 server boosts, and 8 Speed training boost"
         },
         {
           "code": "THANKYOUFOR50K",
@@ -5366,6 +5391,10 @@
         {
           "code": "TRIPLET",
           "reward": "1000 Tower Tokens, 2 Shifting Serums, 4 Training Speed Boost, 4 Stat Boost, and 2000 Tensei Shards"
+        },
+        {
+          "code": "UPD12RELEASE",
+          "reward": "2500 Candy, 5000 Tensei Shards, and 4 Tensei shard boosts"
         },
         {
           "code": "UPD3RELEASE",
@@ -5418,8 +5447,8 @@
         "SORRYFORSHUTDOWN",
         "THANKSFOR20K"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-19T16:23:47.624Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "no-limit-lifting-simulator-2": {
       "active": [
@@ -5429,7 +5458,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "restaurant-tycoon-3": {
@@ -5598,7 +5627,7 @@
         "Vitolinocode",
         "WeirdBlox"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-24T16:17:49.029Z"
     },
     "elemental-dungeon": {
@@ -5677,7 +5706,7 @@
         "WERESOSORRYDELAYS2",
         "XMAS"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "murder-mystery-v": {
@@ -5699,15 +5728,11 @@
         "TYFOR10M",
         "VALP"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-07T14:29:27.836Z"
     },
     "bloxstrike": {
       "active": [
-        {
-          "code": "25KCCU",
-          "reward": "150 Credits , limited to 7.5 users)"
-        },
         {
           "code": "ANIME",
           "reward": "Free Rewards"
@@ -5717,8 +5742,8 @@
           "reward": "250 Credits"
         },
         {
-          "code": "LAUNCHSITE",
-          "reward": "250 Credits (limited to 2.5 users)"
+          "code": "HALLOWEEN2026",
+          "reward": "100 Credits , limited to 2.5 users)"
         },
         {
           "code": "REACTORDELAY",
@@ -5730,6 +5755,7 @@
         "10MVISITS",
         "1MGROUPMEMBERS",
         "1MVISITS",
+        "25KCCU",
         "25MILLIONVISITS",
         "8KCCU",
         "APEXCOLLECTION",
@@ -5744,6 +5770,7 @@
         "GAMEBROKE318",
         "HAPPYBDAYYUUTO",
         "HELLENA",
+        "LAUNCHSITE",
         "LIL30MINUTEDOWNTIME",
         "LORE",
         "MICHAELSRETURN",
@@ -5765,8 +5792,8 @@
         "WEAREBACK",
         "WINTER2025"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-21T00:20:34.696Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "slayers-2": {
       "active": [
@@ -5832,7 +5859,7 @@
         "POINTSRESET",
         "SORRYFORSHUTDOWN"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-30T08:42:34.313Z"
     },
     "anime-zero": {
@@ -5975,7 +6002,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-29T08:42:21.451Z"
     },
     "drill-to-earths-core": {
@@ -5997,7 +6024,7 @@
         "Expiration",
         "Typos"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-25T08:17:24.115Z"
     },
     "prehistoric-farm": {
@@ -6023,6 +6050,14 @@
           "reward": "10k Coins and Diplodocus egg"
         },
         {
+          "code": "NESSIEISLEAVINGSOON",
+          "reward": "36 Nessie shards and 10k coins"
+        },
+        {
+          "code": "NODELAYTHISTIME",
+          "reward": "12 Nessie Shards and 10k Coins"
+        },
+        {
           "code": "SORRYFORDELAYSGUYS",
           "reward": "5k coins and 12 Nessie Fragments"
         },
@@ -6039,6 +6074,10 @@
           "reward": "30k coins, 1 Velociraptor egg, and 1 Raptor X Remnant"
         },
         {
+          "code": "UPDATE2ITHINKSO",
+          "reward": "20k coins and Double luck for 30 minutes"
+        },
+        {
           "code": "WEDIDIT",
           "reward": "Free Rewards"
         }
@@ -6047,8 +6086,8 @@
         "OGURICAPSORRY",
         "SORRYFORDELAYS"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-12T08:12:53.073Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "vampire-life": {
       "active": [
@@ -6108,7 +6147,7 @@
         "THANKS700L",
         "ThankYou300"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-27T00:23:14.346Z"
     },
     "deep-fishing": {
@@ -6223,7 +6262,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-21T16:23:41.797Z"
     },
     "anime-mysterious": {
@@ -6284,7 +6323,7 @@
         "UPDATE075",
         "WORLDISALWAYSLEEP"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-28T00:30:17.493Z"
     },
     "survive-a-million-monkeys": {
@@ -6315,7 +6354,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-18T08:17:05.423Z"
     },
     "dungeon-lootr": {
@@ -6394,7 +6433,7 @@
         "UPDATE2_5",
         "WEEKENDBUFFS"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T08:10:54.719Z"
     },
     "fish-it": {
@@ -6465,7 +6504,7 @@
         "XMAS2024",
         "YEEHAW"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "dandy-s-world": {
@@ -6531,7 +6570,7 @@
         "SPOOKYSEASON",
         "TENMILLION"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-10T08:08:18.805Z"
     },
     "jujutsu-shenanigans": {
@@ -6555,7 +6594,7 @@
         "WHYEMOTEDISSAPEAR",
         "X6X31F47UN8JM1NEP"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "anime-dice": {
@@ -6656,7 +6695,7 @@
       "expired": [
         "JPCALLING"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-26T08:35:47.763Z"
     },
     "1-speed-keyboard-escape-candy-chocolate": {
@@ -6667,7 +6706,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "sol-s-rng": {
@@ -6727,7 +6766,7 @@
         "word999aura",
         "XMASPART2"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-31T16:26:08.916Z"
     },
     "the-strongest-battlegrounds": {
@@ -7010,7 +7049,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "1-loot-to-forge": {
@@ -7028,7 +7067,7 @@
         "Expiration",
         "Typos"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-20T08:24:11.146Z"
     },
     "evade": {
@@ -7088,7 +7127,7 @@
         "theaftermath",
         "thebig5"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "drag-drive-simulator": {
@@ -7154,13 +7193,21 @@
         "THX4MILLIONADVCOMMUNITY",
         "WELCOMERAMADAN2026"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "ball-vs-ball": {
       "active": [
         {
           "code": "UPD1",
+          "reward": "100 Coins"
+        },
+        {
+          "code": "UPD10",
+          "reward": "100 Coins"
+        },
+        {
+          "code": "UPD11",
           "reward": "100 Coins"
         },
         {
@@ -7190,11 +7237,15 @@
         {
           "code": "UPD8",
           "reward": "100 Coins"
+        },
+        {
+          "code": "UPD9",
+          "reward": "100 Coins"
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-08T07:35:30.520Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "doors": {
       "active": [
@@ -7298,7 +7349,7 @@
         "THEHUNT",
         "THREE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "blockspin": {
@@ -7836,7 +7887,7 @@
         "UNDER_THE_BARREL",
         "UPDATEOMEGA"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "sniper-arena": {
@@ -7862,7 +7913,7 @@
         "FREELIKE5",
         "weaponfix"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-23T08:26:28.404Z"
     },
     "build-an-ant-empire": {
@@ -7889,7 +7940,7 @@
         "wnus13",
         "xn287hx"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-28T16:39:31.649Z"
     },
     "command-an-army": {
@@ -7978,7 +8029,7 @@
         "SHIELDBREAKER",
         "SORRY"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-31T16:26:08.916Z"
     },
     "grand-piece-online": {
@@ -8067,7 +8118,7 @@
         "XLOTSOFREROLLS4",
         "XLOTSOFREROLLS5"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "hypershot": {
@@ -8086,7 +8137,7 @@
         "SIXSEVEN",
         "THANKSGIVING"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "anime-breaker": {
@@ -8353,7 +8404,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-30T08:42:34.313Z"
     },
     "berry-avenue-rp": {
@@ -8807,7 +8858,7 @@
         "9297309472",
         "9906339057"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "100-days-at-sea": {
@@ -8842,7 +8893,7 @@
         "POTION",
         "SKELLY"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-24T08:19:19.017Z"
     },
     "anime-astral-simulator": {
@@ -9568,14 +9619,34 @@
         "Expiration",
         "Typos"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-25T00:16:26.401Z"
     },
     "attack-on-titan-revolution": {
       "active": [
         {
-          "code": "LIKES1M400K",
-          "reward": "300 Spins, 1 2x Luck Potion [1H], 1 2x Gold Potion [1H], 1 2x XP Potion [1H], and 10 Emperor Keys"
+          "code": "FREECODE8",
+          "reward": "10 Lucky Spins"
+        },
+        {
+          "code": "GROUP10M",
+          "reward": "500 Spins, 1 2x Luck Potion [2H], 1 2x Gold Potion [2H], 1 2x XP Potion [2H], 10 Emperor Keys, and 5 Memory Scrolls"
+        },
+        {
+          "code": "HALLOWEEN2026",
+          "reward": "4,000 Pumpkins"
+        },
+        {
+          "code": "MEMBERS1M100K",
+          "reward": "100 Spins, 1 2x Luck Potion [30M], 1 2x Gold Potion [30M], 1 2x XP Potion [30M], 5 Emperor Keys, and 2,000 Gems"
+        },
+        {
+          "code": "UPDATE5",
+          "reward": "500 Spins, 1 2x Luck Potion [2H], 1 2x Gold Potion [2H], 1 2x XP Potion [2H], 20 Emperor Keys, and 10 Memory Scrolls , needs 1 Prestige)"
+        },
+        {
+          "code": "VISITS1B100M",
+          "reward": "100 Spins, 1 2x Luck Potion [30M], 1 2x Gold Potion [30M], 1 2x XP Potion [30M], 5 Emperor Keys ,and 2,000 Gems"
         }
       ],
       "expired": [
@@ -9615,6 +9686,7 @@
         "LIKES1M250K",
         "LIKES1M300K",
         "LIKES1M350K",
+        "LIKES1M400K",
         "LIKES200K",
         "LIKES220K",
         "LIKES240K",
@@ -9705,8 +9777,8 @@
         "WEBSITE",
         "WZINS"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-08T07:35:30.520Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "squid-game-x": {
       "active": [
@@ -9913,7 +9985,7 @@
         "UPDATE5RELEASE",
         "UPDATE7RELEASE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "build-the-pyramid": {
@@ -9972,7 +10044,7 @@
         "UPANDCOMINGPC1",
         "UPGRADES5K"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-25T08:17:24.115Z"
     },
     "creatures-of-sonaria-survive-kaiju-animals": {
@@ -10004,7 +10076,7 @@
         "WELCOMETORECODE",
         "ZotoYoutuber"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "duck-duck": {
@@ -10019,7 +10091,7 @@
         "LVLUP",
         "QUACKEDEGGS"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "search-for-the-needle": {
@@ -10055,7 +10127,7 @@
         "SOON",
         "WEATHER"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-25T08:17:24.115Z"
     },
     "my-avatar": {
@@ -10068,7 +10140,7 @@
       "expired": [
         "100POINTS"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "untitled-boxing-game": {
@@ -10243,7 +10315,7 @@
         "weball",
         "yamcha"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-24T08:19:19.017Z"
     },
     "build-a-boat-for-treasure": {
@@ -10258,7 +10330,7 @@
         "Fireworks",
         "GGGOOOAAALLL"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "knife-duels": {
@@ -10282,7 +10354,7 @@
         "SORRYFORBADANTICHEAT",
         "Summer"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-28T08:40:00.256Z"
     },
     "murder-duels": {
@@ -10316,7 +10388,7 @@
         "10KLIKES",
         "1KLIKES"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "wanted": {
@@ -10387,7 +10459,7 @@
         "EASTER",
         "ZORVELLO"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-19T16:23:47.624Z"
     },
     "blue-lock-farm": {
@@ -10412,7 +10484,7 @@
         "BLUETOOTH",
         "HALLOWEENEVENT"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-25T08:17:24.115Z"
     },
     "roll-a-fisherman": {
@@ -10447,7 +10519,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "tower-defense-simulator": {
@@ -10506,7 +10578,7 @@
         "TDS5YEARS!",
         "W33KLICODE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "fishing-master": {
@@ -10547,11 +10619,15 @@
         "UPD1FM",
         "UPDDELAY"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-24T16:17:49.029Z"
     },
     "runaways": {
       "active": [
+        {
+          "code": "BOO",
+          "reward": "3,333 Credz"
+        },
         {
           "code": "BOTCHER",
           "reward": "2500 Credz"
@@ -10565,16 +10641,36 @@
           "reward": "2k Cash"
         },
         {
+          "code": "SPOOKY",
+          "reward": "2,222 Credz"
+        },
+        {
           "code": "SUPERCAT",
           "reward": "1 Light Pistol"
+        },
+        {
+          "code": "VROOM",
+          "reward": "3,000 Credz"
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-12T08:12:53.073Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "my-anime-mine": {
       "active": [
+        {
+          "code": "ACES",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "AZURE",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "BLOSSOM",
+          "reward": "Free Rewards"
+        },
         {
           "code": "BLUEMOON",
           "reward": "1 Enchanted Dice and 1 Ore Elixir II"
@@ -10582,6 +10678,10 @@
         {
           "code": "EnchantedStrength",
           "reward": "1 Strength Potion and 1 Enchanted Dice"
+        },
+        {
+          "code": "FEASTS",
+          "reward": "Free Rewards"
         },
         {
           "code": "HALLOWKEEP",
@@ -10596,6 +10696,14 @@
           "reward": "1 Mutation Luck Potion I"
         },
         {
+          "code": "ONANDON",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "PETALFALL",
+          "reward": "Free Rewards"
+        },
+        {
           "code": "SOULFORGE",
           "reward": "1 Enchanted Dice and 1 Summon Scroll"
         }
@@ -10607,8 +10715,8 @@
         "EnchantedFirst50",
         "EnchantedSummons"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-12T08:12:53.073Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "anime-expeditions": {
       "active": [
@@ -10684,7 +10792,7 @@
         "WeekendSurge",
         "wfade"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-27T08:31:45.486Z"
     },
     "mini-war": {
@@ -10704,7 +10812,7 @@
         "NOLAGPLZ",
         "tungtungsahur"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "gacha-online-rp": {
@@ -10718,7 +10826,7 @@
         "HELLOWORLD",
         "THANKSGIVING"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "run-a-restaurant": {
@@ -10748,7 +10856,7 @@
         }
       ],
       "expired": [],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "legacy-piece": {
@@ -10911,7 +11019,7 @@
         "update0.75with100bugs!!",
         "whitescreenjumpscare!"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T16:11:44.737Z"
     },
     "karinderya": {
@@ -10940,7 +11048,7 @@
         "MATERIALSDAW",
         "RELEASE"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "ghost-driver": {
@@ -10967,7 +11075,7 @@
         "THANKSFOR350K",
         "Thanksfor480k"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-25T08:17:24.115Z"
     },
     "dragon-adventures": {
@@ -11023,7 +11131,7 @@
         "winter2022",
         "YUMMY"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     },
     "dueling-grounds": {
@@ -11042,6 +11150,10 @@
         },
         {
           "code": "MidSeasonUpdate",
+          "reward": "Free Rewards"
+        },
+        {
+          "code": "NightOfHallows",
           "reward": "Free Rewards"
         },
         {
@@ -11072,8 +11184,8 @@
         "WarhammerBuff2026",
         "WingTheGoat"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
-      "lastChangeAt": "2026-10-08T07:35:30.520Z"
+      "checkedAt": "2026-11-01T00:35:12.716Z",
+      "lastChangeAt": "2026-11-01T00:35:12.716Z"
     },
     "war-tycoon": {
       "active": [
@@ -11116,7 +11228,7 @@
         "Social",
         "Victory450k"
       ],
-      "checkedAt": "2026-10-31T16:26:08.916Z",
+      "checkedAt": "2026-11-01T00:35:12.716Z",
       "lastChangeAt": "2026-10-08T07:35:30.520Z"
     }
   }
