@@ -1,266 +1,266 @@
 {
-  "updatedAt": "2026-11-01T00:35:12.716Z",
+  "updatedAt": "2026-11-01T08:37:49.526Z",
   "games": {
     "grow-a-garden": {
       "placeId": 126884695634066,
       "universeId": 7436755782,
       "name": "[🎃] Grow a Garden 🌶️",
       "icon": "https://tr.rbxcdn.com/180DAY-7b5391a95fe9703205bda6d2826f2fbf/512/512/Image/Png/noFilter",
-      "playing": 25089,
-      "visits": 36000590493,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 29141,
+      "visits": 36001630855,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "brookhaven": {
       "placeId": 4924922222,
       "universeId": 1686885941,
       "name": "Brookhaven 🏡RP",
       "icon": "https://tr.rbxcdn.com/180DAY-ecebfdc5f5b0aa5c4635cdbb8eace755/512/512/Image/Png/noFilter",
-      "playing": 394419,
-      "visits": 89092854077,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 406951,
+      "visits": 89103863813,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "pet-simulator-99": {
       "placeId": 8737899170,
       "universeId": 3317771874,
       "name": "🎃 [MINIGAMES] Pet Simulator 99! 👻",
       "icon": "https://tr.rbxcdn.com/180DAY-bc1cf233a31bb748e497f783a821e1b0/512/512/Image/Png/noFilter",
-      "playing": 64929,
-      "visits": 2690438480,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 69258,
+      "visits": 2691048874,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "murder-mystery-2": {
       "placeId": 142823291,
       "universeId": 66654135,
       "name": "Murder Mystery 2",
       "icon": "https://tr.rbxcdn.com/180DAY-ab1484ff8063476d413da09dd25df93f/512/512/Image/Png/noFilter",
-      "playing": 367326,
-      "visits": 31991615533,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 365075,
+      "visits": 31999052536,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "jailbreak": {
       "placeId": 606849621,
       "universeId": 245662005,
       "name": "Jailbreak 🍁🍁",
       "icon": "https://tr.rbxcdn.com/180DAY-322a1bfda9a8c689eda7d49921f6f0a6/512/512/Image/Png/noFilter",
-      "playing": 4689,
-      "visits": 8083902094,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 5119,
+      "visits": 8084086329,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "bee-swarm-simulator": {
       "placeId": 1537690962,
       "universeId": 601130232,
       "name": "Bee Swarm Simulator",
       "icon": "https://tr.rbxcdn.com/180DAY-47a5cb3cce196ed1f9ddbc097c415ad1/512/512/Image/Png/noFilter",
-      "playing": 30791,
-      "visits": 4637607969,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 32519,
+      "visits": 4638180510,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "arsenal": {
       "placeId": 286090429,
       "universeId": 111958650,
       "name": "Arsenal",
       "icon": "https://tr.rbxcdn.com/180DAY-fe395890d4b217cb34f6e86c4a6b76cb/512/512/Image/Png/noFilter",
-      "playing": 3057,
-      "visits": 6324865665,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 2263,
+      "visits": 6325048957,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "blade-ball": {
       "placeId": 13772394625,
       "universeId": 4777817887,
       "name": "Blade Ball",
       "icon": "https://tr.rbxcdn.com/180DAY-38e75c9ff1051ad6ca868f39be2cf095/512/512/Image/Png/noFilter",
-      "playing": 12999,
-      "visits": 6518904876,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 13740,
+      "visits": 6519429387,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "shindo-life": {
       "placeId": 4616652839,
       "universeId": 1511883870,
       "name": "Shindo Life [251]",
       "icon": "https://tr.rbxcdn.com/180DAY-811d588b6816f26a4e873c91c37e7a79/512/512/Image/Png/noFilter",
-      "playing": 3064,
-      "visits": 2735376343,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 2122,
+      "visits": 2735430317,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "king-legacy": {
       "placeId": 4520749081,
       "universeId": 1451439645,
       "name": "King Legacy",
       "icon": "https://tr.rbxcdn.com/180DAY-8d0a42cbf6f6c05180a90b8f99a5eb72/512/512/Image/Png/noFilter",
-      "playing": 6537,
-      "visits": 4072584286,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 6969,
+      "visits": 4072765218,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "fruit-battlegrounds": {
       "placeId": 9224601490,
       "universeId": 3457700596,
       "name": "[OPE V2] Fruit Battlegrounds",
       "icon": "https://tr.rbxcdn.com/180DAY-5b331270d0a5c1096a3acc6cf62b0414/512/512/Image/Png/noFilter",
-      "playing": 1885,
-      "visits": 1076989747,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 1720,
+      "visits": 1077037980,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-vanguards": {
       "placeId": 16146832113,
       "universeId": 5578556129,
       "name": "Vanguards: 2nd Anniversary",
       "icon": "https://tr.rbxcdn.com/180DAY-6709be2458e61d4756b825b769671d8c/512/512/Image/Png/noFilter",
-      "playing": 9692,
-      "visits": 2100107575,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 10217,
+      "visits": 2100250218,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "all-star-tower-defense": {
       "placeId": 4996049426,
       "universeId": 1720936166,
       "name": "[OG] All Star Tower Defense",
       "icon": "https://tr.rbxcdn.com/180DAY-a6de6efa08ce40e0a934821b0f999453/512/512/Image/Png/noFilter",
-      "playing": 8662,
-      "visits": 7956152194,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 8696,
+      "visits": 7956686634,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "ninja-legends": {
       "placeId": 3956818381,
       "universeId": 1335695570,
       "name": "⚡Ninja Legends",
       "icon": "https://tr.rbxcdn.com/180DAY-8ee186a3dd4dd2cf8c15bf7bd3bbea61/512/512/Image/Png/noFilter",
-      "playing": 501,
-      "visits": 2162714525,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 609,
+      "visits": 2162731718,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "muscle-legends": {
       "placeId": 3623096087,
       "universeId": 1268927906,
       "name": "🎃Muscle Legends",
       "icon": "https://tr.rbxcdn.com/180DAY-d1884f652f703d396106bcffbbb8915b/512/512/Image/Png/noFilter",
-      "playing": 5119,
-      "visits": 2320667004,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 4737,
+      "visits": 2320758934,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "bubble-gum-simulator-infinity": {
       "placeId": 85896571713843,
       "universeId": 6504986360,
       "name": "[🍀5X] Bubble Gum Simulator INFINITY",
       "icon": "https://tr.rbxcdn.com/180DAY-78bae55ccf870cb7f29f854437a1fadc/512/512/Image/Png/noFilter",
-      "playing": 14813,
-      "visits": 620813488,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 15037,
+      "visits": 621030338,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "fisch": {
       "placeId": 16732694052,
       "universeId": 5750914919,
       "name": "Fisch 🎸 [VENUE ENCORE]",
       "icon": "https://tr.rbxcdn.com/180DAY-6d3e97895fc12b76189a78cbafd47fc4/512/512/Image/Png/noFilter",
-      "playing": 106567,
-      "visits": 5087813445,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 100609,
+      "visits": 5089869192,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "a-universal-time": {
       "placeId": 5130598377,
       "universeId": 1782832995,
       "name": "[🧙‍♀️🔮] A Universal Time 6.3",
       "icon": "https://tr.rbxcdn.com/180DAY-450410fdc3298e750bd4dec4bd17e64c/512/512/Image/Png/noFilter",
-      "playing": 2624,
-      "visits": 996406441,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 2598,
+      "visits": 996451304,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "peroxide": {
       "placeId": 9096881148,
       "universeId": 3419284255,
       "name": "Peroxide [🎃Halloween👻]",
       "icon": "https://tr.rbxcdn.com/180DAY-c6cb9a2737ab47ea4b802509680a2aa6/512/512/Image/Png/noFilter",
-      "playing": 4023,
-      "visits": 424373587,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 2610,
+      "visits": 424476271,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-adventures": {
       "placeId": 8304191830,
       "universeId": 3183403065,
       "name": "[🤹APRIL FOOL'S🤡] Anime Adventures",
       "icon": "https://tr.rbxcdn.com/180DAY-ceec97df50507c3436e05dfca16cd467/512/512/Image/Png/noFilter",
-      "playing": 44719,
-      "visits": 2542328689,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 47324,
+      "visits": 2543511768,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "gym-league": {
       "placeId": 17450551531,
       "universeId": 5972059550,
       "name": "[UPD 7] Gym League ",
       "icon": "https://tr.rbxcdn.com/180DAY-0b3baca6926369d09210fb8cfc18696f/512/512/Image/Png/noFilter",
-      "playing": 1187,
-      "visits": 834595894,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 1025,
+      "visits": 834636392,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "basketball-zero": {
       "placeId": 130739873848552,
       "universeId": 7028566528,
       "name": "[🎃HALLOWEEN] Basketball: Zero",
       "icon": "https://tr.rbxcdn.com/180DAY-a8ab70cefd8d46cca808c396a687f858/512/512/Image/Png/noFilter",
-      "playing": 10466,
-      "visits": 1167068927,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 7527,
+      "visits": 1167369394,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "volleyball-legends": {
       "placeId": 73956553001240,
       "universeId": 6931042565,
       "name": "[UPD] Volleyball Legends",
       "icon": "https://tr.rbxcdn.com/180DAY-3ae0a0c2e2bd0e7fc5372d08ce40a189/512/512/Image/Png/noFilter",
-      "playing": 59729,
-      "visits": 4069806379,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 44825,
+      "visits": 4071792008,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "ninja-time": {
       "placeId": 8075399143,
       "universeId": 3110388936,
       "name": "[ Autumn Event  + Immortal Clan 🎃 ] Ninja Time",
       "icon": "https://tr.rbxcdn.com/180DAY-9e832635cddea9072ab0c440fa831bc0/512/512/Image/Png/noFilter",
-      "playing": 1939,
-      "visits": 96701809,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 1599,
+      "visits": 96737811,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "99-nights-in-the-forest": {
       "placeId": 79546208627805,
       "universeId": 7326934954,
       "name": "99 Nights in the Forest 🔦",
       "icon": "https://tr.rbxcdn.com/180DAY-c162b715402c51fd948c6686d668456d/512/512/Image/Png/noFilter",
-      "playing": 138977,
-      "visits": 30354554638,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 225881,
+      "visits": 30360054001,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "driving-empire": {
       "placeId": 3351674303,
       "universeId": 1202096104,
       "name": "Driving Empire [🎃HALLOWEEN EVENT🎃]",
       "icon": "https://tr.rbxcdn.com/180DAY-e0e576fbd79469e1134c8d071b8479a6/512/512/Image/Png/noFilter",
-      "playing": 32314,
-      "visits": 3404952982,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 36071,
+      "visits": 3406077746,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "restaurant-tycoon-2": {
       "placeId": 3398014311,
       "universeId": 1214576306,
       "name": "Restaurant Tycoon 2",
       "icon": "https://tr.rbxcdn.com/180DAY-68fe1115430d39e2be8be57ee0a4ffe2/512/512/Image/Png/noFilter",
-      "playing": 926,
-      "visits": 1653528075,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 1621,
+      "visits": 1653557157,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "grow-a-garden-2": {
       "placeId": 97598239454123,
       "universeId": 10200395747,
       "name": "Grow a Garden 2",
       "icon": "https://tr.rbxcdn.com/180DAY-076fa0b396f5eac77ef9bb004dac1842/512/512/Image/Png/noFilter",
-      "playing": 1236,
-      "visits": 1680349083,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 1635,
+      "visits": 1680407431,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-fighting-simulator": {
       "placeId": 100429474155186,
       "universeId": 10321202755,
       "name": "[🌀 UPDATE 12] Anime Fighting Simulator",
       "icon": "https://tr.rbxcdn.com/180DAY-c7db140d4026ed8d187d516aecc9c447/512/512/Image/Png/noFilter",
-      "playing": 4974,
-      "visits": 57915221,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 4625,
+      "visits": 57954579,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "no-limit-lifting-simulator-2": {
       "placeId": 120901926752670,
@@ -268,206 +268,206 @@
       "name": "[🔥X60] 💪 No Limit Lifting Simulator 2",
       "icon": "https://tr.rbxcdn.com/180DAY-ea25701ffac45880e69f348edf31eb46/512/512/Image/Png/noFilter",
       "playing": 1,
-      "visits": 2673707,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "visits": 2673734,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "restaurant-tycoon-3": {
       "placeId": 119048529960596,
       "universeId": 7094518649,
       "name": "[🍬] Restaurant Tycoon 3",
       "icon": "https://tr.rbxcdn.com/180DAY-41e1003c116f2ed394709c2059d1a65d/512/512/Image/Png/noFilter",
-      "playing": 6075,
-      "visits": 387638671,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 7804,
+      "visits": 387766856,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "elemental-dungeon": {
       "placeId": 10515146389,
       "universeId": 3825332406,
       "name": "[🎃] Elemental Dungeons",
       "icon": "https://tr.rbxcdn.com/180DAY-4df58b9492fb347d2c5f9862e2f64779/512/512/Image/Png/noFilter",
-      "playing": 519,
-      "visits": 257918379,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 380,
+      "visits": 257959147,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "bloxstrike": {
       "placeId": 114234929420007,
       "universeId": 7633926880,
       "name": "[ZOMBIES!] BloxStrike",
       "icon": "https://tr.rbxcdn.com/180DAY-9848282ed9e744dcd0f62953fde267d0/512/512/Image/Png/noFilter",
-      "playing": 9908,
-      "visits": 325055805,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 19324,
+      "visits": 325492483,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-zero": {
       "placeId": 114574503491412,
       "universeId": 10512942223,
       "name": "Anime Zero [POTENTIAL 🌟]",
       "icon": "https://tr.rbxcdn.com/180DAY-520159a2dcb1958208cc271293440010/512/512/Image/Png/noFilter",
-      "playing": 2737,
-      "visits": 58948409,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 2873,
+      "visits": 59088849,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "prehistoric-farm": {
       "placeId": 139780970631001,
       "universeId": 10768944292,
       "name": "Prehistoric Farm [NEW WORLD 🎃]",
       "icon": "https://tr.rbxcdn.com/180DAY-5dbe41dc37d3e97955be0bd5baeb56c7/512/512/Image/Png/noFilter",
-      "playing": 511,
-      "visits": 7371543,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 521,
+      "visits": 7391464,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "vampire-life": {
       "placeId": 122287678911982,
       "universeId": 10764019529,
       "name": "Vampire life",
       "icon": "https://tr.rbxcdn.com/180DAY-577031814a6437d09311627dd0c5c42f/512/512/Image/Png/noFilter",
-      "playing": 2441,
-      "visits": 7393251,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 1607,
+      "visits": 7448686,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "deep-fishing": {
       "placeId": 132239307080610,
       "universeId": 10526853622,
-      "name": "[🎃] Deep Fishing🎣",
-      "icon": "https://tr.rbxcdn.com/180DAY-cef320aff5cae469ff39d5fcf38032a9/512/512/Image/Png/noFilter",
-      "playing": 4710,
-      "visits": 24241366,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "name": "[⏳] Deep Fishing🎣",
+      "icon": "https://tr.rbxcdn.com/180DAY-2503888c6c557387fc1d1092953029ed/512/512/Image/Png/noFilter",
+      "playing": 5366,
+      "visits": 24364054,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "dungeon-lootr": {
       "placeId": 106484206883664,
       "universeId": 9656201728,
       "name": "[🎃] Dungeon Lootr",
       "icon": "https://tr.rbxcdn.com/180DAY-534c0c6f261c1fcaa1cadd0e30a1a684/512/512/Image/Png/noFilter",
-      "playing": 196,
-      "visits": 33126333,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 187,
+      "visits": 33132631,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "fish-it": {
       "placeId": 121864768012064,
       "universeId": 6701277882,
-      "name": "[30 MINS] Fish It! 🐟",
-      "icon": "https://tr.rbxcdn.com/180DAY-bfd712d9424a3c7540f580d6b8e854a5/512/512/Image/Png/noFilter",
-      "playing": 66194,
-      "visits": 4809182467,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "name": "[👻UPD] Fish It! 🐟",
+      "icon": "https://tr.rbxcdn.com/180DAY-5ea76667d613e65e99edef13ef0d068b/512/512/Image/Png/noFilter",
+      "playing": 67994,
+      "visits": 4810081022,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "jujutsu-shenanigans": {
       "placeId": 9391468976,
       "universeId": 3508322461,
       "name": "[🎃] Jujutsu Shenanigans",
       "icon": "https://tr.rbxcdn.com/180DAY-d050b3c50d30c76d215accd60ddbb1c5/512/512/Image/Png/noFilter",
-      "playing": 121927,
-      "visits": 7836071448,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 95018,
+      "visits": 7839730988,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-dice": {
       "placeId": 113290951185459,
       "universeId": 10708913337,
       "name": "[🎃] Anime Dice",
       "icon": "https://tr.rbxcdn.com/180DAY-6eadd1cbe12feeb513bb90ce46070a07/512/512/Image/Png/noFilter",
-      "playing": 53699,
-      "visits": 153970581,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 54424,
+      "visits": 154753519,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "1-speed-keyboard-escape-candy-chocolate": {
       "placeId": 95082159892680,
       "universeId": 9584852943,
       "name": "[X50] +1 Speed Keyboard Escape | Candy & Chocolate",
       "icon": "https://tr.rbxcdn.com/180DAY-684bac19db4791e0cc50b2c2ece0fba6/512/512/Image/Png/noFilter",
-      "playing": 32559,
-      "visits": 6633917724,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 37672,
+      "visits": 6635975431,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "sol-s-rng": {
       "placeId": 15532962292,
       "universeId": 5361032378,
       "name": "Sol's RNG [ Halloween Event 🎃]",
       "icon": "https://tr.rbxcdn.com/180DAY-580bad59f2be64d4c624f96ab2a5630e/512/512/Image/Png/noFilter",
-      "playing": 41453,
-      "visits": 2263506666,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 61788,
+      "visits": 2264483552,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "the-strongest-battlegrounds": {
       "placeId": 10449761463,
       "universeId": 3808081382,
       "name": "The Strongest Battlegrounds",
       "icon": "https://tr.rbxcdn.com/180DAY-68c92fc62a8753793f7963e146b5197f/512/512/Image/Png/noFilter",
-      "playing": 68470,
-      "visits": 19546908104,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 70702,
+      "visits": 19550501951,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "drag-drive-simulator": {
       "placeId": 131378148336503,
       "universeId": 7089588429,
       "name": "(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator",
       "icon": "https://tr.rbxcdn.com/180DAY-90e8b83977f0f26a0e246241abaceeaa/512/512/Image/Png/noFilter",
-      "playing": 18750,
-      "visits": 670465969,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 18719,
+      "visits": 671499128,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "doors": {
       "placeId": 6516141723,
       "universeId": 2440500124,
       "name": "DOORS 🍬🍭",
       "icon": "https://tr.rbxcdn.com/180DAY-6d72472d3b2a47c5441194c8cf9f002c/512/512/Image/Png/noFilter",
-      "playing": 36285,
-      "visits": 7986376186,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 43426,
+      "visits": 7988022322,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "blockspin": {
       "placeId": 104715542330896,
       "universeId": 6765805766,
       "name": "BlockSpin 🔪 [HALLOWEEN UPDATE!]",
       "icon": "https://tr.rbxcdn.com/180DAY-3fa1cc9c917b841b5630adea21e87134/512/512/Image/Png/noFilter",
-      "playing": 22870,
-      "visits": 1322580020,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 19748,
+      "visits": 1323116499,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "sniper-arena": {
       "placeId": 122446657157717,
       "universeId": 9534705677,
       "name": "[🔥New Secret] Sniper Arena",
       "icon": "https://tr.rbxcdn.com/180DAY-668c3770197351a8c995f6dffede5dc1/512/512/Image/Png/noFilter",
-      "playing": 14216,
-      "visits": 352016703,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 19088,
+      "visits": 352715847,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "grand-piece-online": {
       "placeId": 1730877806,
       "universeId": 648454481,
       "name": "[🎃HALLOWEEN PT 3] Grand Piece Online",
       "icon": "https://tr.rbxcdn.com/180DAY-cf1c46ea9b63b7f1e22d3a50657fe01a/512/512/Image/Png/noFilter",
-      "playing": 15588,
-      "visits": 1342247920,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 13096,
+      "visits": 1342529309,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "hypershot": {
       "placeId": 17516596118,
       "universeId": 5995470825,
       "name": "[🔥UPD] Hypershot",
       "icon": "https://tr.rbxcdn.com/180DAY-1ea86b8367b8f98a32addaa9ad56e910/512/512/Image/Png/noFilter",
-      "playing": 24400,
-      "visits": 1400271512,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 25281,
+      "visits": 1401209303,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "berry-avenue-rp": {
       "placeId": 8481844229,
       "universeId": 3240075297,
       "name": "Berry Avenue 🏠 RP",
       "icon": "https://tr.rbxcdn.com/180DAY-96f3c9d176de9cbd5b68724db9bdd30e/512/512/Image/Png/noFilter",
-      "playing": 26505,
-      "visits": 8924795527,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 24578,
+      "visits": 8925720425,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "100-days-at-sea": {
       "placeId": 70411440483149,
       "universeId": 9167377564,
       "name": "100 Days at Sea [Halloween🎃]",
       "icon": "https://tr.rbxcdn.com/180DAY-39a46132e9e5bdeea6203ef8bc4bc325/512/512/Image/Png/noFilter",
-      "playing": 13397,
-      "visits": 417196244,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 22513,
+      "visits": 417842631,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-astral-simulator": {
       "placeId": 113236157544232,
@@ -476,250 +476,250 @@
       "icon": "https://tr.rbxcdn.com/180DAY-f796bdd235438983adda6e17491c0a1c/512/512/Image/Png/noFilter",
       "playing": 0,
       "visits": 53214559,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "attack-on-titan-revolution": {
       "placeId": 13379208636,
       "universeId": 4658598196,
       "name": "[UPDATE 5] Attack on Titan Revolution",
       "icon": "https://tr.rbxcdn.com/180DAY-71892f9fe174d45e8cd4a297144113ff/512/512/Image/Png/noFilter",
-      "playing": 54077,
-      "visits": 1181030377,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 41655,
+      "visits": 1182357282,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "squid-game-x": {
       "placeId": 7554888362,
       "universeId": 2936053166,
       "name": "[🎃] Squid Game X",
       "icon": "https://tr.rbxcdn.com/180DAY-334d65d70384d4b12926408dfd1fc3ad/512/512/Image/Png/noFilter",
-      "playing": 16816,
-      "visits": 2341214051,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 20506,
+      "visits": 2342226963,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "creatures-of-sonaria-survive-kaiju-animals": {
       "placeId": 5233782396,
       "universeId": 1831550657,
       "name": "🎃 Creatures of Sonaria 🍬 Survive Kaiju Animals",
       "icon": "https://tr.rbxcdn.com/180DAY-6a9a2b714e50bd1372081687aaf49504/512/512/Image/Png/noFilter",
-      "playing": 21135,
-      "visits": 2283940154,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 18673,
+      "visits": 2284394387,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "duck-duck": {
       "placeId": 135486323963203,
       "universeId": 9825259729,
       "name": "Duck Duck (Tag) 🦆",
       "icon": "https://tr.rbxcdn.com/180DAY-f40df0c91af00d60c88137658886fca8/512/512/Image/Png/noFilter",
-      "playing": 1212,
-      "visits": 37249053,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 1285,
+      "visits": 37316484,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "my-avatar": {
       "placeId": 75387700043737,
       "universeId": 7554119808,
       "name": "🛍️ My Avatar!",
       "icon": "https://tr.rbxcdn.com/180DAY-6456e2461fc537a77f35c225493137b9/512/512/Image/Png/noFilter",
-      "playing": 21206,
-      "visits": 490748538,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 14824,
+      "visits": 491487482,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "untitled-boxing-game": {
       "placeId": 13621938427,
       "universeId": 4730278139,
-      "name": "[AKUMA] untitled boxing game🥊",
+      "name": "[🎃AKUMA] untitled boxing game🥊",
       "icon": "https://tr.rbxcdn.com/180DAY-7ba60f5663e5223b3a00b6d7885b5392/512/512/Image/Png/noFilter",
-      "playing": 10369,
-      "visits": 1490058590,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 14006,
+      "visits": 1490641326,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "build-a-boat-for-treasure": {
       "placeId": 537413528,
       "universeId": 210851291,
       "name": "Build A Boat For Treasure",
       "icon": "https://tr.rbxcdn.com/180DAY-88172459d6aec8bf28e99556fc0562a8/512/512/Image/Png/noFilter",
-      "playing": 9633,
-      "visits": 5245097943,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 12987,
+      "visits": 5245382246,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "knife-duels": {
       "placeId": 112731528776884,
       "universeId": 9641502068,
       "name": "[🎃] KNIFE DUELS",
       "icon": "https://tr.rbxcdn.com/180DAY-1ceb1cbc90b26fa5f58053cbe3d1de8c/512/512/Image/Png/noFilter",
-      "playing": 6277,
-      "visits": 159581986,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 11640,
+      "visits": 160015910,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "murder-duels": {
       "placeId": 120851538706364,
       "universeId": 9561553764,
       "name": "[🎃] Murder Duels",
       "icon": "https://tr.rbxcdn.com/180DAY-382d94c75f72a17dbef41b4a2055adf1/512/512/Image/Png/noFilter",
-      "playing": 9701,
-      "visits": 315145844,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 11085,
+      "visits": 315714599,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "wanted": {
       "placeId": 14438406081,
       "universeId": 4987856151,
       "name": "Wanted [🎃UPDATE]",
       "icon": "https://tr.rbxcdn.com/180DAY-5d3a45b25b6b5c85f0fc21443a17649a/512/512/Image/Png/noFilter",
-      "playing": 4822,
-      "visits": 143861805,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 7438,
+      "visits": 144037597,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "tower-defense-simulator": {
       "placeId": 3260590327,
       "universeId": 1176784616,
       "name": "[🌙 NIGHT 4] Tower Defense Simulator",
       "icon": "https://tr.rbxcdn.com/180DAY-20c4893c1207c8d4a1af33f35690cf66/512/512/Image/Png/noFilter",
-      "playing": 26860,
-      "visits": 5053835710,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 30880,
+      "visits": 5054840447,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "runaways": {
       "placeId": 118418618261207,
       "universeId": 7585140258,
       "name": "RUNAWAYS [beta]",
       "icon": "https://tr.rbxcdn.com/180DAY-465d7338e08776fd15843a2d8dcf23a3/512/512/Image/Png/noFilter",
-      "playing": 6650,
-      "visits": 172301802,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 5369,
+      "visits": 172557242,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "my-anime-mine": {
       "placeId": 79389059854988,
       "universeId": 10740316645,
       "name": "[⌛NOW!!!] ⛏️ My Anime Mine",
       "icon": "https://tr.rbxcdn.com/180DAY-52907d446bfe92abb6ac7bc7e89ce17c/512/512/Image/Png/noFilter",
-      "playing": 15146,
-      "visits": 23705813,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 14900,
+      "visits": 24020178,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "mini-war": {
       "placeId": 131346454575416,
       "universeId": 9837612476,
       "name": "[🎃] Mini War",
       "icon": "https://tr.rbxcdn.com/180DAY-71e2dd6d4495896fccd08ea8b873f1e4/512/512/Image/Png/noFilter",
-      "playing": 12007,
-      "visits": 366346001,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 12539,
+      "visits": 366554057,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "gacha-online-rp": {
       "placeId": 5289509545,
       "universeId": 1852226622,
       "name": "Gacha Online 🎃 RP",
       "icon": "https://tr.rbxcdn.com/180DAY-b0716f49716d1c9cc4d29c85b233c5c8/512/512/Image/Png/noFilter",
-      "playing": 11198,
-      "visits": 3017764743,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 11817,
+      "visits": 3017998384,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "run-a-restaurant": {
       "placeId": 77843161404023,
       "universeId": 9970645639,
       "name": "Run a Restaurant!",
       "icon": "https://tr.rbxcdn.com/180DAY-fd9dd4483121b09eb66eb144a6b2ab3e/512/512/Image/Png/noFilter",
-      "playing": 5258,
-      "visits": 134106644,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 5802,
+      "visits": 134202918,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "ghost-driver": {
       "placeId": 137228775845999,
       "universeId": 10173311467,
       "name": "[🎃HALLOWEEN EVENT] Ghost Driver",
       "icon": "https://tr.rbxcdn.com/180DAY-eece318b19ab4f4a0319ca2b8f8d3d8b/512/512/Image/Png/noFilter",
-      "playing": 8300,
-      "visits": 123525914,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 7880,
+      "visits": 123839113,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "dragon-adventures": {
       "placeId": 3475397644,
       "universeId": 1235188606,
       "name": "[🎃] Dragon Adventures 🐉",
       "icon": "https://tr.rbxcdn.com/180DAY-5a37c2466b27891b717d1e976b5235cd/512/512/Image/Png/noFilter",
-      "playing": 7380,
-      "visits": 1746263688,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 8058,
+      "visits": 1746458026,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "dueling-grounds": {
       "placeId": 94217045453265,
       "universeId": 9051406594,
       "name": "[EVENT🎃] Dueling Grounds ⚔️ ",
       "icon": "https://tr.rbxcdn.com/180DAY-3ead4511cc5ab659cb30932afd653be3/512/512/Image/Png/noFilter",
-      "playing": 8295,
-      "visits": 442068549,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 8944,
+      "visits": 442682230,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "war-tycoon": {
       "placeId": 4639625707,
       "universeId": 1526814825,
       "name": "[Blackhawk DAP] War Tycoon",
       "icon": "https://tr.rbxcdn.com/180DAY-a3cb5dd1a302ee5099ba7d698ac75cb1/512/512/Image/Png/noFilter",
-      "playing": 6050,
-      "visits": 1138462338,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 8046,
+      "visits": 1138626633,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "blox-fruits": {
       "placeId": 2753915549,
       "universeId": 994732206,
       "name": "[🎃] Blox Fruits",
       "icon": "https://tr.rbxcdn.com/180DAY-8c9483d381a2da30608e6b1bce490bef/512/512/Image/Png/noFilter",
-      "playing": 262134,
-      "visits": 65181335559,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 304238,
+      "visits": 65190224641,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "dress-to-impress": {
       "placeId": 15101393044,
       "universeId": 5203828273,
       "name": "[🎃 NEW QUEST] Dress To Impress",
       "icon": "https://tr.rbxcdn.com/180DAY-8d03ef782a1853f07083bdfb92425d04/512/512/Image/Png/noFilter",
-      "playing": 52352,
-      "visits": 11279089042,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 58220,
+      "visits": 11280621349,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "adopt-me": {
       "placeId": 920587237,
       "universeId": 383310974,
       "name": "[1.2X🎃] Adopt Me!",
       "icon": "https://tr.rbxcdn.com/180DAY-e37fa2bc895ad96f27cf7c7d0fe94f2c/512/512/Image/Png/noFilter",
-      "playing": 180826,
-      "visits": 45280869492,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 200210,
+      "visits": 45283726252,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "type-soul": {
       "placeId": 14067600077,
       "universeId": 4871329703,
       "name": "TYPE://SOUL",
       "icon": "https://tr.rbxcdn.com/180DAY-95cec754219956ebd33e5bdf165145df/512/512/Image/Png/noFilter",
-      "playing": 72,
-      "visits": 819257057,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 51,
+      "visits": 819259996,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "blue-lock-rivals": {
       "placeId": 18668065416,
       "universeId": 6325068386,
       "name": "[ZENTETSU⚡] Blue Lock: Rivals",
       "icon": "https://tr.rbxcdn.com/180DAY-02000a7b239b02b0e37ed8cd34aa5664/512/512/Image/Png/noFilter",
-      "playing": 22394,
-      "visits": 5023004306,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 13859,
+      "visits": 5023642740,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "steal-a-brainrot": {
       "placeId": 109983668079237,
       "universeId": 7709344486,
       "name": "[💀] Steal a Brainrot",
       "icon": "https://tr.rbxcdn.com/180DAY-3ac8bc815065c53cd8aa417f9a78d896/512/512/Image/Png/noFilter",
-      "playing": 175595,
-      "visits": 74288730219,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 120660,
+      "visits": 74294223041,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "rivals": {
       "placeId": 17625359962,
       "universeId": 6035872082,
       "name": "[🎃] RIVALS",
-      "icon": "https://tr.rbxcdn.com/180DAY-1912e777e949b6490e59fa4ac83b1063/512/512/Image/Png/noFilter",
-      "playing": 172734,
-      "visits": 19074910524,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "icon": "https://tr.rbxcdn.com/180DAY-803b10967bcf106364e5d475685d8545/512/512/Image/Png/noFilter",
+      "playing": 241765,
+      "visits": 19082937452,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "murder-mystery-v": {
       "placeId": 77782329753446,
@@ -727,179 +727,179 @@
       "name": "🎯 Murder Mystery PVP",
       "icon": "https://tr.rbxcdn.com/180DAY-dcebdd1e67382820c686695c03890106/512/512/Image/Png/noFilter",
       "playing": 0,
-      "visits": 46511,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "visits": 46515,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "slayers-2": {
       "placeId": 16205713724,
       "universeId": 5595353122,
       "name": "Slayers 2",
       "icon": "https://tr.rbxcdn.com/180DAY-8f6e03e81105f9c8f310b91758896236/512/512/Image/Png/noFilter",
-      "playing": 12457,
-      "visits": 148013127,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 9833,
+      "visits": 148207435,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "drill-to-earths-core": {
       "placeId": 101906032112547,
       "universeId": 9796898051,
       "name": "Drill to Earth’s Core 🎃👻",
       "icon": "https://tr.rbxcdn.com/180DAY-a46ae9b120a196f10f52faa76c9a638e/512/512/Image/Png/noFilter",
-      "playing": 12106,
-      "visits": 87843806,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 17486,
+      "visits": 88167889,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-mysterious": {
       "placeId": 117949143041402,
       "universeId": 10116272705,
       "name": "[ 🌌 UPDATE 1 ] Anime Mysterious",
       "icon": "https://tr.rbxcdn.com/180DAY-84bf0594c6d1f909fb75373d07ceb02b/512/512/Image/Png/noFilter",
-      "playing": 6974,
-      "visits": 9787494,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 6744,
+      "visits": 9843234,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "survive-a-million-monkeys": {
       "placeId": 99409088950210,
       "universeId": 10673920146,
       "name": "[🎃] Survive a Million Monkeys",
-      "icon": "https://tr.rbxcdn.com/180DAY-c82865044f6d29017321f75425078113/512/512/Image/Png/noFilter",
-      "playing": 21320,
-      "visits": 51307866,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "icon": "https://tr.rbxcdn.com/180DAY-5b6804fc9b07b24f9f3cd30d394b2802/512/512/Image/Png/noFilter",
+      "playing": 13755,
+      "visits": 52029420,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "dandy-s-world": {
       "placeId": 16116270224,
       "universeId": 5569032992,
       "name": "🎃 Dandy's World [ALPHA]",
       "icon": "https://tr.rbxcdn.com/180DAY-888663d5087991ea655a35df6a515ac5/512/512/Image/Png/noFilter",
-      "playing": 89123,
-      "visits": 7842897114,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 80870,
+      "visits": 7846066266,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "1-loot-to-forge": {
       "placeId": 118805555015549,
       "universeId": 10684750879,
       "name": "[🎃]+1 Loot To Forge",
       "icon": "https://tr.rbxcdn.com/180DAY-933c3d4689bb61d220d3d862135f8637/512/512/Image/Png/noFilter",
-      "playing": 5252,
-      "visits": 94838437,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 6191,
+      "visits": 94996376,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "evade": {
       "placeId": 9872472334,
       "universeId": 3647333358,
       "name": "[🎃THE HOLLOW🎃] Evade ",
       "icon": "https://tr.rbxcdn.com/180DAY-803bd030696935919469e70d06501605/512/512/Image/Png/noFilter",
-      "playing": 56159,
-      "visits": 9414031304,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 72614,
+      "visits": 9416571575,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "ball-vs-ball": {
       "placeId": 96510596525082,
       "universeId": 10685282333,
       "name": "Ball VS Ball [RANKED]",
       "icon": "https://tr.rbxcdn.com/180DAY-6e1d49b37b44e3e4de7f5d2a2a7dc4dd/512/512/Image/Png/noFilter",
-      "playing": 19862,
-      "visits": 178625077,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 26033,
+      "visits": 179797691,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "build-an-ant-empire": {
       "placeId": 78490532994307,
       "universeId": 10436530264,
       "name": "Build An Ant Empire",
       "icon": "https://tr.rbxcdn.com/180DAY-b932845712769a0035502aa5af68ac5f/512/512/Image/Png/noFilter",
-      "playing": 4476,
-      "visits": 30517436,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 5058,
+      "visits": 30629658,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "command-an-army": {
       "placeId": 101770480176177,
       "universeId": 10258991999,
       "name": "[🎃EVENT] Command An Army",
       "icon": "https://tr.rbxcdn.com/180DAY-97aa00e2d5d33d82f9bc970c7ae16f25/512/512/Image/Png/noFilter",
-      "playing": 19708,
-      "visits": 84180685,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 21960,
+      "visits": 84656113,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-breaker": {
       "placeId": 109928390521457,
       "universeId": 10675117523,
       "name": "[🎃PART 3] Anime Breaker",
       "icon": "https://tr.rbxcdn.com/180DAY-5f006af55df05a3a51f65e768af728d5/512/512/Image/Png/noFilter",
-      "playing": 6649,
-      "visits": 25508205,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 6299,
+      "visits": 25616725,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "build-the-pyramid": {
       "placeId": 123720558354386,
       "universeId": 10765012427,
       "name": "[Pt. 2 🎃] Build the Pyramid!",
       "icon": "https://tr.rbxcdn.com/180DAY-a7af722fd672a643cc6419d6b1f97ec6/512/512/Image/Png/noFilter",
-      "playing": 2527,
-      "visits": 52633192,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 3005,
+      "visits": 52709136,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "search-for-the-needle": {
       "placeId": 77108422251420,
       "universeId": 10756011174,
       "name": "[CHAPTER 5] Search For The Needle",
       "icon": "https://tr.rbxcdn.com/180DAY-7221e2a94a62047d64835cc75eb8a29e/512/512/Image/Png/noFilter",
-      "playing": 4489,
-      "visits": 120622913,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 5350,
+      "visits": 120776274,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "blue-lock-farm": {
       "placeId": 132767904294856,
       "universeId": 10700618962,
       "name": "[🎃] Blue Lock Farm",
       "icon": "https://tr.rbxcdn.com/180DAY-f6f94dc143b56de69819be61af005ee3/512/512/Image/Png/noFilter",
-      "playing": 8436,
-      "visits": 31831780,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 7576,
+      "visits": 32082583,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "roll-a-fisherman": {
       "placeId": 90920025162454,
       "universeId": 10636331438,
       "name": "[🎃SPOOKY] Roll a Fisherman 🎣",
       "icon": "https://tr.rbxcdn.com/180DAY-f182c953283994df87282b22682c9f39/512/512/Image/Png/noFilter",
-      "playing": 1007,
-      "visits": 16169301,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 998,
+      "visits": 16191460,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "fishing-master": {
       "placeId": 99925503388128,
       "universeId": 10039889230,
       "name": "[UDP2] Fishing Master",
       "icon": "https://tr.rbxcdn.com/180DAY-d3734c2b52d9fdfbdfe45194a8e64839/512/512/Image/Png/noFilter",
-      "playing": 1106,
-      "visits": 9003911,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 1390,
+      "visits": 9045396,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "anime-expeditions": {
       "placeId": 84515722934860,
       "universeId": 7613921865,
       "name": "[🌙] Anime Expeditions ",
       "icon": "https://tr.rbxcdn.com/180DAY-990e5b78c02b0138b3af1a77d2dfe8a2/512/512/Image/Png/noFilter",
-      "playing": 3462,
-      "visits": 809729012,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 3952,
+      "visits": 809878031,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "legacy-piece": {
       "placeId": 111097829542198,
       "universeId": 9880286438,
       "name": "Legacy Piece [🎃Castorice & Aizen]",
       "icon": "https://tr.rbxcdn.com/180DAY-f321dba75f7afa6024579fe90e48ab58/512/512/Image/Png/noFilter",
-      "playing": 4485,
-      "visits": 34167073,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 4598,
+      "visits": 34252580,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     },
     "karinderya": {
       "placeId": 116497287371701,
       "universeId": 10648820673,
       "name": "[🍲] Karinderya!",
       "icon": "https://tr.rbxcdn.com/180DAY-f8727793f504c714604a7eb5880a687f/512/512/Image/Png/noFilter",
-      "playing": 11851,
-      "visits": 89301351,
-      "fetchedAt": "2026-11-01T00:35:12.716Z"
+      "playing": 10565,
+      "visits": 89608659,
+      "fetchedAt": "2026-11-01T08:37:49.526Z"
     }
   }
 }
